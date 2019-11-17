@@ -1,0 +1,224 @@
+	SNP	Disease	Group	REGION	CHR_ID	CHR_POS	PleioType
+0	rs3019885	Lung cancer	neoplasm	8q24.11	8	117013406.0	Agonistic
+1	rs907092	Primary biliary cholangitis	neoplasm	17q12	17	39766006.0	Antagonistic
+2	rs6010620	Glioma	neoplasm	20q13.33	20	63678486.0	Agonistic
+3	rs1126809	Basal cell carcinoma	neoplasm	11q14.3	11	89284793.0	Antagonistic
+4	rs12203592	Basal cell carcinoma	neoplasm	6p25.3	6	396321.0	Antagonistic
+5	rs1805007	Basal cell carcinoma	neoplasm	16q24.3	16	89919709.0	Agonistic
+6	rs35407	Basal cell carcinoma	neoplasm	5p13.2	5	33946466.0	Agonistic
+7	rs401681	Basal cell carcinoma	neoplasm	5p15.33	5	1321972.0	Antagonistic
+8	rs6059655	Basal cell carcinoma	neoplasm	20q11.22	20	34077942.0	Antagonistic
+9	rs78378222	Basal cell carcinoma	neoplasm	17p13.1	17	7668434.0	Agonistic
+10	rs10936599	Bladder cancer	neoplasm	3q26.2	3	169774313.0	Antagonistic
+11	rs2294008	Bladder cancer	neoplasm	8q24.3	8	142680513.0	Antagonistic
+12	rs710521	Bladder cancer	neoplasm	3q28	3	189928144.0	Agonistic
+13	rs798766	Bladder cancer	neoplasm	4p16.3	4	1732512.0	Agonistic
+14	rs907611	Bladder cancer	neoplasm	11p15.5	11	1852842.0	Agonistic
+15	rs9642880	Bladder cancer	neoplasm	8q24.21	8	127705823.0	Agonistic
+16	rs10069690	Breast cancer	neoplasm	5p15.33	5	1279675.0	Agonistic
+17	rs1011970	Breast cancer	neoplasm	9p21.3	9	22062135.0	Agonistic
+18	rs10771399	Breast cancer	neoplasm	12p11.22	12	28002147.0	Antagonistic
+19	rs11076805	Breast cancer	neoplasm	16p13.3	16	4056787.0	Agonistic
+20	rs113701136	Breast cancer	neoplasm	19q12	19	29786822.0	Agonistic
+21	rs11374964	Breast cancer	neoplasm	11q22.3	11	108474789.0	Agonistic
+22	rs11627032	Breast cancer	neoplasm	14q32.12	14	92637727.0	Agonistic
+23	rs11820646	Breast cancer	neoplasm	11q24.3	11	129591276.0	Agonistic
+24	rs12710696	Breast cancer	neoplasm	2p24.1	2	19121042.0	Agonistic
+25	rs13074711	Breast cancer	neoplasm	3q26.31	3	172550013.0	Agonistic
+26	rs13281615	Breast cancer	neoplasm	8q24.21	8	127343372.0	Agonistic
+27	rs13365225	Breast cancer	neoplasm	8p11.23	8	37000965.0	Agonistic
+28	rs1432679	Breast cancer	neoplasm	5q33.3	5	158817075.0	Agonistic
+29	rs16857609	Breast cancer	neoplasm	2q35	2	217431785.0	Agonistic
+30	rs17350191	Breast cancer	neoplasm	8q24.13	8	123745421.0	Agonistic
+31	rs17356907	Breast cancer	neoplasm	12q22	12	95633983.0	Agonistic
+32	rs17529111	Breast cancer	neoplasm	6q14.1	6	81418669.0	Agonistic
+33	rs17817449	Breast cancer	neoplasm	16q12.2	16	53779455.0	Agonistic
+34	rs17879961	Breast cancer	neoplasm	22q12.1	22	28725099.0	Antagonistic
+35	rs2363956	Breast cancer	neoplasm	19p13.11	19	17283315.0	Antagonistic
+36	rs2943559	Breast cancer	neoplasm	8q21.13	8	75505702.0	Agonistic
+37	rs2981579	Breast cancer	neoplasm	10q26.13	10	121577821.0	Agonistic
+38	rs36194942	Breast cancer	neoplasm	18q12.1	18	27821241.0	Agonistic
+39	rs3757318	Breast cancer	neoplasm	6q25.1	6	151592978.0	Agonistic
+40	rs3760982	Breast cancer	neoplasm	19q13.31	19	43782361.0	Agonistic
+41	rs4784227	Breast cancer	neoplasm	16q12.1	16	52565276.0	Agonistic
+42	rs4808801	Breast cancer	neoplasm	19p13.11	19	18460331.0	Agonistic
+43	rs4849887	Breast cancer	neoplasm	2q14.2	2	120487546.0	Agonistic
+44	rs6001930	Breast cancer	neoplasm	22q13.1	22	40480230.0	Agonistic
+45	rs616488	Breast cancer	neoplasm	1p36.22	1	10506158.0	Agonistic
+46	rs6569648	Breast cancer	neoplasm	6q23.1	6	130027974.0	Agonistic
+47	rs66823261	Breast cancer	neoplasm	8p23.3	8	220692.0	Agonistic
+48	rs7107217	Breast cancer	neoplasm	11q24.3	11	129603795.0	Agonistic
+49	rs74911261	Breast cancer	neoplasm	11q22.3	11	108486410.0	Antagonistic
+50	rs7904519	Breast cancer	neoplasm	10q25.2	10	113014168.0	Agonistic
+51	rs8170	Breast cancer	neoplasm	19p13.11	19	17278895.0	Agonistic
+52	rs999737	Breast cancer	neoplasm	14q24.1	14	68567965.0	Agonistic
+53	rs4245739	Breast cancer	neoplasm	1q32.1	1	204549714.0	Antagonistic
+54	rs10074991	Gastric cancer	neoplasm	5p13.1	5	40790449.0	Agonistic
+55	rs140081212	Gastric cancer	neoplasm	1q22	1	155215184.0	Agonistic
+56	rs13361707	Gastric cancer	neoplasm	5p13.1	5	40791782.0	Agonistic
+57	rs2294693	Gastric cancer	neoplasm	6p21.1	6	41037763.0	Agonistic
+58	rs4072037	Gastric cancer	neoplasm	1q22	1	155192276.0	Agonistic
+59	rs3184504	Endometrial cancer	neoplasm	12q24.12	12	111446804.0	Antagonistic
+60	rs6974491	Primary biliary cholangitis	neoplasm	7p14.1	7	37334906.0	Agonistic
+61	rs8067378	Cervical cancer	neoplasm	17q21.1	17	39895095.0	Agonistic
+62	rs2395185	Lung cancer	neoplasm	6p21.32	6	32465390.0	Antagonistic
+63	rs10028805	Chronic lymphocytic leukemia	neoplasm	4q24	4	101816093.0	Agonistic
+64	rs139996880	Chronic lymphocytic leukemia	neoplasm	5p15.33	5	1284538.0	Agonistic
+65	rs140522	Chronic lymphocytic leukemia	neoplasm	22q13.33	22	50532837.0	Agonistic
+66	rs735665	Chronic lymphocytic leukemia	neoplasm	11q24.1	11	123490689.0	Agonistic
+67	rs7705526	Chronic lymphocytic leukemia	neoplasm	5p15.33	5	1285859.0	Agonistic
+68	rs9880772	Chronic lymphocytic leukemia	neoplasm	3p24.1	3	27736288.0	Agonistic
+69	rs2076295	Idiopathic pulmonary fibrosis	neoplasm	6p24.3	6	7562999.0	Antagonistic
+70	rs8034191	Lung cancer	neoplasm	15q25.1	15	78513681.0	Agonistic
+71	rs56848936	Colon cancer	neoplasm	19q13.32	19	45818249.0	Agonistic
+72	rs10505477	Prostate cancer	neoplasm	8q24.21	8	127395198.0	Agonistic
+73	rs6983267	Prostate cancer	neoplasm	8q24.21	8	127401060.0	Agonistic
+74	rs11066015	Esophageal cancer	neoplasm	12q24.12	12	111730205.0	Agonistic
+75	rs11066280	Esophageal cancer	neoplasm	12q24.13	12	112379979.0	Agonistic
+76	rs671	Esophageal cancer	neoplasm	12q24.12	12	111803962.0	Antagonistic
+77	rs17391694	Lung cancer	neoplasm	1p31.1	1	78157942.0	Antagonistic
+78	rs2476601	Hodgkin's lymphoma	neoplasm	1p13.2	1	113834946.0	Antagonistic
+79	rs694739	Primary biliary cholangitis	neoplasm	11q13.1	11	64329761.0	Agonistic
+80	rs11175834	Papillary thyroid cancer	neoplasm	12q14.3	12	65598856.0	Agonistic
+81	rs1874564	Papillary thyroid cancer	neoplasm	4q21.1	4	76936952.0	Agonistic
+82	rs34081947	Papillary thyroid cancer	neoplasm	14q13.2	14	36090325.0	Agonistic
+83	rs4649295	Papillary thyroid cancer	neoplasm	1q42.2	1	233280792.0	Agonistic
+84	rs4915076	Papillary thyroid cancer	neoplasm	1p13.3	1	107816883.0	Agonistic
+85	rs6996585	Papillary thyroid cancer	neoplasm	8p12	8	32543285.0	Agonistic
+86	rs72753537	Papillary thyroid cancer	neoplasm	9q22.33	9	97898464.0	Agonistic
+87	rs9858271	Papillary thyroid cancer	neoplasm	3p14.2	3	59559604.0	Agonistic
+88	rs7902587	Lung cancer	neoplasm	10q24.33	10	103934543.0	Agonistic
+89	rs10488631	Primary biliary cholangitis	neoplasm	7q32.1	7	128954129.0	Agonistic
+90	rs7574865	Primary biliary cholangitis	neoplasm	2q32.2	2	191099907.0	Agonistic
+91	rs505922	Pancreatic cancer	neoplasm				Antagonistic
+92	rs11263763	Endometrial cancer	neoplasm	17q12	17	37743574.0	Agonistic
+93	rs11841589	Endometrial cancer	neoplasm	13q22.1	13	73240754.0	Agonistic
+94	rs13328298	Endometrial cancer	neoplasm	6q22.31	6	125695434.0	Agonistic
+95	rs2414098	Endometrial cancer	neoplasm	15q21.2	15	51245609.0	Agonistic
+96	rs2498796	Endometrial cancer	neoplasm	14q32.33	14	104776883.0	Agonistic
+97	rs4430796	Endometrial cancer	neoplasm	17q12	17	37738049.0	Antagonistic
+98	rs937213	Endometrial cancer	neoplasm	15q15.1	15	40029923.0	Agonistic
+99	rs10088218	Epithelial ovarian cancer	neoplasm	8q24.21	8	128531703.0	Antagonistic
+100	rs2072590	Epithelial ovarian cancer	neoplasm	2q31.1	2	176177905.0	Agonistic
+101	rs3814113	Epithelial ovarian cancer	neoplasm	9p22.2	9	16915023.0	Antagonistic
+102	rs757210	Epithelial ovarian cancer	neoplasm	17q12	17	37736525.0	Antagonistic
+103	rs9303542	Epithelial ovarian cancer	neoplasm	17q21.32	17	48334138.0	Agonistic
+104	rs10052657	Esophageal cancer	neoplasm	5q11.2	5	59111944.0	Agonistic
+105	rs1229984	Esophageal cancer	neoplasm	4q23	4	99318162.0	Agonistic
+106	rs2014300	Esophageal cancer	neoplasm	21q22.12	21	34985564.0	Agonistic
+107	rs2274223	Esophageal cancer	neoplasm	10q23.33	10	94306584.0	Agonistic
+108	rs2239815	Esophageal cancer (squamous cell)	neoplasm	22q12.1	22	28796682.0	Agonistic
+109	rs13016963	Esophageal cancer (squamous cell)	neoplasm	2q33.1	2	201298088.0	Agonistic
+110	rs2647012	Follicular lymphoma	neoplasm	6p21.32	6	32696681.0	Antagonistic
+111	rs4937362	Follicular lymphoma	neoplasm	11q24.3	11	128622844.0	Agonistic
+112	rs4977756	Glioma	neoplasm	9p21.3	9	22068653.0	Antagonistic
+113	rs10852606	Glioblastoma	neoplasm	16q12.1	16	50094961.0	Agonistic
+114	rs11233250	Glioblastoma	neoplasm	11q14.1	11	82685972.0	Agonistic
+115	rs11979158	Glioblastoma	neoplasm	7p11.2	7	55091656.0	Agonistic
+116	rs12752552	Glioblastoma	neoplasm	1p31.3	1	64763616.0	Agonistic
+117	rs2235573	Glioblastoma	neoplasm	22q13.1	22	38081923.0	Agonistic
+118	rs2297440	Glioblastoma	neoplasm	20q13.33	20	63680946.0	Agonistic
+119	rs35850753	Glioblastoma	neoplasm	17p13.1	17	7675353.0	Agonistic
+120	rs3751667	Glioblastoma	neoplasm	16p13.3	16	954554.0	Agonistic
+121	rs3851634	Glioblastoma	neoplasm	12q23.3	12	106419124.0	Agonistic
+122	rs55705857	Glioblastoma	neoplasm	8q24.21	8	129633446.0	Agonistic
+123	rs59060240	Glioblastoma	neoplasm	7p11.2	7	55080382.0	Agonistic
+124	rs634537	Glioblastoma	neoplasm	9p21.3	9	22032153.0	Agonistic
+125	rs75061358	Glioblastoma	neoplasm	7p11.2	7	54848587.0	Agonistic
+126	rs2736100	Glioma	neoplasm	5p15.33	5	1286401.0	Antagonistic
+127	rs9275572	Hepatocellular carcinoma	neoplasm	6p21.32	6	32711222.0	Agonistic
+128	rs2019960	Hodgkin's lymphoma	neoplasm	8q24.21	8	128180025.0	Agonistic
+129	rs2425752	Hodgkin's lymphoma	neoplasm	20q13.12	20	46073481.0	Agonistic
+130	rs34972832	Hodgkin's lymphoma	neoplasm	16p13.13	16	11105081.0	Agonistic
+131	rs3781093	Hodgkin's lymphoma	neoplasm	10p14	10	8059964.0	Agonistic
+132	rs3806624	Hodgkin's lymphoma	neoplasm	3p24.1	3	27723132.0	Agonistic
+133	rs4459895	Hodgkin's lymphoma	neoplasm	3q28	3	188236626.0	Agonistic
+134	rs6928977	Hodgkin's lymphoma	neoplasm	6q23.3	6	135305210.0	Agonistic
+135	rs9482849	Hodgkin's lymphoma	neoplasm	6q22.33	6	127967391.0	Agonistic
+136	rs4487645	Multiple myeloma	neoplasm	7p15.3	7	21898622.0	Agonistic
+137	rs1333040	Squamous cell carcinoma	neoplasm	9p21.3	9	22083405.0	Antagonistic
+138	rs538147	Primary biliary cholangitis	neoplasm	11q13.1	11	64362250.0	Antagonistic
+139	rs1039766	Lung cancer	neoplasm	2p14	2	65293011.0	Agonistic
+140	rs1051730	Lung cancer	neoplasm	15q25.1	15	78601997.0	Agonistic
+141	rs11639372	Lung cancer	neoplasm	15q25.1	15	78674313.0	Agonistic
+142	rs13080835	Lung cancer	neoplasm	3q28	3	189639410.0	Agonistic
+143	rs138488080	Lung cancer	neoplasm	6p22.1	6	29638984.0	Antagonistic
+144	rs17181550	Lung cancer	neoplasm	17q24.3	17	72303817.0	Agonistic
+145	rs28408315	Lung cancer	neoplasm	15q25.1	15	78892838.0	Agonistic
+146	rs2853677	Lung cancer	neoplasm	5p15.33	5	1287079.0	Agonistic
+147	rs3117582	Lung cancer	neoplasm	6p21.33	6	31652743.0	Agonistic
+148	rs34517439	Lung cancer	neoplasm	1p31.1	1	77984833.0	Agonistic
+149	rs35535570	Lung cancer	neoplasm	1p31.1	1	77794071.0	Agonistic
+150	rs55864010	Lung cancer	neoplasm	2p14	2	67474157.0	Agonistic
+151	rs56113850	Lung cancer	neoplasm	19q13.2	19	40847202.0	Agonistic
+152	rs62560775	Lung cancer	neoplasm	9p21.3	9	22052069.0	Agonistic
+153	rs66500423	Lung cancer	neoplasm	19q13.2	19	40689265.0	Agonistic
+154	rs681343	Lung cancer	neoplasm	19q13.33	19	48703205.0	Agonistic
+155	rs71641308	Lung cancer	neoplasm	1p31.1	1	77621033.0	Agonistic
+156	rs7169304	Lung cancer	neoplasm	15q21.1	15	49186829.0	Agonistic
+157	rs7216064	Lung cancer	neoplasm	17q24.2	17	67902693.0	Agonistic
+158	rs77468143	Lung cancer	neoplasm	15q21.1	15	49084427.0	Agonistic
+159	rs116418332	Lung cancer	neoplasm	6p22.1	6	30193759.0	Agonistic
+160	rs116480994	Lung cancer	neoplasm	6p22.1	6	30064745.0	Agonistic
+161	rs116822326	Lung cancer	neoplasm	6p21.33	6	31466334.0	Agonistic
+162	rs117534741	Lung cancer	neoplasm	6q13	6	71674838.0	Agonistic
+163	rs139789464	Lung cancer	neoplasm	6p21.33	6	31657087.0	Agonistic
+164	rs142618987	Lung cancer	neoplasm	6p21.33	6	30540143.0	Agonistic
+165	rs144433536	Lung cancer	neoplasm	6p21.33	6	32067917.0	Agonistic
+166	rs147680653	Lung cancer	neoplasm	6p22.1	6	29785031.0	Agonistic
+167	rs148696809	Lung cancer	neoplasm	6p22.1	6	28966575.0	Agonistic
+168	rs35028925	Lung cancer	neoplasm	15q15.3	15	43638408.0	Agonistic
+169	rs35768595	Lung cancer	neoplasm	6p22.1	6	27174125.0	Agonistic
+170	rs35789010	Lung cancer	neoplasm	6p22.2	6	25513951.0	Agonistic
+171	rs56404467	Lung cancer	neoplasm	13q13.1	13	32265853.0	Agonistic
+172	rs72949976	Lung cancer	neoplasm	2q34	2	213169380.0	Agonistic
+173	rs74942078	Lung cancer	neoplasm	6p21.32	6	32638107.0	Agonistic
+174	rs1393350	Melanoma	neoplasm	11q14.3	11	89277878.0	Antagonistic
+175	rs7577599	Multiple myeloma	neoplasm	2p23.3	2	25390277.0	Agonistic
+176	rs8058578	Multiple myeloma	neoplasm	16p11.2	16	30714927.0	Agonistic
+177	rs9372120	Multiple myeloma	neoplasm	6q21	6	106219660.0	Agonistic
+178	rs139371	Multiple myeloma	neoplasm	22q13.1	22	39123191.0	Antagonistic
+179	rs6601327	Multiple myeloma	neoplasm	8p23.1	8	9538022.0	Agonistic
+180	rs1800693	Primary biliary cholangitis	neoplasm	12p13.31	12	6330843.0	Agonistic
+181	rs2293370	Primary biliary cholangitis	neoplasm	3q13.33	3	119501087.0	Agonistic
+182	rs2300747	Primary biliary cholangitis	neoplasm	1p13.1	1	116561593.0	Agonistic
+183	rs2546890	Primary biliary cholangitis	neoplasm	5q33.3	5	159332892.0	Agonistic
+184	rs6897932	Primary biliary cholangitis	neoplasm	5p13.2	5	35874473.0	Antagonistic
+185	rs7665090	Primary biliary cholangitis	neoplasm	4q24	4	102630446.0	Agonistic
+186	rs1561927	Pancreatic cancer	neoplasm	8q24.21	8	128555832.0	Antagonistic
+187	rs12531711	Primary biliary cholangitis	neoplasm	7q32.1	7	128977412.0	Antagonistic
+188	rs2304256	Primary biliary cholangitis	neoplasm	19p13.2	19	10364976.0	Agonistic
+189	rs7404928	Primary biliary cholangitis	neoplasm	16p12.2	16	23877519.0	Agonistic
+190	rs7774434	Primary biliary cholangitis	neoplasm	6p21.32	6	32689801.0	Agonistic
+191	rs911263	Primary biliary cholangitis	neoplasm	14q24.1	14	68286876.0	Antagonistic
+192	rs11065979	Primary biliary cholangitis	neoplasm	12q24.12	12	111621753.0	Agonistic
+193	rs103294	Prostate cancer	neoplasm	19q13.42	19	54293995.0	Antagonistic
+194	rs1048169	Prostate cancer	neoplasm	9p22.1	9	19055967.0	Agonistic
+195	rs10793821	Prostate cancer	neoplasm	5q31.1	5	134500518.0	Agonistic
+196	rs10845938	Prostate cancer	neoplasm	12p13.1	12	14263984.0	Agonistic
+197	rs10993994	Prostate cancer	neoplasm	10q11.22	10	46046326.0	Agonistic
+198	rs111599055	Prostate cancer	neoplasm	12q24.33	12	132563775.0	Agonistic
+199	rs11651052	Prostate cancer	neoplasm	17q12	17	37742390.0	Agonistic
+200	rs11666569	Prostate cancer	neoplasm	19p13.11	19	17103263.0	Agonistic
+201	rs11691517	Prostate cancer	neoplasm	2q13	2	111135519.0	Agonistic
+202	rs1182	Prostate cancer	neoplasm	9q34.11	9	129813781.0	Agonistic
+203	rs11859370	Prostate cancer	neoplasm	16q21	16	57619621.0	Agonistic
+204	rs11863709	Prostate cancer	neoplasm	16q21	16	57620664.0	Agonistic
+205	rs141536087	Prostate cancer	neoplasm	10p15.3	10	808752.0	Agonistic
+206	rs17321482	Prostate cancer	neoplasm	Xp22.2	X	11464514.0	Agonistic
+207	rs201158093	Prostate cancer	neoplasm	16q23.3	16	82145289.0	Agonistic
+208	rs2788524	Prostate cancer	neoplasm	Xp22.2	X	11321091.0	Agonistic
+209	rs28607662	Prostate cancer	neoplasm	18q21.2	18	55563628.0	Agonistic
+210	rs34579442	Prostate cancer	neoplasm	1q21.3	1	153927425.0	Agonistic
+211	rs56366063	Prostate cancer	neoplasm	2q13	2	111146954.0	Agonistic
+212	rs5799921	Prostate cancer	neoplasm	12q21.33	12	89766754.0	Agonistic
+213	rs6091758	Prostate cancer	neoplasm	20q13.2	20	53838666.0	Agonistic
+214	rs61088131	Prostate cancer	neoplasm	19q13.2	19	42196795.0	Agonistic
+215	rs7127900	Prostate cancer	neoplasm	11p15.5	11	2212344.0	Agonistic
+216	rs7295014	Prostate cancer	neoplasm	12q24.33	12	132491403.0	Agonistic
+217	rs7501939	Prostate cancer	neoplasm	17q12	17	37741165.0	Antagonistic
+218	rs7931342	Prostate cancer	neoplasm	11q13.3	11	69227030.0	Agonistic
+219	rs9469899	Prostate cancer	neoplasm	6p21.31	6	34825347.0	Agonistic
+220	rs67682613	Small cell lung carcinoma	neoplasm	6p21.33	6	31858928.0	Antagonistic
+221	rs3813565	Small cell lung carcinoma	neoplasm	15q25.1	15	78727268.0	Agonistic
+222	rs4268748	Squamous cell carcinoma	neoplasm	16q24.3	16	89960104.0	Antagonistic

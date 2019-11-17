@@ -1,0 +1,15 @@
+Domains	Agonistic	Antagonistic
+skin	0	0
+skeletal	0	1
+respiratory	6	1
+reproductive	0	1
+infectious	0	0
+immune	6	12
+kidney	1	1
+cardio	23	15
+metabolic	4	3
+headneck	0	0
+nervous	1	1
+eye	0	0
+endocrine	1	1
+cancer	7	5

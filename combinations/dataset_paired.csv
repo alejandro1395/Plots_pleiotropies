@@ -1,0 +1,1286 @@
+SNPA	DiseaseA	DomainA	RiskalleleA	OnsetA	POSA	SNPB	DiseaseB	DomainB	RiskalleleB	OnsetB	POSB	id	chr
+rs1509406	Dupuytren's disease	skeletal	G	60.0	56229760	rs8032158	Keloid	skin	C	10.0	56194877	288	15
+rs3135394	Systemic lupus erythematosus	immune	G	19.0	32408497	rs2187668	Cutaneous lupus erythematosus	skin	T	40.0	32605884	953	6
+rs3129843	Dermatomyositis	immune	G	5.0	32395726	rs2187668	Cutaneous lupus erythematosus	skin	T	40.0	32605884	1543	6
+rs2647044	Type 1 diabetes	immune	A	4.0	32667910	rs2187668	Cutaneous lupus erythematosus	skin	T	40.0	32605884	3089	6
+rs3131379	Systemic lupus erythematosus	immune	A	19.0	31721033	rs9267531	Cutaneous lupus erythematosus	skin	G	40.0	31636742	6884	6
+rs3117582	Lung cancer	cancer	G	40.0	31620520	rs9267531	Cutaneous lupus erythematosus	skin	G	40.0	31636742	3750	6
+rs6060373	Developmental dysplasia of the hip	skeletal	A	1.0	33914208	rs2248393	Osteoarthritis	skeletal	C	50.0	33926103	8632	20
+rs9275582	Sarcoidosis	respiratory	C	25.0	32680070	rs9275406	Rheumatoid arthritis	skeletal	T	35.0	32669955	2945	6
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3686	12
+rs9268839	Rheumatoid arthritis	skeletal	G	35.0	32428772	rs1964995	Sarcoidosis	respiratory	T	25.0	32449411	3816	6
+rs4129267	Asthma	respiratory	T	18.0	154426264	rs2228145	Rheumatoid arthritis	skeletal	A	35.0	154426970	5222	1
+rs11078927	Asthma	respiratory	C	18.0	38064405	rs2872507	Rheumatoid arthritis	skeletal	A	35.0	38040763	8953	17
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	21	12
+rs911263	Systemic lupus erythematosus	immune	C	19.0	68753593	rs1950897	Rheumatoid arthritis	skeletal	T	35.0	68760141	142	14
+rs892085	Psoriasis	immune	A	28.0	10818092	rs1560707	Osteoarthritis	skeletal	T	50.0	10750738	210	19
+rs2451258	Psoriasis	immune	C	28.0	159506600	rs212389	Rheumatoid arthritis	skeletal	A	35.0	159489791	493	6
+rs10876864	Vitiligo	immune	G	19.0	56401085	rs773125	Rheumatoid arthritis	skeletal	A	35.0	56394954	669	12
+rs6579837	Rheumatoid arthritis	skeletal	T	35.0	150434894	rs2233287	Systemic sclerosis	immune	A	20.0	150440097	709	5
+rs1569723	Kawasaki disease	immune	A	5.0	44742064	rs4810485	Rheumatoid arthritis	skeletal	T	35.0	44747947	739	20
+rs8032939	Rheumatoid arthritis	skeletal	C	35.0	38834033	rs8035957	Type 1 diabetes	immune	C	4.0	38838264	754	15
+rs4810485	Systemic lupus erythematosus	immune	T	19.0	44747947	rs1883832	Rheumatoid arthritis	skeletal	C	35.0	44746982	881	20
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Graves' disease	immune	A	30.0	114377568	1004	1
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Hashimoto thyroiditis	immune	A	30.0	114377568	1005	1
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Myasthenia gravis	immune	A	28.0	114377568	1007	1
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Polymyositis	immune	A	20.0	114377568	1009	1
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Systemic lupus erythematosus	immune	A	19.0	114377568	1011	1
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Type 1 diabetes	immune	A	4.0	114377568	1012	1
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Vitiligo	immune	A	19.0	114377568	1013	1
+rs10488631	Rheumatoid arthritis	skeletal	C	35.0	128594183	rs12531711	Systemic lupus erythematosus	immune	A	19.0	128617466	1372	7
+rs9373839	Systemic lupus erythematosus	immune	C	19.0	106655617	rs9372120	Rheumatoid arthritis	skeletal	G	35.0	106667535	1508	6
+rs9373839	Systemic sclerosis	immune	C	20.0	106655617	rs9372120	Rheumatoid arthritis	skeletal	G	35.0	106667535	1510	6
+rs38911	Ulcerative colitis	immune	G	15.0	116895163	rs38904	Dupuytren's disease	skeletal	C	60.0	116892846	1679	7
+rs2736340	Kawasaki disease	immune	T	5.0	11343973	rs2736337	Rheumatoid arthritis	skeletal	C	35.0	11341880	1763	8
+rs2736340	Rheumatoid arthritis	skeletal	T	35.0	11343973	rs13277113	Systemic lupus erythematosus	immune	A	19.0	11349186	1767	8
+rs180977001	Systemic lupus erythematosus	immune	C	19.0	58318464	rs73081554	Rheumatoid arthritis	skeletal	T	35.0	58302935	1776	3
+rs11889341	Rheumatoid arthritis	skeletal	T	35.0	191943742	rs7574865	Systemic lupus erythematosus	immune	T	19.0	191964633	2242	2
+rs7752903	Rheumatoid arthritis	skeletal	G	35.0	138227364	rs6932056	Systemic lupus erythematosus	immune	C	19.0	138242437	2532	6
+rs12506688	Rheumatoid arthritis	skeletal	T	35.0	26104113	rs10517086	Type 1 diabetes	immune	A	4.0	26085511	2677	4
+rs1980422	Rheumatoid arthritis	skeletal	C	35.0	204610396	rs3116494	Ulcerative colitis	immune	G	15.0	204592021	2932	2
+rs7512552	Atopic dermatitis	immune	C	1.0	150265704	rs12040949	Osteoarthritis	skeletal	C	50.0	150447462	2967	1
+rs7579944	Systemic lupus erythematosus	immune	C	19.0	30445026	rs10175798	Rheumatoid arthritis	skeletal	A	35.0	30449594	2999	2
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	3037	12
+rs12936409	Rheumatoid arthritis	skeletal	T	35.0	38043649	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	3154	17
+rs12936409	Rheumatoid arthritis	skeletal	T	35.0	38043649	rs2872507	Ulcerative colitis	immune	A	15.0	38040763	3155	17
+rs2317230	Rheumatoid arthritis	skeletal	T	35.0	157674997	rs3761959	Graves' disease	immune	T	30.0	157669278	3483	1
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	3585	12
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3687	12
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3688	12
+rs13426947	Rheumatoid arthritis	skeletal	A	35.0	191933254	rs3821236	Systemic sclerosis	immune	A	20.0	191902758	3803	2
+rs9268839	Rheumatoid arthritis	skeletal	G	35.0	32428772	rs9275572	Systemic lupus erythematosus	immune	A	19.0	32678999	3818	6
+rs7524102	Dupuytren's disease	skeletal	G	60.0	22698447	rs12568930	Ulcerative colitis	immune	T	15.0	22702231	4356	1
+rs13017599	Psoriatic arthritis	immune	G	35.0	61164331	rs13031237	Rheumatoid arthritis	skeletal	T	35.0	61136129	4661	2
+rs11021232	Vitiligo	immune	C	19.0	95320808	rs4409785	Rheumatoid arthritis	skeletal	C	35.0	95311422	5185	11
+rs2327832	Systemic lupus erythematosus	immune	G	19.0	137973068	rs6920220	Rheumatoid arthritis	skeletal	A	35.0	138006504	5215	6
+rs4129267	Ankylosing spondylitis	immune	C	25.0	154426264	rs2228145	Rheumatoid arthritis	skeletal	A	35.0	154426970	5220	1
+rs2843403	Graves' disease	immune	C	30.0	2529097	rs2843401	Rheumatoid arthritis	skeletal	C	35.0	2528133	5535	1
+rs10865035	Rheumatoid arthritis	skeletal	A	35.0	100835734	rs9653442	Type 1 diabetes	immune	C	4.0	100825367	5733	2
+rs706778	Rheumatoid arthritis	skeletal	T	35.0	6098949	rs10795791	Type 1 diabetes	immune	G	4.0	6108340	5975	10
+rs12939457	Allergic rhinitis	immune	T	8.0	38032188	rs2872507	Rheumatoid arthritis	skeletal	A	35.0	38040763	6030	17
+rs1378942	Systemic lupus erythematosus	immune	C	19.0	75077367	rs35206230	Osteoarthritis	skeletal	T	50.0	75097780	6834	15
+rs13397	Rheumatoid arthritis	skeletal	A	35.0	153248248	rs2269368	Systemic lupus erythematosus	immune	T	19.0	153189819	6844	X
+rs13397	Rheumatoid arthritis	skeletal	A	35.0	153248248	rs1734787	Systemic lupus erythematosus	immune	C	19.0	153325446	6845	X
+rs3087243	Rheumatoid arthritis	skeletal	G	35.0	204738919	rs11571297	Graves' disease	immune	C	30.0	204745003	6951	2
+rs1008723	Dermatomyositis	immune	T	5.0	38066267	rs2872507	Rheumatoid arthritis	skeletal	A	35.0	38040763	6997	17
+rs62149416	Psoriasis	immune	T	28.0	61083506	rs34695944	Rheumatoid arthritis	skeletal	C	35.0	61124850	7441	2
+rs1052553	Type 1 diabetes	immune	A	4.0	44073889	rs62063281	Osteoarthritis	skeletal	G	50.0	44038785	7854	17
+rs330048	Systemic lupus erythematosus	immune	A	19.0	9087278	rs330050	Osteoarthritis	skeletal	G	50.0	9087679	9197	8
+rs9275224	IgA nephropathy	kidney	G	32.0	32659878	rs6457617	Rheumatoid arthritis	skeletal	T	35.0	32663851	136	6
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Rheumatoid arthritis	skeletal	A	35.0	114377568	988	1
+rs10774625	Coronary heart disease	cardio	A	50.0	111910219	rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	1402	12
+rs12133641	Abdominal aortic aneurysm	cardio	A	50.0	154428283	rs2228145	Rheumatoid arthritis	skeletal	A	35.0	154426970	2519	1
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3684	12
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3685	12
+rs10774624	Rheumatoid arthritis	skeletal	G	35.0	111833788	rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	6	12
+rs10774624	Rheumatoid arthritis	skeletal	G	35.0	111833788	rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	11	12
+rs6651252	Crohn's disease	metabolic	T	15.0	129567181	rs1516971	Rheumatoid arthritis	skeletal	T	35.0	129542100	58	8
+rs6651252	Inflammatory bowel disease	metabolic	T	15.0	129567181	rs1516971	Rheumatoid arthritis	skeletal	T	35.0	129542100	59	8
+rs13119723	Rheumatoid arthritis	skeletal	A	35.0	123218313	rs13140464	Primary sclerosing cholangitis	metabolic	G	20.0	123499745	182	4
+rs13119723	Rheumatoid arthritis	skeletal	A	35.0	123218313	rs13132308	Celiac disease	metabolic	A	8.0	123551114	184	4
+rs3890745	Rheumatoid arthritis	skeletal	T	35.0	2553624	rs4445406	Celiac disease	metabolic	T	8.0	2539400	204	1
+rs6074022	Crohn's disease	metabolic	C	15.0	44740196	rs1883832	Rheumatoid arthritis	skeletal	C	35.0	44746982	932	20
+rs6074022	Inflammatory bowel disease	metabolic	C	15.0	44740196	rs1883832	Rheumatoid arthritis	skeletal	C	35.0	44746982	933	20
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Rheumatoid arthritis	skeletal	A	35.0	114377568	977	1
+rs4147359	Primary sclerosing cholangitis	metabolic	A	20.0	6108439	rs10795791	Rheumatoid arthritis	skeletal	G	35.0	6108340	1721	10
+rs212388	Crohn's disease	metabolic	C	15.0	159490436	rs212389	Rheumatoid arthritis	skeletal	A	35.0	159489791	1825	6
+rs212388	Inflammatory bowel disease	metabolic	C	15.0	159490436	rs212389	Rheumatoid arthritis	skeletal	A	35.0	159489791	1826	6
+rs7403531	Type 2 diabetes	metabolic	T	35.0	38822905	rs8043085	Rheumatoid arthritis	skeletal	T	35.0	38828140	2422	15
+rs1980422	Rheumatoid arthritis	skeletal	C	35.0	204610396	rs3116494	Inflammatory bowel disease	metabolic	G	15.0	204592021	2931	2
+rs1980422	Rheumatoid arthritis	skeletal	C	35.0	204610396	rs7426056	Primary sclerosing cholangitis	metabolic	A	20.0	204612058	2933	2
+rs12936409	Rheumatoid arthritis	skeletal	T	35.0	38043649	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	3152	17
+rs6859219	Rheumatoid arthritis	skeletal	C	35.0	55438580	rs10065637	Crohn's disease	metabolic	C	15.0	55438851	3182	5
+rs6859219	Rheumatoid arthritis	skeletal	C	35.0	55438580	rs10065637	Inflammatory bowel disease	metabolic	C	15.0	55438851	3183	5
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Celiac disease	metabolic	C	8.0	112007756	3681	12
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3682	12
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3683	12
+rs780093	Crohn's disease	metabolic	T	15.0	27742603	rs1260326	Gout	skeletal	T	30.0	27730940	4339	2
+rs7524102	Dupuytren's disease	skeletal	G	60.0	22698447	rs12568930	Inflammatory bowel disease	metabolic	T	15.0	22702231	4355	1
+rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	rs2872507	Rheumatoid arthritis	skeletal	A	35.0	38040763	4397	17
+rs62530366	Type 2 diabetes	metabolic	G	35.0	145536056	rs7838717	Dupuytren's disease	skeletal	T	60.0	145504343	5613	8
+rs11875687	Celiac disease	metabolic	C	8.0	12843137	rs8083786	Rheumatoid arthritis	skeletal	G	35.0	12881361	5677	18
+rs6920220	Rheumatoid arthritis	skeletal	A	35.0	138006504	rs17264332	Celiac disease	metabolic	G	8.0	138005515	6183	6
+rs1260326	Gout	skeletal	T	30.0	27730940	rs780094	Hypertriglyceridemia	metabolic	T	30.0	27741237	6297	2
+rs1260326	Gout	skeletal	T	30.0	27730940	rs780094	Type 2 diabetes	metabolic	C	35.0	27741237	6298	2
+rs10654220	Osteoarthritis	skeletal	AGTT	50.0	123703422	rs1060105	Type 2 diabetes	metabolic	C	35.0	123806219	6626	12
+rs3748816	Primary sclerosing cholangitis	metabolic	A	20.0	2526746	rs2843401	Rheumatoid arthritis	skeletal	C	35.0	2528133	7114	1
+rs2820443	Type 2 diabetes	metabolic	T	35.0	219753509	rs2785988	Osteoarthritis	skeletal	A	50.0	219744138	7369	1
+rs3890745	Rheumatoid arthritis	skeletal	T	35.0	2553624	rs4648356	Multiple sclerosis	nervous	C	32.0	2709164	205	1
+rs71624119	Multiple sclerosis	nervous	G	32.0	55440730	rs6859219	Rheumatoid arthritis	skeletal	C	35.0	55438580	484	5
+rs4903324	Multiple sclerosis	nervous	T	32.0	75961511	rs7155603	Rheumatoid arthritis	skeletal	G	35.0	75960536	838	14
+rs4810485	Multiple sclerosis	nervous	T	32.0	44747947	rs1883832	Rheumatoid arthritis	skeletal	C	35.0	44746982	879	20
+rs60600003	Multiple sclerosis	nervous	G	32.0	37382465	rs75351767	Rheumatoid arthritis	skeletal	C	35.0	37427351	1490	7
+rs917116	Multiple sclerosis	nervous	G	32.0	28172739	rs67250450	Rheumatoid arthritis	skeletal	T	35.0	28174986	1505	7
+rs2942168	Parkinson's disease	nervous	G	58.0	43714850	rs62063281	Osteoarthritis	skeletal	G	50.0	44038785	2171	17
+rs2317230	Rheumatoid arthritis	skeletal	T	35.0	157674997	rs3761959	Multiple sclerosis	nervous	C	32.0	157669278	3484	1
+rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	rs7137828	Glaucoma	nervous	T	40.0	111932800	3614	12
+rs13192841	Multiple sclerosis	nervous	A	32.0	137967214	rs10499194	Rheumatoid arthritis	skeletal	C	35.0	138002637	3781	6
+rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	rs2872507	Rheumatoid arthritis	skeletal	A	35.0	38040763	4401	17
+rs1615350	Schizophrenia	nervous	C	13.0	123650335	rs10654220	Osteoarthritis	skeletal	AGTT	50.0	123703422	4791	12
+rs1790100	Multiple sclerosis	nervous	G	32.0	123656725	rs10654220	Osteoarthritis	skeletal	AGTT	50.0	123703422	5356	12
+rs1042779	Bipolar disorder	nervous	A	15.0	52821011	rs678	Osteoarthritis	skeletal	T	50.0	52820981	5848	3
+rs9603616	Rheumatoid arthritis	skeletal	C	35.0	40368069	rs7993214	Multiple sclerosis	nervous	C	32.0	40350912	6110	13
+rs10654220	Osteoarthritis	skeletal	AGTT	50.0	123703422	rs1619561	Tourette syndrome	nervous	C	5.0	123620268	6622	12
+rs12185268	Parkinson's disease	nervous	A	58.0	43923683	rs62063281	Osteoarthritis	skeletal	G	50.0	44038785	6649	17
+rs10774624	Rheumatoid arthritis	skeletal	G	35.0	111833788	rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	10	12
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Rheumatoid arthritis	skeletal	A	35.0	114377568	999	1
+rs10774624	Rheumatoid arthritis	skeletal	G	35.0	111833788	rs3184504	Endometrial cancer	cancer	C	58.0	111884608	8	12
+rs911263	Primary biliary cholangitis	cancer	T	39.0	68753593	rs1950897	Rheumatoid arthritis	skeletal	T	35.0	68760141	139	14
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs12936409	Rheumatoid arthritis	skeletal	T	35.0	38043649	331	17
+rs10088218	Ovarian cancer	cancer	G	57.0	129543949	rs1516971	Rheumatoid arthritis	skeletal	T	35.0	129542100	630	8
+rs1400482	Epithelial ovarian cancer	cancer	G	63.0	129541931	rs1516971	Rheumatoid arthritis	skeletal	T	35.0	129542100	847	8
+rs12195582	Follicular lymphoma	cancer	T	60.0	32444544	rs9268839	Rheumatoid arthritis	skeletal	G	35.0	32428772	859	6
+rs4938573	Follicular lymphoma	cancer	C	60.0	118741842	rs10790268	Rheumatoid arthritis	skeletal	G	35.0	118729391	961	11
+rs6679677	Rheumatoid arthritis	skeletal	A	35.0	114303808	rs2476601	Hodgkin's lymphoma	cancer	A	24.0	114377568	1006	1
+rs10488631	Rheumatoid arthritis	skeletal	C	35.0	128594183	rs35188261	Primary biliary cholangitis	cancer	A	39.0	128683539	1383	7
+rs17615336	Lung cancer	cancer	A	40.0	167506734	rs3093023	Rheumatoid arthritis	skeletal	A	35.0	167534290	1698	6
+rs11889341	Rheumatoid arthritis	skeletal	T	35.0	191943742	rs7574865	Primary biliary cholangitis	cancer	T	39.0	191964633	2239	2
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs3184504	Rheumatoid arthritis	skeletal	T	35.0	111884608	3019	12
+rs1877030	Rheumatoid arthritis	skeletal	C	35.0	37740161	rs7208487	Primary biliary cholangitis	cancer	T	39.0	37543449	3724	17
+rs9268839	Rheumatoid arthritis	skeletal	G	35.0	32428772	rs9275572	Hepatocellular carcinoma	cancer	A	65.0	32678999	3817	6
+rs3806624	Hodgkin's lymphoma	cancer	G	24.0	27764623	rs9880772	Rheumatoid arthritis	skeletal	A	35.0	27777779	4197	3
+rs3806624	Rheumatoid arthritis	skeletal	G	35.0	27764623	rs9880772	Chronic lymphocytic leukemia	cancer	A	60.0	27777779	4198	3
+rs6421571	Primary biliary cholangitis	cancer	C	39.0	118743772	rs10790268	Rheumatoid arthritis	skeletal	G	35.0	118729391	5044	11
+rs10484561	Follicular lymphoma	cancer	G	60.0	32665420	rs13192471	Rheumatoid arthritis	skeletal	C	35.0	32671103	5495	6
+rs2561477	Rheumatoid arthritis	skeletal	G	35.0	102608924	rs526231	Primary biliary cholangitis	cancer	C	39.0	102681381	5753	5
+rs6920220	Rheumatoid arthritis	skeletal	A	35.0	138006504	rs6933404	Primary biliary cholangitis	cancer	C	39.0	137959235	6168	6
+rs798766	Bladder cancer	cancer	T	60.0	1734239	rs798726	Osteoarthritis	skeletal	C	50.0	1685211	6588	4
+rs17564829	Primary biliary cholangitis	cancer	C	39.0	44006601	rs62063281	Osteoarthritis	skeletal	G	50.0	44038785	8719	17
+rs1701704	Asthma	respiratory	G	18.0	56412487	rs705702	Polycystic ovary syndrome	reproductive	G	16.0	56390636	8530	12
+rs2024825	Leprosy	infectious	T	1.0	67597977	rs12069782	Sarcoidosis	respiratory	C	25.0	67600101	3521	1
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	48	12
+rs12421615	Vitiligo	immune	G	19.0	64021605	rs694739	Sarcoidosis	respiratory	A	25.0	64097233	700	11
+rs9268480	Ulcerative colitis	immune	C	15.0	32363844	rs9268516	Asthma	respiratory	T	18.0	32379489	832	6
+rs7130588	Asthma	respiratory	G	18.0	76270683	rs7927894	Atopic dermatitis	immune	T	1.0	76301316	1247	11
+rs3129843	Dermatomyositis	immune	G	5.0	32395726	rs3130288	Sarcoidosis	respiratory	A	25.0	32096001	1540	6
+rs3129843	Dermatomyositis	immune	G	5.0	32395726	rs2187668	Sarcoidosis	respiratory	T	25.0	32605884	1544	6
+rs9282864	Allergic rhinitis	immune	A	8.0	28617308	rs17707300	Chronic obstructive pulmonary disease	respiratory	C	40.0	28593347	1909	16
+rs9775039	Allergic rhinitis	immune	A	8.0	6177453	rs1342326	Asthma	respiratory	C	18.0	6190076	2082	9
+rs13408661	Asthma	respiratory	G	18.0	102955082	rs950881	Allergic rhinitis	immune	G	8.0	102932512	2293	2
+rs2847260	Sarcoidosis	respiratory	C	25.0	12775591	rs1893217	Type 1 diabetes	immune	G	4.0	12809340	2319	18
+rs2847260	Sarcoidosis	respiratory	C	25.0	12775591	rs1893217	Ulcerative colitis	immune	G	15.0	12809340	2320	18
+rs2017445	Vitiligo	immune	A	19.0	56407072	rs1701704	Asthma	respiratory	G	18.0	56412487	2511	12
+rs597808	Systemic lupus erythematosus	immune	A	19.0	111973358	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	2991	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3066	12
+rs2647044	Type 1 diabetes	immune	A	4.0	32667910	rs2187668	Sarcoidosis	respiratory	T	25.0	32605884	3090	6
+rs3184504	Type 1 diabetes	immune	T	4.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3694	12
+rs9271366	Systemic lupus erythematosus	immune	G	19.0	32586854	rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	3844	6
+rs9271366	Ulcerative colitis	immune	G	15.0	32586854	rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	3845	6
+rs9270986	Myasthenia gravis	immune	A	28.0	32574060	rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	4993	6
+rs4129267	Asthma	respiratory	T	18.0	154426264	rs2228145	Atopic dermatitis	immune	C	1.0	154426970	5221	1
+rs1295686	Asthma	respiratory	T	18.0	131995843	rs1295685	Psoriasis	immune	G	28.0	131996445	5336	5
+rs7216389	Asthma	respiratory	T	18.0	38069949	rs1008723	Dermatomyositis	immune	T	5.0	38066267	6003	17
+rs12939457	Allergic rhinitis	immune	T	8.0	38032188	rs11078927	Asthma	respiratory	C	18.0	38064405	6049	17
+rs17707300	Chronic obstructive pulmonary disease	respiratory	C	40.0	28593347	rs4788084	Type 1 diabetes	immune	C	4.0	28539848	6275	16
+rs12188917	Atopic dermatitis	immune	C	1.0	131991085	rs2244012	Asthma	respiratory	G	18.0	131901225	6686	5
+rs653178	Sarcoidosis	respiratory	C	25.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7303	12
+rs1150757	Systemic lupus erythematosus	immune	A	19.0	32029205	rs3130288	Sarcoidosis	respiratory	A	25.0	32096001	7410	6
+rs2305480	Ulcerative colitis	immune	A	15.0	38062196	rs11078927	Asthma	respiratory	C	18.0	38064405	7607	17
+rs2292239	Type 1 diabetes	immune	T	4.0	56482180	rs1701704	Asthma	respiratory	G	18.0	56412487	7808	12
+rs11078927	Asthma	respiratory	C	18.0	38064405	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	8954	17
+rs12133641	Abdominal aortic aneurysm	cardio	A	50.0	154428283	rs4129267	Asthma	respiratory	T	18.0	154426264	2517	1
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3646	12
+rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	rs3130683	Coronary heart disease	cardio	T	50.0	31888367	8145	6
+rs907092	Asthma	respiratory	G	18.0	37922259	rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	214	17
+rs7130588	Asthma	respiratory	G	18.0	76270683	rs7927997	Crohn's disease	metabolic	T	15.0	76301375	1249	11
+rs151181	Crohn's disease	metabolic	C	15.0	28490517	rs17707300	Chronic obstructive pulmonary disease	respiratory	C	40.0	28593347	1981	16
+rs2847260	Sarcoidosis	respiratory	C	25.0	12775591	rs1893217	Celiac disease	metabolic	G	8.0	12809340	2316	18
+rs2847260	Sarcoidosis	respiratory	C	25.0	12775591	rs1893217	Crohn's disease	metabolic	G	15.0	12809340	2317	18
+rs2847260	Sarcoidosis	respiratory	C	25.0	12775591	rs1893217	Inflammatory bowel disease	metabolic	G	15.0	12809340	2318	18
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3630	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3638	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3678	12
+rs9271366	Crohn's disease	metabolic	A	15.0	32586854	rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	3842	6
+rs11078927	Asthma	respiratory	C	18.0	38064405	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	8952	17
+rs907092	Asthma	respiratory	G	18.0	37922259	rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	215	17
+rs9268856	Frontotemporal dementia	nervous	C	59.0	32429719	rs3129890	Asthma	respiratory	T	18.0	32414273	1493	6
+rs3131296	Schizophrenia	nervous	C	13.0	32172993	rs3130288	Sarcoidosis	respiratory	A	25.0	32096001	2010	6
+rs9271366	Multiple sclerosis	nervous	G	32.0	32586854	rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	3843	6
+rs653178	Sarcoidosis	respiratory	C	25.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7330	12
+rs1150757	Neuromyelitis optica	nervous	A	32.0	32029205	rs3130288	Sarcoidosis	respiratory	A	25.0	32096001	7409	6
+rs3132940	Sarcoidosis	respiratory	T	25.0	32161396	rs3104373	Multiple sclerosis	nervous	T	32.0	32600375	8156	6
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3670	12
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs7216389	Asthma	respiratory	T	18.0	38069949	346	17
+rs8067378	Primary biliary cholangitis	cancer	G	39.0	38051348	rs7216389	Asthma	respiratory	T	18.0	38069949	347	17
+rs510372	Primary biliary cholangitis	cancer	C	39.0	64115137	rs694739	Sarcoidosis	respiratory	A	25.0	64097233	504	11
+rs12195582	Follicular lymphoma	cancer	T	60.0	32444544	rs1964995	Sarcoidosis	respiratory	T	25.0	32449411	861	6
+rs3817963	Lung cancer	cancer	C	40.0	32368087	rs9268516	Asthma	respiratory	T	18.0	32379489	1268	6
+rs6903608	Hodgkin's lymphoma	cancer	C	24.0	32428285	rs3117098	Asthma	respiratory	G	18.0	32358513	1830	6
+rs501942	Lung cancer	cancer	T	40.0	31840477	rs3130288	Sarcoidosis	respiratory	A	25.0	32096001	2825	6
+rs17486278	Chronic obstructive pulmonary disease	respiratory	C	40.0	78867482	rs1051730	Lung cancer	cancer	A	40.0	78894339	2907	15
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3050	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Sarcoidosis	respiratory	C	25.0	112007756	3654	12
+rs1964995	Sarcoidosis	respiratory	T	25.0	32449411	rs9275572	Hepatocellular carcinoma	cancer	A	65.0	32678999	6130	6
+rs12914385	Chronic obstructive pulmonary disease	respiratory	T	40.0	78898723	rs8040868	Squamous cell carcinoma	cancer	C	70.0	78911181	7014	15
+rs8034191	Chronic obstructive pulmonary disease	respiratory	C	40.0	78806023	rs55853698	Small cell lung carcinoma	cancer	G	60.0	78857939	7825	15
+rs2456973	Vitiligo	immune	C	19.0	56416928	rs705702	Polycystic ovary syndrome	reproductive	G	16.0	56390636	0	12
+rs1701704	Type 1 diabetes	immune	T	4.0	56412487	rs705702	Polycystic ovary syndrome	reproductive	G	16.0	56390636	8531	12
+rs6475606	Intracranial aneurysm	cardio	T	50.0	22081850	rs10757272	Endometriosis	reproductive	C	21.0	22088260	1553	9
+rs10757274	Abdominal aortic aneurysm	cardio	A	50.0	22096055	rs10757272	Endometriosis	reproductive	C	21.0	22088260	2391	9
+rs10757272	Endometriosis	reproductive	C	21.0	22088260	rs4977574	Coronary heart disease	cardio	G	50.0	22098574	4448	9
+rs10757272	Endometriosis	reproductive	C	21.0	22088260	rs4977574	Myocardial infarction	cardio	G	50.0	22098574	4449	9
+rs7107174	Testicular cancer	reproductive	T	30.0	77997936	rs2373115	Alzheimer's disease	nervous	C	60.0	78091150	5820	11
+rs62355900	Endometriosis	reproductive	C	21.0	56052695	rs16886165	Breast cancer	cancer	G	55.0	56023083	1294	5
+rs2999052	Hypospadias	reproductive	T	1.0	127892037	rs872267	Endometrial cancer	cancer	G	58.0	127888067	1883	3
+rs2999052	Hypospadias	reproductive	T	1.0	127892037	rs10934853	Prostate cancer	cancer	A	63.0	128038373	1887	3
+rs160441	Tuberculosis	infectious	T	1.0	90656988	rs160451	Leprosy	infectious	C	1.0	90662941	4101	8
+rs538147	Leprosy	infectious	A	1.0	64129722	rs645078	Psoriasis	immune	A	28.0	64135298	616	11
+rs8176645	Venous thromboembolism	cardio	A	40.0	136149098	rs8176719	Malaria	infectious	C	1.0	136132908	3001	9
+rs4366152	Leprosy	infectious	T	1.0	117564875	rs6478109	Crohn's disease	metabolic	G	15.0	117568766	757	9
+rs9567307	Leprosy	infectious	A	1.0	44471877	rs3764147	Crohn's disease	metabolic	G	15.0	44457925	1777	13
+rs9567307	Leprosy	infectious	A	1.0	44471877	rs3764147	Inflammatory bowel disease	metabolic	G	15.0	44457925	1778	13
+rs9271100	Leprosy	infectious	T	1.0	32576478	rs9271192	Alzheimer's disease	nervous	C	60.0	32578530	6779	6
+rs510372	Primary biliary cholangitis	cancer	C	39.0	64115137	rs538147	Leprosy	infectious	A	1.0	64129722	511	11
+rs9271100	Leprosy	infectious	T	1.0	32576478	rs9271176	Chronic lymphocytic leukemia	cancer	G	60.0	32578127	6778	6
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	25	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs10774625	Systemic lupus erythematosus	immune	A	19.0	111910219	30	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Type 1 diabetes	immune	C	4.0	112007756	50	12
+rs7637230	Psoriasis	immune	A	28.0	101663555	rs4683946	Psoriatic arthritis	immune	G	35.0	101615826	153	3
+rs2310173	Ankylosing spondylitis	immune	T	25.0	102663628	rs10185424	Ulcerative colitis	immune	T	15.0	102662888	170	2
+rs2836878	Ulcerative colitis	immune	G	15.0	40465534	rs2836883	Ankylosing spondylitis	immune	G	25.0	40466744	274	21
+rs231725	Vitiligo	immune	A	19.0	204740675	rs1024161	Graves' disease	immune	T	30.0	204721752	387	2
+rs231725	Vitiligo	immune	A	19.0	204740675	rs231770	Myasthenia gravis	immune	T	28.0	204729153	388	2
+rs11742270	Ankylosing spondylitis	immune	G	25.0	35881443	rs7717955	Allergic rhinitis	immune	C	8.0	35862841	448	5
+rs11742270	Ankylosing spondylitis	immune	G	25.0	35881443	rs6897932	Type 1 diabetes	immune	C	4.0	35874575	453	5
+rs11742270	Ankylosing spondylitis	immune	G	25.0	35881443	rs10214237	Atopic dermatitis	immune	T	1.0	35883734	455	5
+rs26528	Ulcerative colitis	immune	C	15.0	28517709	rs4788084	Type 1 diabetes	immune	C	4.0	28539848	497	16
+rs7282490	Ankylosing spondylitis	immune	G	25.0	45615741	rs2838519	Ulcerative colitis	immune	G	15.0	45615023	520	21
+rs9355610	Graves' disease	immune	G	30.0	167383075	rs2247314	Vitiligo	immune	T	19.0	167370230	682	6
+rs3024493	Systemic lupus erythematosus	immune	A	19.0	206943968	rs3024505	Type 1 diabetes	immune	G	4.0	206939904	686	1
+rs3024493	Systemic lupus erythematosus	immune	A	19.0	206943968	rs3024505	Ulcerative colitis	immune	A	15.0	206939904	687	1
+rs3024493	Ulcerative colitis	immune	A	15.0	206943968	rs3024505	Type 1 diabetes	immune	G	4.0	206939904	691	1
+rs12421615	Vitiligo	immune	G	19.0	64021605	rs694739	Psoriasis	immune	A	28.0	64097233	699	11
+rs229527	Vitiligo	immune	A	19.0	37581485	rs229541	Systemic lupus erythematosus	immune	A	19.0	37591318	702	22
+rs229527	Vitiligo	immune	A	19.0	37581485	rs229541	Type 1 diabetes	immune	A	4.0	37591318	703	22
+rs1728785	Ulcerative colitis	immune	C	15.0	68591230	rs1170426	Systemic lupus erythematosus	immune	C	19.0	68603798	713	16
+rs1063355	Ulcerative colitis	immune	T	15.0	32627714	rs9272346	Type 1 diabetes	immune	G	4.0	32604372	724	6
+rs1569723	Kawasaki disease	immune	A	5.0	44742064	rs4810485	Systemic lupus erythematosus	immune	T	19.0	44747947	740	20
+rs9268480	Ulcerative colitis	immune	C	15.0	32363844	rs3806156	Vitiligo	immune	T	19.0	32373698	831	6
+rs2020854	Psoriatic arthritis	immune	T	35.0	56743367	rs2066808	Psoriasis	immune	A	28.0	56737973	836	12
+rs3135394	Systemic lupus erythematosus	immune	G	19.0	32408497	rs3129843	Dermatomyositis	immune	G	5.0	32395726	951	6
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Graves' disease	immune	A	30.0	114377568	1015	1
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Hashimoto thyroiditis	immune	A	30.0	114377568	1016	1
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Myasthenia gravis	immune	A	28.0	114377568	1018	1
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Polymyositis	immune	A	20.0	114377568	1020	1
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Type 1 diabetes	immune	A	4.0	114377568	1023	1
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Vitiligo	immune	A	19.0	114377568	1024	1
+rs6679677	Type 1 diabetes	immune	A	4.0	114303808	rs2476601	Graves' disease	immune	A	30.0	114377568	1026	1
+rs6679677	Type 1 diabetes	immune	A	4.0	114303808	rs2476601	Hashimoto thyroiditis	immune	A	30.0	114377568	1027	1
+rs6679677	Type 1 diabetes	immune	A	4.0	114303808	rs2476601	Myasthenia gravis	immune	A	28.0	114377568	1029	1
+rs6679677	Type 1 diabetes	immune	A	4.0	114303808	rs2476601	Polymyositis	immune	A	20.0	114377568	1031	1
+rs6679677	Type 1 diabetes	immune	A	4.0	114303808	rs2476601	Vitiligo	immune	A	19.0	114377568	1035	1
+rs4648133	Systemic sclerosis	immune	C	20.0	103536413	rs12509403	Allergic rhinitis	immune	C	8.0	103525350	1043	4
+rs17728338	Psoriasis	immune	A	28.0	150478318	rs76956521	Psoriatic arthritis	immune	C	35.0	150464641	1272	5
+rs2297441	Ulcerative colitis	immune	A	15.0	62327582	rs909341	Atopic dermatitis	immune	C	1.0	62328742	1293	20
+rs7709212	Psoriasis	immune	T	28.0	158764177	rs4921482	Psoriatic arthritis	immune	T	35.0	158764478	1323	5
+rs12722495	Type 1 diabetes	immune	T	4.0	6097283	rs61839660	Systemic lupus erythematosus	immune	T	19.0	6094697	1336	10
+rs10488631	Systemic sclerosis	immune	C	20.0	128594183	rs12531711	Systemic lupus erythematosus	immune	A	19.0	128617466	1378	7
+rs10774625	Systemic lupus erythematosus	immune	A	19.0	111910219	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	1415	12
+rs9373839	Systemic sclerosis	immune	C	20.0	106655617	rs2299864	Systemic lupus erythematosus	immune	T	19.0	106667994	1512	6
+rs2030519	Allergic rhinitis	immune	G	8.0	188119901	rs1464510	Vitiligo	immune	T	19.0	188112554	1514	3
+rs2030519	Allergic rhinitis	immune	G	8.0	188119901	rs13093110	Graves' disease	immune	T	30.0	188125120	1519	3
+rs3129843	Dermatomyositis	immune	G	5.0	32395726	rs2647044	Type 1 diabetes	immune	A	4.0	32667910	1546	6
+rs3749171	Ulcerative colitis	immune	T	15.0	241569692	rs4676410	Ankylosing spondylitis	immune	A	25.0	241563739	1704	2
+rs17388568	Ulcerative colitis	immune	A	15.0	123329362	rs148505069	Allergic rhinitis	immune	G	8.0	123417564	1871	4
+rs9282864	Allergic rhinitis	immune	A	8.0	28617308	rs4788084	Type 1 diabetes	immune	C	4.0	28539848	1907	16
+rs763361	Type 1 diabetes	immune	C	4.0	67531642	rs727088	Ulcerative colitis	immune	G	15.0	67530439	1919	18
+rs2254546	Kawasaki disease	immune	G	5.0	11343680	rs7812879	Systemic lupus erythematosus	immune	C	19.0	11340181	2061	8
+rs11889341	Systemic lupus erythematosus	immune	T	19.0	191943742	rs7574865	Systemic sclerosis	immune	T	20.0	191964633	2248	2
+rs2542151	Type 1 diabetes	immune	G	4.0	12779947	rs1893217	Ulcerative colitis	immune	G	15.0	12809340	2292	18
+rs61219050	Systemic sclerosis	immune	A	20.0	118648624	rs4639966	Systemic lupus erythematosus	immune	C	19.0	118573519	2295	11
+rs2017445	Vitiligo	immune	A	19.0	56407072	rs1701704	Type 1 diabetes	immune	T	4.0	56412487	2512	12
+rs1517352	Ulcerative colitis	immune	C	15.0	191931464	rs6736175	Systemic lupus erythematosus	immune	C	19.0	191946322	2522	2
+rs7536201	Psoriasis	immune	C	28.0	25293084	rs6600247	Ankylosing spondylitis	immune	C	25.0	25305114	2527	1
+rs516246	Type 1 diabetes	immune	T	4.0	49206172	rs492602	Psoriasis	immune	G	28.0	49206417	2608	19
+rs7936323	Allergic rhinitis	immune	A	8.0	76293758	rs2212434	Atopic dermatitis	immune	T	1.0	76281593	2628	11
+rs7936323	Allergic rhinitis	immune	A	8.0	76293758	rs2155219	Ulcerative colitis	immune	T	15.0	76299194	2637	11
+rs2111485	Psoriasis	immune	G	28.0	163110536	rs1990760	Systemic lupus erythematosus	immune	T	19.0	163124051	2683	2
+rs2111485	Psoriasis	immune	G	28.0	163110536	rs1990760	Type 1 diabetes	immune	C	4.0	163124051	2684	2
+rs2111485	Systemic lupus erythematosus	immune	A	19.0	163110536	rs1990760	Type 1 diabetes	immune	C	4.0	163124051	2686	2
+rs2111485	Ulcerative colitis	immune	A	15.0	163110536	rs1990760	Systemic lupus erythematosus	immune	T	19.0	163124051	2689	2
+rs2111485	Ulcerative colitis	immune	A	15.0	163110536	rs1990760	Type 1 diabetes	immune	C	4.0	163124051	2690	2
+rs2111485	Vitiligo	immune	G	19.0	163110536	rs1990760	Systemic lupus erythematosus	immune	T	19.0	163124051	2691	2
+rs2111485	Vitiligo	immune	G	19.0	163110536	rs1990760	Type 1 diabetes	immune	C	4.0	163124051	2692	2
+rs10484554	Psoriasis	immune	T	28.0	31274555	rs12191877	Psoriatic arthritis	immune	T	35.0	31252925	2718	6
+rs6897932	Type 1 diabetes	immune	C	4.0	35874575	rs7717955	Allergic rhinitis	immune	C	8.0	35862841	2765	5
+rs6897932	Type 1 diabetes	immune	C	4.0	35874575	rs10214237	Atopic dermatitis	immune	T	1.0	35883734	2778	5
+rs7824993	Allergic rhinitis	immune	A	8.0	81262896	rs6473227	Atopic dermatitis	immune	C	1.0	81285892	2878	8
+rs2233287	Systemic sclerosis	immune	A	20.0	150440097	rs10057690	Systemic lupus erythematosus	immune	C	19.0	150445215	2885	5
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3067	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3068	12
+rs2647044	Type 1 diabetes	immune	A	4.0	32667910	rs2187668	Systemic lupus erythematosus	immune	T	19.0	32605884	3091	6
+rs1024161	Graves' disease	immune	T	30.0	204721752	rs231770	Myasthenia gravis	immune	T	28.0	204729153	3105	2
+rs6534347	Type 1 diabetes	immune	A	4.0	123198435	rs148505069	Allergic rhinitis	immune	G	8.0	123417564	3123	4
+rs17630235	Systemic lupus erythematosus	immune	A	19.0	112591686	rs17696736	Type 1 diabetes	immune	G	4.0	112486818	3431	12
+rs3184504	Type 1 diabetes	immune	T	4.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3695	12
+rs2201841	Psoriasis	immune	G	28.0	67694202	rs10889677	Ulcerative colitis	immune	A	15.0	67725120	3746	1
+rs9271366	Ulcerative colitis	immune	G	15.0	32586854	rs9270984	Systemic lupus erythematosus	immune	T	19.0	32573991	3861	6
+rs9271366	Ulcerative colitis	immune	G	15.0	32586854	rs9270986	Myasthenia gravis	immune	A	28.0	32574060	3868	6
+rs41299637	Ankylosing spondylitis	immune	T	25.0	200877850	rs7554511	Ulcerative colitis	immune	C	15.0	200877562	3926	1
+rs6671847	Systemic lupus erythematosus	immune	A	19.0	161478810	rs1801274	Ankylosing spondylitis	immune	A	25.0	161479745	4009	1
+rs6671847	Systemic lupus erythematosus	immune	A	19.0	161478810	rs1801274	Kawasaki disease	immune	A	5.0	161479745	4012	1
+rs6671847	Systemic lupus erythematosus	immune	A	19.0	161478810	rs1801274	Ulcerative colitis	immune	A	15.0	161479745	4014	1
+rs229541	Systemic lupus erythematosus	immune	A	19.0	37591318	rs229533	Type 1 diabetes	immune	C	4.0	37587111	4242	22
+rs12708716	Type 1 diabetes	immune	A	4.0	11179873	rs887864	Allergic rhinitis	immune	A	8.0	11158885	4245	16
+rs10782001	Psoriasis	immune	G	28.0	30942625	rs12924903	Psoriatic arthritis	immune	A	35.0	30928970	4363	16
+rs1363907	Ulcerative colitis	immune	A	15.0	96252803	rs2910686	Ankylosing spondylitis	immune	C	25.0	96252589	4433	5
+rs1363907	Ulcerative colitis	immune	A	15.0	96252803	rs2910686	Psoriasis	immune	C	28.0	96252589	4434	5
+rs2283790	Ankylosing spondylitis	immune	G	25.0	21956653	rs181359	Psoriasis	immune	A	28.0	21928641	4583	22
+rs2283790	Ankylosing spondylitis	immune	G	25.0	21956653	rs7444	Systemic lupus erythematosus	immune	C	19.0	21976934	4585	22
+rs34725611	Psoriatic arthritis	immune	A	35.0	10477067	rs2304256	Systemic lupus erythematosus	immune	C	19.0	10475652	4612	19
+rs34725611	Psoriatic arthritis	immune	A	35.0	10477067	rs2304256	Type 1 diabetes	immune	C	4.0	10475652	4613	19
+rs13017599	Psoriatic arthritis	immune	G	35.0	61164331	rs62149416	Psoriasis	immune	T	28.0	61083506	4657	2
+rs1464510	Vitiligo	immune	T	19.0	188112554	rs13093110	Graves' disease	immune	T	30.0	188125120	4685	3
+rs80174646	Ulcerative colitis	immune	G	15.0	67708155	rs11209026	Ankylosing spondylitis	immune	G	25.0	67705958	4897	1
+rs9270986	Myasthenia gravis	immune	A	28.0	32574060	rs9270984	Systemic lupus erythematosus	immune	T	19.0	32573991	5001	6
+rs11021232	Vitiligo	immune	C	19.0	95320808	rs4409785	Graves' disease	immune	C	30.0	95311422	5183	11
+rs10057690	Systemic lupus erythematosus	immune	C	19.0	150445215	rs4958881	Myasthenia gravis	immune	C	28.0	150450236	5202	5
+rs2327832	Systemic lupus erythematosus	immune	G	19.0	137973068	rs6920220	Ulcerative colitis	immune	A	15.0	138006504	5217	6
+rs4129267	Ankylosing spondylitis	immune	C	25.0	154426264	rs2228145	Atopic dermatitis	immune	C	1.0	154426970	5219	1
+rs11624293	Ankylosing spondylitis	immune	C	25.0	88488821	rs8005161	Ulcerative colitis	immune	T	15.0	88472595	5246	14
+rs1295686	Atopic dermatitis	immune	T	1.0	131995843	rs1295685	Psoriasis	immune	G	28.0	131996445	5337	5
+rs181359	Psoriasis	immune	A	28.0	21928641	rs7444	Systemic lupus erythematosus	immune	C	19.0	21976934	5485	22
+rs2041670	Systemic lupus erythematosus	immune	A	19.0	11174652	rs12927355	Type 1 diabetes	immune	C	4.0	11194771	5985	16
+rs12939457	Allergic rhinitis	immune	T	8.0	38032188	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	6031	17
+rs12939457	Allergic rhinitis	immune	T	8.0	38032188	rs2872507	Ulcerative colitis	immune	A	15.0	38040763	6032	17
+rs12939457	Allergic rhinitis	immune	T	8.0	38032188	rs1008723	Dermatomyositis	immune	T	5.0	38066267	6051	17
+rs7717955	Allergic rhinitis	immune	C	8.0	35862841	rs10214237	Atopic dermatitis	immune	T	1.0	35883734	6446	5
+rs3087243	Type 1 diabetes	immune	G	4.0	204738919	rs11571297	Graves' disease	immune	C	30.0	204745003	6952	2
+rs1008723	Dermatomyositis	immune	T	5.0	38066267	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	6998	17
+rs1008723	Dermatomyositis	immune	T	5.0	38066267	rs2305480	Ulcerative colitis	immune	A	15.0	38062196	7005	17
+rs653178	Type 1 diabetes	immune	C	4.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7307	12
+rs2305480	Ulcerative colitis	immune	A	15.0	38062196	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	7596	17
+rs887864	Allergic rhinitis	immune	A	8.0	11158885	rs12599402	Systemic lupus erythematosus	immune	T	19.0	11189888	7726	16
+rs4728142	Ulcerative colitis	immune	A	15.0	128573967	rs3757387	Systemic lupus erythematosus	immune	C	19.0	128576086	7918	7
+rs2304256	Type 1 diabetes	immune	C	4.0	10475652	rs11085727	Systemic lupus erythematosus	immune	C	19.0	10466123	8029	19
+rs2155219	Ulcerative colitis	immune	T	15.0	76299194	rs2212434	Atopic dermatitis	immune	T	1.0	76281593	8658	11
+rs9275224	IgA nephropathy	kidney	G	32.0	32659878	rs6457617	Graves' disease	immune	T	30.0	32663851	135	6
+rs9275224	IgA nephropathy	kidney	G	32.0	32659878	rs6457617	Systemic sclerosis	immune	T	20.0	32663851	137	6
+rs2856717	IgA nephropathy	kidney	G	32.0	32670308	rs2647012	Systemic lupus erythematosus	immune	T	19.0	32664458	2095	6
+rs4077515	IgA nephropathy	kidney	T	32.0	139266496	rs10781499	Ulcerative colitis	immune	A	15.0	139266405	3543	9
+rs2412971	IgA nephropathy	kidney	G	32.0	30494371	rs5763767	Ulcerative colitis	immune	A	15.0	30493882	7097	22
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs10774625	Coronary heart disease	cardio	A	50.0	111910219	29	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Myocardial infarction	cardio	C	50.0	112007756	46	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	47	12
+rs11053802	Psoriasis	immune	T	28.0	10597207	rs2617170	Behcet's disease	cardio	T	25.0	10560957	193	12
+rs579459	Coronary heart disease	cardio	C	50.0	136154168	rs2519093	Allergic rhinitis	immune	T	8.0	136141870	743	9
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Graves' disease	immune	A	30.0	114377568	982	1
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Hashimoto thyroiditis	immune	A	30.0	114377568	983	1
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Myasthenia gravis	immune	A	28.0	114377568	985	1
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Polymyositis	immune	A	20.0	114377568	987	1
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Systemic lupus erythematosus	immune	A	19.0	114377568	989	1
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Type 1 diabetes	immune	A	4.0	114377568	990	1
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Vitiligo	immune	A	19.0	114377568	991	1
+rs10774625	Coronary heart disease	cardio	A	50.0	111910219	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	1413	12
+rs17293632	Ulcerative colitis	immune	T	15.0	67442596	rs72743461	Myocardial infarction	cardio	C	50.0	67441750	1659	15
+rs17293632	Ulcerative colitis	immune	T	15.0	67442596	rs56062135	Coronary heart disease	cardio	C	50.0	67455630	1664	15
+rs10045403	Ankylosing spondylitis	immune	A	25.0	96147733	rs17482078	Behcet's disease	cardio	T	25.0	96118866	2249	5
+rs12133641	Abdominal aortic aneurysm	cardio	A	50.0	154428283	rs4129267	Ankylosing spondylitis	immune	C	25.0	154426264	2516	1
+rs12133641	Abdominal aortic aneurysm	cardio	A	50.0	154428283	rs2228145	Atopic dermatitis	immune	C	1.0	154426970	2518	1
+rs597808	Systemic lupus erythematosus	immune	A	19.0	111973358	rs653178	Myocardial infarction	cardio	C	50.0	112007756	2989	12
+rs597808	Systemic lupus erythematosus	immune	A	19.0	111973358	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	2990	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs3184504	Coronary heart disease	cardio	T	50.0	111884608	3032	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3064	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3065	12
+rs17630235	Systemic lupus erythematosus	immune	A	19.0	112591686	rs17696736	Ischemic stroke	cardio	G	65.0	112486818	3429	12
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3647	12
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3648	12
+rs3184504	Type 1 diabetes	immune	T	4.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3692	12
+rs3184504	Type 1 diabetes	immune	T	4.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3693	12
+rs35629860	Immunoglobulin light chain (AL) amyloidosis	cardio	A	64.0	30671532	rs8058578	Systemic lupus erythematosus	immune	T	19.0	30726248	4741	16
+rs10160518	Giant cell arteritis	cardio	A	75.0	76296671	rs2212434	Atopic dermatitis	immune	T	1.0	76281593	6371	11
+rs10160518	Giant cell arteritis	cardio	A	75.0	76296671	rs2155219	Allergic rhinitis	immune	T	8.0	76299194	6374	11
+rs10160518	Giant cell arteritis	cardio	A	75.0	76296671	rs2155219	Ulcerative colitis	immune	T	15.0	76299194	6379	11
+rs495828	Venous thromboembolism	cardio	T	40.0	136154867	rs2519093	Allergic rhinitis	immune	T	8.0	136141870	6689	9
+rs653178	Myocardial infarction	cardio	C	50.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7299	12
+rs653178	Peripheral artery disease	cardio	C	50.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7301	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	15	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	20	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Celiac disease	metabolic	C	8.0	112007756	43	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Crohn's disease	metabolic	C	15.0	112007756	44	12
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	45	12
+rs727563	Crohn's disease	metabolic	C	15.0	41867377	rs4822024	Vitiligo	immune	G	19.0	41757647	131	22
+rs727563	Inflammatory bowel disease	metabolic	C	15.0	41867377	rs4822024	Vitiligo	immune	G	19.0	41757647	132	22
+rs2310173	Ankylosing spondylitis	immune	T	25.0	102663628	rs10185424	Crohn's disease	metabolic	T	15.0	102662888	169	2
+rs2310173	Ulcerative colitis	immune	T	15.0	102663628	rs10185424	Crohn's disease	metabolic	T	15.0	102662888	171	2
+rs2836878	Crohn's disease	metabolic	A	15.0	40465534	rs2836883	Ankylosing spondylitis	immune	G	25.0	40466744	270	21
+rs2836878	Inflammatory bowel disease	metabolic	G	15.0	40465534	rs2836883	Ankylosing spondylitis	immune	G	25.0	40466744	272	21
+rs2836878	Ulcerative colitis	immune	G	15.0	40465534	rs2836883	Primary sclerosing cholangitis	metabolic	G	20.0	40466744	275	21
+rs7282490	Ankylosing spondylitis	immune	G	25.0	45615741	rs2838519	Crohn's disease	metabolic	G	15.0	45615023	519	21
+rs7282490	Crohn's disease	metabolic	G	15.0	45615741	rs2838519	Ulcerative colitis	immune	G	15.0	45615023	522	21
+rs7282490	Inflammatory bowel disease	metabolic	G	15.0	45615741	rs2838519	Ulcerative colitis	immune	G	15.0	45615023	524	21
+rs3024493	Systemic lupus erythematosus	immune	A	19.0	206943968	rs3024505	Crohn's disease	metabolic	A	15.0	206939904	683	1
+rs3024493	Systemic lupus erythematosus	immune	A	19.0	206943968	rs3024505	Inflammatory bowel disease	metabolic	A	15.0	206939904	684	1
+rs3024493	Ulcerative colitis	immune	A	15.0	206943968	rs3024505	Crohn's disease	metabolic	A	15.0	206939904	688	1
+rs3024493	Ulcerative colitis	immune	A	15.0	206943968	rs3024505	Inflammatory bowel disease	metabolic	A	15.0	206939904	689	1
+rs12421615	Vitiligo	immune	G	19.0	64021605	rs694739	Crohn's disease	metabolic	A	15.0	64097233	695	11
+rs17771967	Ulcerative colitis	immune	G	15.0	55380214	rs11672983	Inflammatory bowel disease	metabolic	A	15.0	55383051	708	19
+rs1569723	Kawasaki disease	immune	A	5.0	44742064	rs6074022	Crohn's disease	metabolic	C	15.0	44740196	730	20
+rs1569723	Kawasaki disease	immune	A	5.0	44742064	rs6074022	Inflammatory bowel disease	metabolic	C	15.0	44740196	731	20
+rs864745	Crohn's disease	metabolic	T	15.0	28180556	rs849142	Systemic lupus erythematosus	immune	T	19.0	28185891	768	7
+rs864745	Type 2 diabetes	metabolic	T	35.0	28180556	rs849142	Systemic lupus erythematosus	immune	T	19.0	28185891	769	7
+rs12412391	Colorectal cancer	metabolic	G	50.0	101288935	rs11190133	Ankylosing spondylitis	immune	C	25.0	101278725	781	10
+rs4810485	Systemic lupus erythematosus	immune	T	19.0	44747947	rs6074022	Crohn's disease	metabolic	C	15.0	44740196	870	20
+rs4810485	Systemic lupus erythematosus	immune	T	19.0	44747947	rs6074022	Inflammatory bowel disease	metabolic	C	15.0	44740196	871	20
+rs13407913	Ulcerative colitis	immune	G	15.0	25097644	rs6545800	Inflammatory bowel disease	metabolic	T	15.0	25118885	892	2
+rs3135394	Systemic lupus erythematosus	immune	G	19.0	32408497	rs2187668	Celiac disease	metabolic	T	8.0	32605884	952	6
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Graves' disease	immune	A	30.0	114377568	971	1
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Hashimoto thyroiditis	immune	A	30.0	114377568	972	1
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Myasthenia gravis	immune	A	28.0	114377568	974	1
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Polymyositis	immune	A	20.0	114377568	976	1
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Systemic lupus erythematosus	immune	A	19.0	114377568	978	1
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Type 1 diabetes	immune	A	4.0	114377568	979	1
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Vitiligo	immune	A	19.0	114377568	980	1
+rs2015407	Systemic lupus erythematosus	immune	A	19.0	103274547	rs12882491	Gallstone disease	metabolic	C	38.0	103283273	1121	14
+rs1267499	Systemic lupus erythematosus	immune	T	19.0	14715882	rs17119	Crohn's disease	metabolic	G	15.0	14719496	1122	6
+rs1267499	Systemic lupus erythematosus	immune	T	19.0	14715882	rs17119	Inflammatory bowel disease	metabolic	A	15.0	14719496	1123	6
+rs681343	Primary sclerosing cholangitis	metabolic	T	20.0	49206462	rs516246	Type 1 diabetes	immune	T	4.0	49206172	1238	19
+rs681343	Primary sclerosing cholangitis	metabolic	T	20.0	49206462	rs492602	Psoriasis	immune	G	28.0	49206417	1242	19
+rs11742570	Crohn's disease	metabolic	T	15.0	40410584	rs6451493	Ulcerative colitis	immune	T	15.0	40410935	1281	5
+rs11742570	Inflammatory bowel disease	metabolic	C	15.0	40410584	rs6451493	Ulcerative colitis	immune	T	15.0	40410935	1282	5
+rs1847472	Crohn's disease	metabolic	A	15.0	90973159	rs1504215	Allergic rhinitis	immune	G	8.0	91006227	1437	6
+rs1847472	Inflammatory bowel disease	metabolic	C	15.0	90973159	rs1504215	Allergic rhinitis	immune	G	8.0	91006227	1439	6
+rs4809330	Crohn's disease	metabolic	G	15.0	62349586	rs6062504	Ulcerative colitis	immune	G	15.0	62348907	1444	20
+rs725613	Primary sclerosing cholangitis	metabolic	T	20.0	11169683	rs887864	Allergic rhinitis	immune	A	8.0	11158885	1469	16
+rs725613	Primary sclerosing cholangitis	metabolic	T	20.0	11169683	rs12708716	Type 1 diabetes	immune	A	4.0	11179873	1476	16
+rs725613	Primary sclerosing cholangitis	metabolic	T	20.0	11169683	rs12599402	Systemic lupus erythematosus	immune	T	19.0	11189888	1477	16
+rs7927997	Crohn's disease	metabolic	T	15.0	76301375	rs7927894	Atopic dermatitis	immune	T	1.0	76301316	1495	11
+rs2030519	Allergic rhinitis	immune	G	8.0	188119901	rs1464510	Celiac disease	metabolic	A	8.0	188112554	1513	3
+rs3129843	Dermatomyositis	immune	G	5.0	32395726	rs2187668	Celiac disease	metabolic	T	8.0	32605884	1542	6
+rs38911	Ulcerative colitis	immune	G	15.0	116895163	rs38904	Inflammatory bowel disease	metabolic	T	15.0	116892846	1680	7
+rs10896794	Inflammatory bowel disease	metabolic	T	15.0	58339124	rs11229555	Ulcerative colitis	immune	G	15.0	58408687	1696	11
+rs3749171	Crohn's disease	metabolic	T	15.0	241569692	rs4676410	Ankylosing spondylitis	immune	A	25.0	241563739	1702	2
+rs3749171	Inflammatory bowel disease	metabolic	T	15.0	241569692	rs4676410	Ankylosing spondylitis	immune	A	25.0	241563739	1703	2
+rs4147359	Primary sclerosing cholangitis	metabolic	A	20.0	6108439	rs10795791	Type 1 diabetes	immune	G	4.0	6108340	1722	10
+rs4147359	Primary sclerosing cholangitis	metabolic	A	20.0	6108439	rs10905718	Systemic lupus erythematosus	immune	G	19.0	6114856	1723	10
+rs10883365	Crohn's disease	metabolic	G	15.0	101287764	rs4409764	Ulcerative colitis	immune	T	15.0	101284237	1729	10
+rs1018326	Celiac disease	metabolic	C	8.0	182007800	rs12615545	Ankylosing spondylitis	immune	C	25.0	182048452	1896	2
+rs9282864	Allergic rhinitis	immune	A	8.0	28617308	rs151181	Crohn's disease	metabolic	C	15.0	28490517	1905	16
+rs763361	Type 1 diabetes	immune	C	4.0	67531642	rs727088	Inflammatory bowel disease	metabolic	G	15.0	67530439	1918	18
+rs763361	Type 1 diabetes	immune	C	4.0	67531642	rs1788097	Primary sclerosing cholangitis	metabolic	T	20.0	67543688	1920	18
+rs151181	Crohn's disease	metabolic	C	15.0	28490517	rs4788084	Type 1 diabetes	immune	C	4.0	28539848	1980	16
+rs9271774	Type 2 diabetes	metabolic	C	35.0	32594309	rs9270984	Systemic lupus erythematosus	immune	T	19.0	32573991	2044	6
+rs9271774	Type 2 diabetes	metabolic	C	35.0	32594309	rs9270986	Myasthenia gravis	immune	A	28.0	32574060	2045	6
+rs10797432	Ulcerative colitis	immune	C	15.0	2501338	rs6667605	Inflammatory bowel disease	metabolic	C	15.0	2502780	2075	1
+rs6087990	Ulcerative colitis	immune	C	15.0	31349908	rs4911259	Inflammatory bowel disease	metabolic	G	15.0	31376282	2133	20
+rs11083840	Inflammatory bowel disease	metabolic	G	15.0	47119910	rs1126510	Ulcerative colitis	immune	G	15.0	47123783	2137	19
+rs17622378	Ulcerative colitis	immune	G	15.0	131778452	rs2188962	Inflammatory bowel disease	metabolic	T	15.0	131770805	2270	5
+rs17622378	Ulcerative colitis	immune	G	15.0	131778452	rs12521868	Crohn's disease	metabolic	T	15.0	131784393	2273	5
+rs2542151	Crohn's disease	metabolic	G	15.0	12779947	rs1893217	Type 1 diabetes	immune	G	4.0	12809340	2286	18
+rs2542151	Crohn's disease	metabolic	G	15.0	12779947	rs1893217	Ulcerative colitis	immune	G	15.0	12809340	2287	18
+rs2542151	Type 1 diabetes	immune	G	4.0	12779947	rs1893217	Celiac disease	metabolic	G	8.0	12809340	2288	18
+rs2542151	Type 1 diabetes	immune	G	4.0	12779947	rs1893217	Inflammatory bowel disease	metabolic	G	15.0	12809340	2290	18
+rs11584383	Crohn's disease	metabolic	T	15.0	200935866	rs7554511	Ulcerative colitis	immune	C	15.0	200877562	2375	1
+rs11584383	Ulcerative colitis	immune	C	15.0	200935866	rs7554511	Inflammatory bowel disease	metabolic	C	15.0	200877562	2377	1
+rs2816316	Celiac disease	metabolic	C	8.0	192536813	rs2984920	Systemic lupus erythematosus	immune	A	19.0	192544795	2420	1
+rs1517352	Crohn's disease	metabolic	A	15.0	191931464	rs6736175	Systemic lupus erythematosus	immune	C	19.0	191946322	2520	2
+rs1517352	Inflammatory bowel disease	metabolic	C	15.0	191931464	rs6736175	Systemic lupus erythematosus	immune	C	19.0	191946322	2521	2
+rs516246	Crohn's disease	metabolic	T	15.0	49206172	rs492602	Psoriasis	immune	G	28.0	49206417	2606	19
+rs516246	Inflammatory bowel disease	metabolic	T	15.0	49206172	rs492602	Psoriasis	immune	G	28.0	49206417	2607	19
+rs516246	Type 1 diabetes	immune	T	4.0	49206172	rs281379	Crohn's disease	metabolic	A	15.0	49214274	2623	19
+rs7936323	Allergic rhinitis	immune	A	8.0	76293758	rs2155219	Crohn's disease	metabolic	T	15.0	76299194	2634	11
+rs7936323	Allergic rhinitis	immune	A	8.0	76293758	rs2155219	Eosinophilic esophagitis	metabolic	T	21.0	76299194	2635	11
+rs7936323	Allergic rhinitis	immune	A	8.0	76293758	rs2155219	Inflammatory bowel disease	metabolic	T	15.0	76299194	2636	11
+rs992157	Colorectal cancer	metabolic	A	50.0	219154781	rs2382817	Ulcerative colitis	immune	A	15.0	219151218	2676	2
+rs11879191	Crohn's disease	metabolic	A	15.0	10512911	rs35164067	Ankylosing spondylitis	immune	G	25.0	10525181	2679	19
+rs11879191	Inflammatory bowel disease	metabolic	G	15.0	10512911	rs35164067	Ankylosing spondylitis	immune	G	25.0	10525181	2680	19
+rs2111485	Inflammatory bowel disease	metabolic	A	15.0	163110536	rs1990760	Systemic lupus erythematosus	immune	T	19.0	163124051	2681	2
+rs2111485	Inflammatory bowel disease	metabolic	A	15.0	163110536	rs1990760	Type 1 diabetes	immune	C	4.0	163124051	2682	2
+rs4921482	Psoriatic arthritis	immune	T	35.0	158764478	rs6556412	Crohn's disease	metabolic	A	15.0	158787385	2694	5
+rs4921482	Psoriatic arthritis	immune	T	35.0	158764478	rs6556412	Inflammatory bowel disease	metabolic	A	15.0	158787385	2695	5
+rs12727642	Celiac disease	metabolic	A	8.0	8046672	rs3766606	Ulcerative colitis	immune	G	15.0	8022197	2883	1
+rs2315008	Inflammatory bowel disease	metabolic	G	15.0	62343956	rs6062504	Ulcerative colitis	immune	G	15.0	62348907	2896	20
+rs4246905	Ulcerative colitis	immune	C	15.0	117553249	rs3810936	Crohn's disease	metabolic	C	15.0	117552885	2928	9
+rs4379175	Psoriasis	immune	G	28.0	158804928	rs6556412	Crohn's disease	metabolic	A	15.0	158787385	2949	5
+rs4379175	Psoriasis	immune	G	28.0	158804928	rs6556412	Inflammatory bowel disease	metabolic	A	15.0	158787385	2950	5
+rs597808	Systemic lupus erythematosus	immune	A	19.0	111973358	rs653178	Crohn's disease	metabolic	C	15.0	112007756	2987	12
+rs597808	Systemic lupus erythematosus	immune	A	19.0	111973358	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	2988	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	3031	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	3036	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Celiac disease	metabolic	C	8.0	112007756	3061	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3062	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3063	12
+rs2647044	Type 1 diabetes	immune	A	4.0	32667910	rs2187668	Celiac disease	metabolic	T	8.0	32605884	3088	6
+rs11465804	Crohn's disease	metabolic	T	15.0	67702526	rs11209026	Ankylosing spondylitis	immune	G	25.0	67705958	3209	1
+rs11465804	Crohn's disease	metabolic	T	15.0	67702526	rs80174646	Ulcerative colitis	immune	G	15.0	67708155	3213	1
+rs11465804	Crohn's disease	metabolic	T	15.0	67702526	rs9988642	Psoriasis	immune	T	28.0	67726104	3214	1
+rs2256609	Crohn's disease	metabolic	G	15.0	21925017	rs181359	Psoriasis	immune	A	28.0	21928641	3220	22
+rs1111875	Type 2 diabetes	metabolic	C	35.0	94462882	rs12778642	Ulcerative colitis	immune	T	15.0	94464307	3432	10
+rs1736135	Ulcerative colitis	immune	T	15.0	16805220	rs1736020	Crohn's disease	metabolic	C	15.0	16812552	3435	21
+rs9557195	Inflammatory bowel disease	metabolic	T	15.0	99956622	rs3742130	Ulcerative colitis	immune	G	15.0	99907341	3517	13
+rs4077515	Crohn's disease	metabolic	T	15.0	139266496	rs10781499	Ulcerative colitis	immune	A	15.0	139266405	3540	9
+rs4077515	Ulcerative colitis	immune	T	15.0	139266496	rs10781499	Inflammatory bowel disease	metabolic	A	15.0	139266405	3545	9
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	3573	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	3583	12
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3631	12
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3632	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3639	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3640	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3679	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3680	12
+rs3184504	Type 1 diabetes	immune	T	4.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3690	12
+rs3184504	Type 1 diabetes	immune	T	4.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3691	12
+rs60652743	Primary sclerosing cholangitis	metabolic	A	20.0	47205707	rs402072	Type 1 diabetes	immune	T	4.0	47219122	3748	19
+rs9271366	Crohn's disease	metabolic	A	15.0	32586854	rs9270984	Systemic lupus erythematosus	immune	T	19.0	32573991	3858	6
+rs9271366	Crohn's disease	metabolic	A	15.0	32586854	rs9270986	Myasthenia gravis	immune	A	28.0	32574060	3862	6
+rs41299637	Ankylosing spondylitis	immune	T	25.0	200877850	rs7554511	Crohn's disease	metabolic	A	15.0	200877562	3924	1
+rs41299637	Ankylosing spondylitis	immune	T	25.0	200877850	rs7554511	Inflammatory bowel disease	metabolic	C	15.0	200877562	3925	1
+rs41299637	Ankylosing spondylitis	immune	T	25.0	200877850	rs10800746	Celiac disease	metabolic	C	8.0	200881392	3927	1
+rs917997	Celiac disease	metabolic	T	8.0	103070568	rs6419573	Atopic dermatitis	immune	T	1.0	103027103	3946	2
+rs886774	Ulcerative colitis	immune	G	15.0	107495434	rs4380874	Inflammatory bowel disease	metabolic	T	15.0	107480315	3956	7
+rs6671847	Systemic lupus erythematosus	immune	A	19.0	161478810	rs1801274	Crohn's disease	metabolic	G	15.0	161479745	4010	1
+rs6671847	Systemic lupus erythematosus	immune	A	19.0	161478810	rs1801274	Inflammatory bowel disease	metabolic	A	15.0	161479745	4011	1
+rs12242110	Crohn's disease	metabolic	G	15.0	35535695	rs12261843	Ulcerative colitis	immune	G	15.0	35554054	4105	10
+rs13003464	Celiac disease	metabolic	G	8.0	61186829	rs7608910	Ulcerative colitis	immune	G	15.0	61204856	4124	2
+rs13003464	Crohn's disease	metabolic	G	15.0	61186829	rs7608910	Ulcerative colitis	immune	G	15.0	61204856	4127	2
+rs13003464	Ulcerative colitis	immune	G	15.0	61186829	rs7608910	Inflammatory bowel disease	metabolic	G	15.0	61204856	4129	2
+rs9525625	Crohn's disease	metabolic	T	15.0	43018030	rs7328203	Allergic rhinitis	immune	G	8.0	42988546	4282	13
+rs9525625	Inflammatory bowel disease	metabolic	T	15.0	43018030	rs7328203	Allergic rhinitis	immune	G	8.0	42988546	4284	13
+rs10045431	Crohn's disease	metabolic	C	15.0	158814533	rs6556416	Ankylosing spondylitis	immune	C	25.0	158818745	4290	5
+rs254563	Colorectal cancer	metabolic	A	50.0	134440426	rs254560	Ulcerative colitis	immune	A	15.0	134443606	4354	5
+rs7524102	Ulcerative colitis	immune	A	15.0	22698447	rs12568930	Inflammatory bowel disease	metabolic	T	15.0	22702231	4357	1
+rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	rs12939457	Allergic rhinitis	immune	T	8.0	38032188	4386	17
+rs12946510	Crohn's disease	metabolic	T	15.0	37912377	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	4394	17
+rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	4398	17
+rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	rs2872507	Ulcerative colitis	immune	A	15.0	38040763	4399	17
+rs1363907	Ulcerative colitis	immune	A	15.0	96252803	rs2549794	Crohn's disease	metabolic	C	15.0	96244549	4428	5
+rs1363907	Inflammatory bowel disease	metabolic	A	15.0	96252803	rs2910686	Ankylosing spondylitis	immune	C	25.0	96252589	4431	5
+rs1363907	Inflammatory bowel disease	metabolic	A	15.0	96252803	rs2910686	Psoriasis	immune	C	28.0	96252589	4432	5
+rs2412970	Inflammatory bowel disease	metabolic	G	15.0	30486826	rs5763767	Ulcerative colitis	immune	A	15.0	30493882	4474	22
+rs6419573	Atopic dermatitis	immune	T	1.0	103027103	rs6708413	Crohn's disease	metabolic	G	15.0	103063369	4494	2
+rs6419573	Atopic dermatitis	immune	T	1.0	103027103	rs6708413	Inflammatory bowel disease	metabolic	G	15.0	103063369	4495	2
+rs2283790	Ankylosing spondylitis	immune	G	25.0	21956653	rs2266959	Inflammatory bowel disease	metabolic	T	15.0	21922904	4580	22
+rs2283790	Ankylosing spondylitis	immune	G	25.0	21956653	rs181359	Crohn's disease	metabolic	A	15.0	21928641	4582	22
+rs2283790	Ankylosing spondylitis	immune	G	25.0	21956653	rs2298428	Celiac disease	metabolic	T	8.0	21982892	4587	22
+rs1464510	Celiac disease	metabolic	A	8.0	188112554	rs13076312	Vitiligo	immune	T	19.0	188089254	4676	3
+rs1464510	Celiac disease	metabolic	A	8.0	188112554	rs13093110	Graves' disease	immune	T	30.0	188125120	4684	3
+rs2549794	Crohn's disease	metabolic	C	15.0	96244549	rs2910686	Ankylosing spondylitis	immune	C	25.0	96252589	4779	5
+rs2549794	Crohn's disease	metabolic	C	15.0	96244549	rs2910686	Psoriasis	immune	C	28.0	96252589	4780	5
+rs80174646	Ulcerative colitis	immune	G	15.0	67708155	rs11209026	Inflammatory bowel disease	metabolic	G	15.0	67705958	4899	1
+rs8056814	Type 1 diabetes	immune	A	4.0	75252327	rs7202877	Type 2 diabetes	metabolic	T	35.0	75247245	4904	16
+rs1182188	Inflammatory bowel disease	metabolic	T	15.0	2869985	rs798502	Ulcerative colitis	immune	A	15.0	2789880	4909	7
+rs5771069	Ulcerative colitis	immune	G	15.0	50435480	rs137848	Type 2 diabetes	metabolic	C	35.0	50440296	4936	22
+rs744166	Crohn's disease	metabolic	A	15.0	40514201	rs12942547	Ulcerative colitis	immune	A	15.0	40527544	5055	17
+rs2327832	Systemic lupus erythematosus	immune	G	19.0	137973068	rs6920220	Inflammatory bowel disease	metabolic	A	15.0	138006504	5214	6
+rs11624293	Ankylosing spondylitis	immune	C	25.0	88488821	rs8005161	Crohn's disease	metabolic	T	15.0	88472595	5244	14
+rs11624293	Ankylosing spondylitis	immune	C	25.0	88488821	rs8005161	Inflammatory bowel disease	metabolic	T	15.0	88472595	5245	14
+rs181359	Crohn's disease	metabolic	A	15.0	21928641	rs7444	Systemic lupus erythematosus	immune	C	19.0	21976934	5484	22
+rs4976646	Ulcerative colitis	immune	C	15.0	176788570	rs12654812	Inflammatory bowel disease	metabolic	A	15.0	176794191	5516	5
+rs2843403	Graves' disease	immune	C	30.0	2529097	rs3748816	Primary sclerosing cholangitis	metabolic	A	20.0	2526746	5534	1
+rs2843403	Graves' disease	immune	C	30.0	2529097	rs4445406	Celiac disease	metabolic	T	8.0	2539400	5536	1
+rs11677002	Allergic rhinitis	immune	T	8.0	28614401	rs925255	Crohn's disease	metabolic	T	15.0	28614794	5600	2
+rs11677002	Allergic rhinitis	immune	T	8.0	28614401	rs925255	Inflammatory bowel disease	metabolic	C	15.0	28614794	5601	2
+rs2298428	Celiac disease	metabolic	T	8.0	21982892	rs7444	Systemic lupus erythematosus	immune	C	19.0	21976934	5816	22
+rs2298428	Celiac disease	metabolic	T	8.0	21982892	rs4821124	Psoriasis	immune	C	28.0	21979289	5817	22
+rs9822268	Ulcerative colitis	immune	A	15.0	49719729	rs9858542	Crohn's disease	metabolic	A	15.0	49701983	5855	3
+rs9822268	Ulcerative colitis	immune	A	15.0	49719729	rs3197999	Inflammatory bowel disease	metabolic	A	15.0	49721532	5857	3
+rs9822268	Ulcerative colitis	immune	A	15.0	49719729	rs3197999	Primary sclerosing cholangitis	metabolic	A	20.0	49721532	5858	3
+rs3116494	Ulcerative colitis	immune	G	15.0	204592021	rs7426056	Primary sclerosing cholangitis	metabolic	A	20.0	204612058	5956	2
+rs12939457	Allergic rhinitis	immune	T	8.0	38032188	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	6029	17
+rs4821124	Psoriasis	immune	C	28.0	21979289	rs2266959	Inflammatory bowel disease	metabolic	T	15.0	21922904	6063	22
+rs6920220	Systemic lupus erythematosus	immune	A	19.0	138006504	rs17264332	Celiac disease	metabolic	G	8.0	138005515	6184	6
+rs6920220	Ulcerative colitis	immune	A	15.0	138006504	rs17264332	Celiac disease	metabolic	G	8.0	138005515	6185	6
+rs4409764	Inflammatory bowel disease	metabolic	T	15.0	101284237	rs11190140	Ulcerative colitis	immune	T	15.0	101291593	6339	10
+rs2274910	Crohn's disease	metabolic	C	15.0	160852046	rs4656958	Ulcerative colitis	immune	G	15.0	160856964	6492	1
+rs11747270	Crohn's disease	metabolic	G	15.0	150258867	rs11741861	Ulcerative colitis	immune	G	15.0	150277909	6641	5
+rs267939	Ulcerative colitis	immune	C	15.0	10752315	rs2930047	Crohn's disease	metabolic	C	15.0	10695526	6872	5
+rs267939	Ulcerative colitis	immune	C	15.0	10752315	rs2930047	Inflammatory bowel disease	metabolic	C	15.0	10695526	6873	5
+rs727088	Ulcerative colitis	immune	G	15.0	67530439	rs1788097	Primary sclerosing cholangitis	metabolic	T	20.0	67543688	6910	18
+rs1008723	Dermatomyositis	immune	T	5.0	38066267	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	6996	17
+rs7210086	Ulcerative colitis	immune	A	15.0	70641698	rs17780256	Inflammatory bowel disease	metabolic	A	15.0	70642923	7145	17
+rs653178	Celiac disease	metabolic	C	8.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7293	12
+rs653178	Crohn's disease	metabolic	C	15.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7295	12
+rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	7297	12
+rs2305480	Ulcerative colitis	immune	A	15.0	38062196	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	7594	17
+rs7134472	Crohn's disease	metabolic	A	15.0	68499986	rs7134599	Ulcerative colitis	immune	A	15.0	68500075	7683	12
+rs7134472	Ulcerative colitis	immune	A	15.0	68499986	rs7134599	Inflammatory bowel disease	metabolic	A	15.0	68500075	7684	12
+rs3766606	Crohn's disease	metabolic	T	15.0	8022197	rs35675666	Ulcerative colitis	immune	G	15.0	8021973	7886	1
+rs3766606	Ulcerative colitis	immune	G	15.0	8022197	rs35675666	Inflammatory bowel disease	metabolic	G	15.0	8021973	7887	1
+rs4728142	Inflammatory bowel disease	metabolic	A	15.0	128573967	rs3757387	Systemic lupus erythematosus	immune	C	19.0	128576086	7915	7
+rs4788084	Type 1 diabetes	immune	C	4.0	28539848	rs8049439	Inflammatory bowel disease	metabolic	C	15.0	28837515	8216	16
+rs635634	Type 2 diabetes	metabolic	T	35.0	136155000	rs2519093	Allergic rhinitis	immune	T	8.0	136141870	8265	9
+rs7554511	Ulcerative colitis	immune	C	15.0	200877562	rs10800746	Celiac disease	metabolic	C	8.0	200881392	8488	1
+rs11054935	Ulcerative colitis	immune	G	15.0	12648843	rs11612508	Inflammatory bowel disease	metabolic	G	15.0	12657513	8548	12
+rs2266959	Inflammatory bowel disease	metabolic	T	15.0	21922904	rs7444	Systemic lupus erythematosus	immune	C	19.0	21976934	8578	22
+rs2155219	Eosinophilic esophagitis	metabolic	T	21.0	76299194	rs2212434	Atopic dermatitis	immune	T	1.0	76281593	8656	11
+rs2155219	Inflammatory bowel disease	metabolic	T	15.0	76299194	rs2212434	Atopic dermatitis	immune	T	1.0	76281593	8657	11
+rs3094013	Polymyositis	immune	A	20.0	31434366	rs1800628	Oral cavity cancer	headneck	A	62.0	31546850	3217	6
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs7137828	Glaucoma	nervous	T	40.0	111932800	32	12
+rs36014129	Systemic lupus erythematosus	immune	A	19.0	25884519	rs13198474	Schizophrenia	nervous	G	13.0	25874423	68	6
+rs11742270	Ankylosing spondylitis	immune	G	25.0	35881443	rs6881706	Multiple sclerosis	nervous	G	32.0	35879156	454	5
+rs12421615	Vitiligo	immune	G	19.0	64021605	rs694739	Multiple sclerosis	nervous	A	32.0	64097233	696	11
+rs1569723	Kawasaki disease	immune	A	5.0	44742064	rs6074022	Multiple sclerosis	nervous	C	32.0	44740196	732	20
+rs4810485	Systemic lupus erythematosus	immune	T	19.0	44747947	rs6074022	Multiple sclerosis	nervous	C	32.0	44740196	872	20
+rs1860545	Ankylosing spondylitis	immune	G	25.0	6446777	rs1800693	Multiple sclerosis	nervous	C	32.0	6440009	915	12
+rs3135394	Systemic lupus erythematosus	immune	G	19.0	32408497	rs1150757	Neuromyelitis optica	nervous	A	32.0	32029205	948	6
+rs2015407	Systemic lupus erythematosus	immune	A	19.0	103274547	rs12148050	Multiple sclerosis	nervous	A	32.0	103263788	1120	14
+rs1267499	Systemic lupus erythematosus	immune	T	19.0	14715882	rs17119	Multiple sclerosis	nervous	A	32.0	14719496	1124	6
+rs9901869	Ankylosing spondylitis	immune	A	25.0	45575206	rs4794058	Multiple sclerosis	nervous	T	32.0	45597098	1260	17
+rs3129843	Dermatomyositis	immune	G	5.0	32395726	rs1150757	Neuromyelitis optica	nervous	A	32.0	32029205	1538	6
+rs6498160	Multiple sclerosis	nervous	T	32.0	11199447	rs887864	Allergic rhinitis	immune	A	8.0	11158885	1580	16
+rs1270942	Systemic lupus erythematosus	immune	G	19.0	31918860	rs1150757	Neuromyelitis optica	nervous	A	32.0	32029205	1851	6
+rs11156875	Schizophrenia	nervous	A	13.0	35619816	rs2143950	Atopic dermatitis	immune	T	1.0	35572357	1892	14
+rs11129295	Multiple sclerosis	nervous	T	32.0	27788780	rs13093489	Ankylosing spondylitis	immune	A	25.0	27794907	2060	3
+rs11810217	Multiple sclerosis	nervous	T	32.0	93148377	rs11578098	Systemic lupus erythematosus	immune	A	19.0	93119410	2091	1
+rs2942168	Parkinson's disease	nervous	G	58.0	43714850	rs1052553	Type 1 diabetes	immune	A	4.0	44073889	2172	17
+rs3130544	Myasthenia gravis	immune	A	28.0	31058340	rs2596500	Schizophrenia	nervous	A	13.0	31321267	2184	6
+rs3802826	Psoriasis	immune	A	28.0	128406438	rs3809006	Multiple sclerosis	nervous	C	32.0	128410836	2187	11
+rs7522462	Multiple sclerosis	nervous	G	32.0	200881595	rs7554511	Ulcerative colitis	immune	C	15.0	200877562	2740	1
+rs7522462	Multiple sclerosis	nervous	G	32.0	200881595	rs41299637	Ankylosing spondylitis	immune	T	25.0	200877850	2741	1
+rs6897932	Type 1 diabetes	immune	C	4.0	35874575	rs6881706	Multiple sclerosis	nervous	G	32.0	35879156	2770	5
+rs2955587	Systemic lupus erythematosus	immune	G	19.0	8098079	rs2945232	Schizophrenia	nervous	C	13.0	8098038	2850	8
+rs12156002	Systemic lupus erythematosus	immune	A	19.0	129190544	rs2019960	Multiple sclerosis	nervous	C	32.0	129192271	2852	8
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs7137828	Glaucoma	nervous	T	40.0	111932800	3041	12
+rs3094013	Polymyositis	immune	A	20.0	31434366	rs2596500	Schizophrenia	nervous	A	13.0	31321267	3216	6
+rs2675669	Psoriasis	immune	T	28.0	75653872	rs2688608	Multiple sclerosis	nervous	T	32.0	75658349	3391	10
+rs522127	Multiple sclerosis	nervous	C	32.0	159734668	rs564976	Systemic lupus erythematosus	immune	A	19.0	159729059	3394	3
+rs11583043	Ulcerative colitis	immune	T	15.0	101466054	rs11581062	Multiple sclerosis	nervous	G	32.0	101407519	3513	1
+rs6881706	Multiple sclerosis	nervous	G	32.0	35879156	rs7717955	Allergic rhinitis	immune	C	8.0	35862841	3822	5
+rs6881706	Multiple sclerosis	nervous	G	32.0	35879156	rs10214237	Atopic dermatitis	immune	T	1.0	35883734	3829	5
+rs9271366	Systemic lupus erythematosus	immune	G	19.0	32586854	rs3104373	Multiple sclerosis	nervous	T	32.0	32600375	3872	6
+rs9271366	Ulcerative colitis	immune	G	15.0	32586854	rs3104373	Multiple sclerosis	nervous	T	32.0	32600375	3873	6
+rs4075958	Multiple sclerosis	nervous	A	32.0	176784512	rs4976646	Ulcerative colitis	immune	C	15.0	176788570	4184	5
+rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	rs12939457	Allergic rhinitis	immune	T	8.0	38032188	4388	17
+rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	4402	17
+rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	rs2872507	Ulcerative colitis	immune	A	15.0	38040763	4403	17
+rs2984920	Systemic lupus erythematosus	immune	A	19.0	192544795	rs1323292	Multiple sclerosis	nervous	A	32.0	192541021	4478	1
+rs4755450	Multiple sclerosis	nervous	G	32.0	36363575	rs2592555	Atopic dermatitis	immune	T	1.0	36371757	4572	11
+rs1150755	Systemic lupus erythematosus	immune	T	19.0	32038550	rs1150754	Schizophrenia	nervous	C	13.0	32050758	4811	6
+rs9270986	Myasthenia gravis	immune	A	28.0	32574060	rs3104373	Multiple sclerosis	nervous	T	32.0	32600375	5013	6
+rs1021156	Multiple sclerosis	nervous	T	32.0	79575804	rs1966115	Systemic lupus erythematosus	immune	A	19.0	79556891	5041	8
+rs744166	Multiple sclerosis	nervous	G	32.0	40514201	rs12942547	Ulcerative colitis	immune	A	15.0	40527544	5058	17
+rs11021232	Vitiligo	immune	C	19.0	95320808	rs4409785	Multiple sclerosis	nervous	C	32.0	95311422	5184	11
+rs2843403	Graves' disease	immune	C	30.0	2529097	rs3748817	Multiple sclerosis	nervous	T	32.0	2525665	5533	1
+rs1250540	Multiple sclerosis	nervous	G	32.0	81036007	rs1250544	Psoriasis	immune	G	28.0	81032885	5641	10
+rs2041670	Systemic lupus erythematosus	immune	A	19.0	11174652	rs12927355	Multiple sclerosis	nervous	C	32.0	11194771	5984	16
+rs427221	Systemic lupus erythematosus	immune	C	19.0	28075985	rs170934	Multiple sclerosis	nervous	T	32.0	28079085	6122	3
+rs35350651	Allergic rhinitis	immune	C	8.0	111907431	rs7137828	Glaucoma	nervous	T	40.0	111932800	6267	12
+rs4151657	Ulcerative colitis	immune	C	15.0	31917540	rs2734325	Schizophrenia	nervous	T	13.0	31945646	6497	6
+rs41268896	Atopic dermatitis	immune	A	1.0	32070069	rs2734325	Schizophrenia	nervous	T	13.0	31945646	6618	6
+rs12185268	Parkinson's disease	nervous	A	58.0	43923683	rs1052553	Type 1 diabetes	immune	A	4.0	44073889	6650	17
+rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7331	12
+rs653178	Type 1 diabetes	immune	C	4.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7332	12
+rs6451493	Ulcerative colitis	immune	T	15.0	40410935	rs6880778	Multiple sclerosis	nervous	G	32.0	40399096	7707	5
+rs10905718	Systemic lupus erythematosus	immune	G	19.0	6114856	rs3118470	Multiple sclerosis	nervous	C	32.0	6101713	7913	10
+rs12927355	Type 1 diabetes	immune	C	4.0	11194771	rs11865121	Multiple sclerosis	nervous	C	32.0	11166688	8045	16
+rs11171739	Type 1 diabetes	immune	C	4.0	56470625	rs4622308	Anorexia nervosa	nervous	T	12.0	56469185	8277	12
+rs2836878	Ulcerative colitis	immune	G	15.0	40465534	rs4817988	Takayasu arteritis	eye	G	30.0	40468838	278	21
+rs2836883	Ankylosing spondylitis	immune	G	25.0	40466744	rs4817988	Takayasu arteritis	eye	G	30.0	40468838	2941	21
+rs3823355	Vitiligo	immune	T	19.0	29942083	rs4713281	Takayasu arteritis	eye	A	30.0	29978352	4425	6
+rs1363907	Ulcerative colitis	immune	A	15.0	96252803	rs7705093	Birdshot chorioretinopathy	eye	T	50.0	96290647	4437	5
+rs2910686	Ankylosing spondylitis	immune	C	25.0	96252589	rs7705093	Birdshot chorioretinopathy	eye	T	50.0	96290647	4954	5
+rs2910686	Psoriasis	immune	C	28.0	96252589	rs7705093	Birdshot chorioretinopathy	eye	T	50.0	96290647	4955	5
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	19	12
+rs231725	Vitiligo	immune	A	19.0	204740675	rs231779	Hypothyroidism	endocrine	T	60.0	204734487	390	2
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Graves' disease	immune	A	30.0	114377568	993	1
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Hashimoto thyroiditis	immune	A	30.0	114377568	994	1
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Myasthenia gravis	immune	A	28.0	114377568	996	1
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Polymyositis	immune	A	20.0	114377568	998	1
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Systemic lupus erythematosus	immune	A	19.0	114377568	1000	1
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Type 1 diabetes	immune	A	4.0	114377568	1001	1
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Vitiligo	immune	A	19.0	114377568	1002	1
+rs17293632	Ulcerative colitis	immune	T	15.0	67442596	rs56062135	Thyroid cancer	endocrine	T	44.0	67455630	1665	15
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	3035	12
+rs1024161	Graves' disease	immune	T	30.0	204721752	rs231779	Hypothyroidism	endocrine	T	60.0	204734487	3107	2
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	3581	12
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3671	12
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3672	12
+rs231779	Hypothyroidism	endocrine	T	60.0	204734487	rs231770	Myasthenia gravis	immune	T	28.0	204729153	4577	2
+rs10774624	Vitiligo	immune	G	19.0	111833788	rs3184504	Endometrial cancer	cancer	C	58.0	111884608	17	12
+rs36014129	Systemic lupus erythematosus	immune	A	19.0	25884519	rs13191445	Lung cancer	cancer	A	40.0	26015489	69	6
+rs36014129	Systemic lupus erythematosus	immune	A	19.0	25884519	rs36109883	Squamous cell carcinoma	cancer	A	70.0	26133070	72	6
+rs907092	Primary biliary cholangitis	cancer	A	39.0	37922259	rs12939457	Allergic rhinitis	immune	T	8.0	38032188	233	17
+rs907092	Primary biliary cholangitis	cancer	A	39.0	37922259	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	243	17
+rs907092	Primary biliary cholangitis	cancer	A	39.0	37922259	rs2872507	Ulcerative colitis	immune	A	15.0	38040763	244	17
+rs2402752	Ankylosing spondylitis	immune	T	25.0	124439599	rs17246404	Chronic lymphocytic leukemia	cancer	C	60.0	124462661	283	7
+rs2402752	Ankylosing spondylitis	immune	T	25.0	124439599	rs58618031	Multiple myeloma	cancer	T	68.0	124583896	284	7
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs12939457	Allergic rhinitis	immune	T	8.0	38032188	313	17
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs2872507	Type 1 diabetes	immune	A	4.0	38040763	321	17
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs2872507	Ulcerative colitis	immune	A	15.0	38040763	322	17
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs1008723	Dermatomyositis	immune	T	5.0	38066267	343	17
+rs8067378	Primary biliary cholangitis	cancer	G	39.0	38051348	rs1008723	Dermatomyositis	immune	T	5.0	38066267	344	17
+rs11742270	Ankylosing spondylitis	immune	G	25.0	35881443	rs6897932	Primary biliary cholangitis	cancer	T	39.0	35874575	451	5
+rs1432296	Systemic lupus erythematosus	immune	T	19.0	61068167	rs13034020	Hodgkin's lymphoma	cancer	G	24.0	61043834	459	2
+rs6010620	Atopic dermatitis	immune	G	1.0	62309839	rs2297440	Glioma	cancer	C	10.0	62312299	540	20
+rs6010620	Atopic dermatitis	immune	G	1.0	62309839	rs6062302	Glioblastoma	cancer	C	53.0	62320968	561	20
+rs538147	Primary biliary cholangitis	cancer	G	39.0	64129722	rs645078	Psoriasis	immune	A	28.0	64135298	617	11
+rs12421615	Vitiligo	immune	G	19.0	64021605	rs694739	Primary biliary cholangitis	cancer	A	39.0	64097233	697	11
+rs3807307	Primary biliary cholangitis	cancer	C	39.0	128579202	rs4728142	Ulcerative colitis	immune	A	15.0	128573967	901	7
+rs12971201	Type 1 diabetes	immune	G	4.0	12830538	rs2847281	Esophageal cancer (squamous cell)	cancer	G	50.0	12821593	908	18
+rs1860545	Ankylosing spondylitis	immune	G	25.0	6446777	rs1800693	Primary biliary cholangitis	cancer	C	39.0	6440009	916	12
+rs6679677	Systemic lupus erythematosus	immune	A	19.0	114303808	rs2476601	Hodgkin's lymphoma	cancer	A	24.0	114377568	1017	1
+rs6679677	Type 1 diabetes	immune	A	4.0	114303808	rs2476601	Hodgkin's lymphoma	cancer	A	24.0	114377568	1028	1
+rs35789010	Systemic lupus erythematosus	immune	A	19.0	25514179	rs13191296	Squamous cell carcinoma	cancer	T	70.0	25684606	1106	6
+rs1129038	Vitiligo	immune	C	19.0	28356859	rs12916300	Basal cell carcinoma	cancer	T	59.0	28410491	1225	15
+rs681343	Lung cancer	cancer	T	40.0	49206462	rs516246	Type 1 diabetes	immune	T	4.0	49206172	1229	19
+rs681343	Lung cancer	cancer	T	40.0	49206462	rs492602	Psoriasis	immune	G	28.0	49206417	1239	19
+rs4973341	Primary biliary cholangitis	cancer	T	39.0	228660362	rs7556897	Ulcerative colitis	immune	T	15.0	228660112	1252	2
+rs3817963	Lung cancer	cancer	C	40.0	32368087	rs3806156	Vitiligo	immune	T	19.0	32373698	1265	6
+rs16917546	Basal cell carcinoma	cancer	C	59.0	64397538	rs10995251	Atopic dermatitis	immune	C	1.0	64398466	1301	10
+rs10488631	Systemic sclerosis	immune	C	20.0	128594183	rs35188261	Primary biliary cholangitis	cancer	A	39.0	128683539	1387	7
+rs9373839	Systemic lupus erythematosus	immune	C	19.0	106655617	rs9372120	Multiple myeloma	cancer	G	68.0	106667535	1507	6
+rs9373839	Systemic sclerosis	immune	C	20.0	106655617	rs9372120	Multiple myeloma	cancer	G	68.0	106667535	1509	6
+rs2030519	Allergic rhinitis	immune	G	8.0	188119901	rs73192661	Chronic lymphocytic leukemia	cancer	C	60.0	188128794	1522	3
+rs72678531	Primary biliary cholangitis	cancer	C	39.0	67798445	rs10889681	Systemic lupus erythematosus	immune	T	19.0	67799170	1530	1
+rs9469899	Prostate cancer	cancer	A	63.0	34793124	rs2764208	Systemic lupus erythematosus	immune	G	19.0	34714322	1536	6
+rs4690220	Polymyositis	immune	G	20.0	980464	rs11724804	Primary biliary cholangitis	cancer	A	39.0	965779	1719	4
+rs71597109	Chronic lymphocytic leukemia	cancer	C	60.0	102741002	rs4637409	Systemic lupus erythematosus	immune	G	19.0	102753408	2050	4
+rs6087990	Ulcerative colitis	immune	C	15.0	31349908	rs11480453	Prostate cancer	cancer	C	63.0	31347512	2132	20
+rs3130544	Myasthenia gravis	immune	A	28.0	31058340	rs3094222	Lung cancer	cancer	G	40.0	31081434	2178	6
+rs11889341	Systemic lupus erythematosus	immune	T	19.0	191943742	rs7574865	Primary biliary cholangitis	cancer	T	39.0	191964633	2244	2
+rs6914831	Systemic lupus erythematosus	immune	C	19.0	135639644	rs6928977	Hodgkin's lymphoma	cancer	G	24.0	135626348	2652	6
+rs6897932	Type 1 diabetes	immune	C	4.0	35874575	rs6890853	Primary biliary cholangitis	cancer	G	39.0	35852311	2757	5
+rs12156002	Systemic lupus erythematosus	immune	A	19.0	129190544	rs2019960	Hodgkin's lymphoma	cancer	C	24.0	129192271	2851	8
+rs444210	Lung cancer	cancer	A	40.0	167390242	rs2236313	Vitiligo	immune	T	19.0	167360389	2855	6
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs3184504	Endometrial cancer	cancer	C	58.0	111884608	3033	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3051	12
+rs11065979	Psoriasis	immune	T	28.0	112059557	rs11065987	Primary biliary cholangitis	cancer	G	39.0	112072424	3073	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs35350651	Allergic rhinitis	immune	C	8.0	111907431	3577	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Systemic lupus erythematosus	immune	C	19.0	112007756	3655	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Type 1 diabetes	immune	C	4.0	112007756	3656	12
+rs1126809	Basal cell carcinoma	cancer	A	59.0	89017961	rs1393350	Vitiligo	immune	G	19.0	89011046	4132	11
+rs1126809	Cutaneous squamous cell carcinoma	cancer	A	70.0	89017961	rs1393350	Vitiligo	immune	G	19.0	89011046	4134	11
+rs1126809	Squamous cell carcinoma	cancer	A	70.0	89017961	rs1393350	Vitiligo	immune	G	19.0	89011046	4136	11
+rs1126809	Vitiligo	immune	G	19.0	89017961	rs1393350	Melanoma	cancer	A	61.0	89011046	4139	11
+rs12708715	Primary biliary cholangitis	cancer	C	39.0	11177824	rs2041670	Systemic lupus erythematosus	immune	A	19.0	11174652	4165	16
+rs12708715	Primary biliary cholangitis	cancer	C	39.0	11177824	rs12927355	Type 1 diabetes	immune	C	4.0	11194771	4174	16
+rs6890853	Primary biliary cholangitis	cancer	G	39.0	35852311	rs7717955	Allergic rhinitis	immune	C	8.0	35862841	4295	5
+rs34725611	Psoriatic arthritis	immune	A	35.0	10477067	rs2304256	Primary biliary cholangitis	cancer	C	39.0	10475652	4610	19
+rs367569	Psoriasis	immune	C	28.0	11365500	rs1646019	Primary biliary cholangitis	cancer	C	39.0	11359680	4642	16
+rs8028689	Multiple myeloma	cancer	C	68.0	28488888	rs1635168	Vitiligo	immune	A	19.0	28535266	4736	15
+rs3821236	Systemic sclerosis	immune	A	20.0	191902758	rs10168266	Primary biliary cholangitis	cancer	T	39.0	191935804	4786	2
+rs2488389	Ulcerative colitis	immune	A	15.0	197631141	rs2488393	Primary biliary cholangitis	cancer	T	39.0	197722240	4833	1
+rs9268853	Ulcerative colitis	immune	T	15.0	32429643	rs2395185	Lung cancer	cancer	T	40.0	32433167	4858	6
+rs80014155	Primary biliary cholangitis	cancer	T	39.0	159625393	rs77583790	Systemic sclerosis	immune	A	20.0	159694053	5021	3
+rs4807000	Vitiligo	immune	A	19.0	4831878	rs10425559	Basal cell carcinoma	cancer	G	59.0	4837487	5644	19
+rs2647012	Follicular lymphoma	cancer	C	60.0	32664458	rs9275572	Systemic lupus erythematosus	immune	A	19.0	32678999	5669	6
+rs2647012	Systemic lupus erythematosus	immune	T	19.0	32664458	rs9275572	Hepatocellular carcinoma	cancer	A	65.0	32678999	5670	6
+rs11065987	Primary biliary cholangitis	cancer	G	39.0	112072424	rs17696736	Type 1 diabetes	immune	G	4.0	112486818	5723	12
+rs6062504	Ulcerative colitis	immune	G	15.0	62348907	rs6062509	Prostate cancer	cancer	T	63.0	62362563	5869	20
+rs35188261	Primary biliary cholangitis	cancer	A	39.0	128683539	rs12531711	Systemic lupus erythematosus	immune	A	19.0	128617466	6099	7
+rs230534	Primary biliary cholangitis	cancer	T	39.0	103449041	rs3774937	Ulcerative colitis	immune	C	15.0	103434253	6123	4
+rs6920220	Systemic lupus erythematosus	immune	A	19.0	138006504	rs6933404	Primary biliary cholangitis	cancer	C	39.0	137959235	6170	6
+rs6920220	Ulcerative colitis	immune	A	15.0	138006504	rs6933404	Primary biliary cholangitis	cancer	C	39.0	137959235	6172	6
+rs2286896	Polymyositis	immune	C	20.0	191535576	rs10931468	Primary biliary cholangitis	cancer	A	39.0	191538562	6280	2
+rs41342147	Vitiligo	immune	G	19.0	242407588	rs757978	Chronic lymphocytic leukemia	cancer	T	60.0	242371101	6417	2
+rs956237	Systemic lupus erythematosus	immune	A	19.0	109046960	rs898518	Chronic lymphocytic leukemia	cancer	A	60.0	109016824	6570	4
+rs3131378	Lung cancer	cancer	G	40.0	31725285	rs3131379	Systemic lupus erythematosus	immune	A	19.0	31721033	6799	6
+rs13338946	Multiple myeloma	cancer	C	68.0	30700858	rs8058578	Systemic lupus erythematosus	immune	T	19.0	30726248	6877	16
+rs10214237	Atopic dermatitis	immune	T	1.0	35883734	rs6871748	Primary biliary cholangitis	cancer	T	39.0	35885982	7427	5
+rs1052553	Type 1 diabetes	immune	A	4.0	44073889	rs17564829	Primary biliary cholangitis	cancer	C	39.0	44006601	7852	17
+rs564799	Systemic lupus erythematosus	immune	C	19.0	159728987	rs2366643	Primary biliary cholangitis	cancer	T	39.0	159736485	7877	3
+rs2304256	Primary biliary cholangitis	cancer	C	39.0	10475652	rs11085727	Systemic lupus erythematosus	immune	C	19.0	10466123	8026	19
+rs4077515	IgA nephropathy	kidney	T	32.0	139266496	rs10781499	Crohn's disease	metabolic	A	15.0	139266405	3541	9
+rs4077515	IgA nephropathy	kidney	T	32.0	139266496	rs10781499	Inflammatory bowel disease	metabolic	A	15.0	139266405	3542	9
+rs2412970	Inflammatory bowel disease	metabolic	G	15.0	30486826	rs2412971	IgA nephropathy	kidney	G	32.0	30494371	4475	22
+rs2412971	IgA nephropathy	kidney	G	32.0	30494371	rs5763767	Crohn's disease	metabolic	A	15.0	30493882	7096	22
+rs10936602	Renal cell carcinoma	kidney	T	64.0	169536637	rs1920116	Glioma	cancer	G	10.0	169579971	761	3
+rs2856717	IgA nephropathy	kidney	G	32.0	32670308	rs2647012	Follicular lymphoma	cancer	C	60.0	32664458	2094	6
+rs2856717	IgA nephropathy	kidney	G	32.0	32670308	rs9275572	Hepatocellular carcinoma	cancer	A	65.0	32678999	2096	6
+rs11813268	Renal cell carcinoma	kidney	T	64.0	105682296	rs7907606	Basal cell carcinoma	cancer	G	59.0	105680632	2260	10
+rs11813268	Renal cell carcinoma	kidney	T	64.0	105682296	rs11591710	Lung cancer	cancer	C	40.0	105687632	2261	10
+rs55940034	Myocardial infarction	cardio	G	50.0	111043309	rs11838776	Coronary heart disease	cardio	A	50.0	111040681	194	13
+rs55940034	Myocardial infarction	cardio	G	50.0	111043309	rs9515201	Ischemic stroke	cardio	A	65.0	111040798	195	13
+rs56289821	Coronary heart disease	cardio	G	50.0	11188247	rs6511720	Abdominal aortic aneurysm	cardio	T	50.0	11202306	208	19
+rs10455872	Aortic valve stenosis	cardio	G	75.0	161010118	rs55730499	Coronary heart disease	cardio	T	50.0	161005610	279	6
+rs10455872	Myocardial infarction	cardio	G	50.0	161010118	rs55730499	Coronary heart disease	cardio	T	50.0	161005610	281	6
+rs579459	Coronary heart disease	cardio	C	50.0	136154168	rs532436	Myocardial infarction	cardio	A	50.0	136149830	748	9
+rs579459	Coronary heart disease	cardio	C	50.0	136154168	rs495828	Venous thromboembolism	cardio	T	40.0	136154867	749	9
+rs11838776	Coronary heart disease	cardio	A	50.0	111040681	rs9515201	Ischemic stroke	cardio	A	65.0	111040798	966	13
+rs56336142	Coronary heart disease	cardio	T	50.0	39134099	rs1544935	Myocardial infarction	cardio	T	50.0	39124448	1256	6
+rs602633	Abdominal aortic aneurysm	cardio	T	50.0	109821511	rs646776	Myocardial infarction	cardio	T	50.0	109818530	1449	1
+rs602633	Abdominal aortic aneurysm	cardio	T	50.0	109821511	rs599839	Coronary heart disease	cardio	A	50.0	109822166	1450	1
+rs1332329	Myocardial infarction	cardio	C	50.0	91003419	rs2246942	Coronary heart disease	cardio	G	50.0	91004886	1465	10
+rs1746049	Coronary heart disease	cardio	C	50.0	44776310	rs1746048	Myocardial infarction	cardio	C	50.0	44775824	1771	10
+rs12118721	Myocardial infarction	cardio	T	50.0	154397416	rs6689306	Coronary heart disease	cardio	A	50.0	154395946	2156	1
+rs72743461	Myocardial infarction	cardio	C	50.0	67441750	rs56062135	Coronary heart disease	cardio	C	50.0	67455630	2258	15
+rs10757274	Abdominal aortic aneurysm	cardio	A	50.0	22096055	rs10757272	Intracranial aneurysm	cardio	T	50.0	22088260	2392	9
+rs10757274	Abdominal aortic aneurysm	cardio	A	50.0	22096055	rs4977574	Myocardial infarction	cardio	G	50.0	22098574	2396	9
+rs10757274	Coronary heart disease	cardio	G	50.0	22096055	rs4977574	Myocardial infarction	cardio	G	50.0	22098574	2398	9
+rs4444878	Ischemic stroke	cardio	A	65.0	187213883	rs4253417	Venous thromboembolism	cardio	C	40.0	187199005	2624	4
+rs646776	Coronary heart disease	cardio	T	50.0	109818530	rs7528419	Myocardial infarction	cardio	A	50.0	109817192	2917	1
+rs2487928	Coronary heart disease	cardio	A	50.0	30323892	rs2505083	Myocardial infarction	cardio	C	50.0	30335122	3324	10
+rs56131196	Myocardial infarction	cardio	A	50.0	45422846	rs4420638	Coronary heart disease	cardio	G	50.0	45422946	3519	19
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3644	12
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3645	12
+rs12413409	Intracranial aneurysm	cardio	G	50.0	104719096	rs1004467	Myocardial infarction	cardio	A	50.0	104594507	3891	10
+rs12413409	Intracranial aneurysm	cardio	G	50.0	104719096	rs11191416	Coronary heart disease	cardio	T	50.0	104604916	3893	10
+rs55791371	Myocardial infarction	cardio	A	50.0	11188153	rs6511720	Abdominal aortic aneurysm	cardio	T	50.0	11202306	3934	19
+rs55791371	Myocardial infarction	cardio	A	50.0	11188153	rs6511720	Coronary heart disease	cardio	G	50.0	11202306	3935	19
+rs1004467	Myocardial infarction	cardio	A	50.0	104594507	rs11191416	Coronary heart disease	cardio	T	50.0	104604916	4187	10
+rs2306556	Coronary heart disease	cardio	A	50.0	156638573	rs72689147	Myocardial infarction	cardio	G	50.0	156639888	4279	4
+rs10757272	Intracranial aneurysm	cardio	T	50.0	22088260	rs4977574	Coronary heart disease	cardio	G	50.0	22098574	4450	9
+rs10757272	Intracranial aneurysm	cardio	T	50.0	22088260	rs4977574	Myocardial infarction	cardio	G	50.0	22098574	4451	9
+rs7798197	Intracranial aneurysm	cardio	A	50.0	19037661	rs2074633	Peripheral artery disease	cardio	C	50.0	19035920	4588	7
+rs28451064	Coronary heart disease	cardio	A	50.0	35593827	rs9982601	Myocardial infarction	cardio	T	50.0	35599128	4687	21
+rs9914266	Myocardial infarction	cardio	C	50.0	2133250	rs1231206	Coronary heart disease	cardio	A	50.0	2125605	5370	17
+rs6841581	Coronary heart disease	cardio	A	50.0	148401190	rs6842241	Intracranial aneurysm	cardio	C	50.0	148400819	5675	4
+rs6841581	Coronary heart disease	cardio	A	50.0	148401190	rs6842241	Peripheral artery disease	cardio	C	50.0	148400819	5676	4
+rs56170783	Coronary heart disease	cardio	A	50.0	57016131	rs9970807	Myocardial infarction	cardio	C	50.0	56965664	5729	1
+rs4524	Venous thromboembolism	cardio	T	40.0	169511755	rs1800594	Ischemic stroke	cardio	A	65.0	169510524	7491	1
+rs17465637	Coronary heart disease	cardio	C	50.0	222823529	rs35700460	Myocardial infarction	cardio	G	50.0	222811407	7735	1
+rs2383207	Abdominal aortic aneurysm	cardio	G	50.0	22115959	rs944797	Coronary heart disease	cardio	C	50.0	22115286	8192	9
+rs2048327	Coronary heart disease	cardio	C	50.0	160863532	rs7758229	Colorectal cancer	metabolic	T	50.0	160840252	185	6
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Crohn's disease	metabolic	G	15.0	114377568	981	1
+rs10774625	Coronary heart disease	cardio	A	50.0	111910219	rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	1396	12
+rs10774625	Coronary heart disease	cardio	A	50.0	111910219	rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	1401	12
+rs17293632	Crohn's disease	metabolic	T	15.0	67442596	rs72743461	Myocardial infarction	cardio	C	50.0	67441750	1655	15
+rs17293632	Inflammatory bowel disease	metabolic	T	15.0	67442596	rs72743461	Myocardial infarction	cardio	C	50.0	67441750	1657	15
+rs17293632	Crohn's disease	metabolic	T	15.0	67442596	rs56062135	Coronary heart disease	cardio	C	50.0	67455630	1660	15
+rs17293632	Inflammatory bowel disease	metabolic	T	15.0	67442596	rs56062135	Coronary heart disease	cardio	C	50.0	67455630	1662	15
+rs12453394	Type 2 diabetes	metabolic	A	35.0	46994970	rs46522	Coronary heart disease	cardio	T	50.0	46988597	1674	17
+rs564398	Type 2 diabetes	metabolic	T	35.0	22029547	rs7865618	Coronary heart disease	cardio	A	50.0	22031005	1993	9
+rs2244608	Coronary heart disease	cardio	G	50.0	121416988	rs1169288	Type 2 diabetes	metabolic	C	35.0	121416650	3405	12
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3628	12
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3629	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3636	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3637	12
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Celiac disease	metabolic	C	8.0	112007756	3641	12
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3642	12
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3643	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3676	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3677	12
+rs4299376	Coronary heart disease	cardio	G	50.0	44072576	rs4245791	Gallstone disease	metabolic	T	38.0	44074431	5365	2
+rs2001846	Myocardial infarction	cardio	T	50.0	126478450	rs6982502	Hypertriglyceridemia	metabolic	C	30.0	126479362	6293	8
+rs10160518	Giant cell arteritis	cardio	A	75.0	76296671	rs2155219	Crohn's disease	metabolic	T	15.0	76299194	6376	11
+rs10160518	Giant cell arteritis	cardio	A	75.0	76296671	rs2155219	Eosinophilic esophagitis	metabolic	T	21.0	76299194	6377	11
+rs10160518	Giant cell arteritis	cardio	A	75.0	76296671	rs2155219	Inflammatory bowel disease	metabolic	T	15.0	76299194	6378	11
+rs635634	Type 2 diabetes	metabolic	T	35.0	136155000	rs2519093	Venous thromboembolism	cardio	T	40.0	136141870	8268	9
+rs635634	Type 2 diabetes	metabolic	T	35.0	136155000	rs507666	Coronary heart disease	cardio	A	50.0	136149399	8269	9
+rs3764261	Age-related macular degeneration	nervous	A	50.0	56993324	rs247616	Coronary heart disease	cardio	C	50.0	56989590	1274	16
+rs700651	Intracranial aneurysm	cardio	G	50.0	198631714	rs6434928	Schizophrenia	nervous	G	13.0	198304577	1988	2
+rs4444878	Thrombosis	nervous	A	60.0	187213883	rs4253417	Venous thromboembolism	cardio	C	40.0	187199005	2626	4
+rs2288904	Venous thromboembolism	cardio	G	40.0	10742170	rs9797861	Thrombosis	nervous	T	60.0	10743126	2854	19
+rs56131196	Myocardial infarction	cardio	A	50.0	45422846	rs4420638	Age-related macular degeneration	nervous	A	50.0	45422946	3518	19
+rs3184504	Coronary heart disease	cardio	T	50.0	111884608	rs7137828	Glaucoma	nervous	T	40.0	111932800	3609	12
+rs12413409	Intracranial aneurysm	cardio	G	50.0	104719096	rs17115100	Parkinson's disease	nervous	G	58.0	104591393	3889	10
+rs12413409	Coronary heart disease	cardio	G	50.0	104719096	rs11191580	Schizophrenia	nervous	T	13.0	104906211	3896	10
+rs12413409	Intracranial aneurysm	cardio	G	50.0	104719096	rs11191580	Schizophrenia	nervous	T	13.0	104906211	3897	10
+rs17115100	Parkinson's disease	nervous	G	58.0	104591393	rs1004467	Myocardial infarction	cardio	A	50.0	104594507	3997	10
+rs17115100	Parkinson's disease	nervous	G	58.0	104591393	rs11191416	Coronary heart disease	cardio	T	50.0	104604916	3998	10
+rs1004467	Myocardial infarction	cardio	A	50.0	104594507	rs11191580	Schizophrenia	nervous	T	13.0	104906211	4191	10
+rs7865618	Coronary heart disease	cardio	A	50.0	22031005	rs1063192	Glaucoma	nervous	A	40.0	22003367	4862	9
+rs7865618	Coronary heart disease	cardio	A	50.0	22031005	rs615552	Migraine	nervous	C	12.0	22026077	4866	9
+rs4523957	Schizophrenia	nervous	T	13.0	2208899	rs2281727	Coronary heart disease	cardio	G	50.0	2117945	5325	17
+rs60401382	Ischemic stroke	cardio	C	65.0	124227624	rs11200638	Age-related macular degeneration	nervous	A	50.0	124220544	6061	10
+rs9388451	Brugada syndrome	cardio	C	30.0	126090377	rs1268083	Migraine	nervous	T	12.0	126049040	6945	6
+rs653178	Myocardial infarction	cardio	C	50.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7328	12
+rs653178	Peripheral artery disease	cardio	C	50.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7329	12
+rs2071382	Coronary heart disease	cardio	T	50.0	91428197	rs11539637	Schizophrenia	nervous	T	13.0	91428290	9192	15
+rs10774625	Coronary heart disease	cardio	A	50.0	111910219	rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	1400	12
+rs72743461	Coronary heart disease	cardio	C	50.0	67441750	rs56062135	Thyroid cancer	endocrine	T	44.0	67455630	2257	15
+rs72743461	Myocardial infarction	cardio	C	50.0	67441750	rs56062135	Thyroid cancer	endocrine	T	44.0	67455630	2259	15
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3668	12
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3669	12
+rs2048327	Coronary heart disease	cardio	C	50.0	160863532	rs3123636	Prostate cancer	cancer	C	63.0	160842537	187	6
+rs6679677	Giant cell arteritis	cardio	A	75.0	114303808	rs2476601	Hodgkin's lymphoma	cancer	A	24.0	114377568	984	1
+rs10774625	Coronary heart disease	cardio	A	50.0	111910219	rs3184504	Endometrial cancer	cancer	C	58.0	111884608	1398	12
+rs2157719	Glioma	cancer	C	10.0	22033366	rs7865618	Coronary heart disease	cardio	A	50.0	22031005	1597	9
+rs3825807	Coronary heart disease	cardio	A	50.0	79089111	rs2004038	Lung cancer	cancer	A	40.0	79071406	2125	15
+rs634537	Glioblastoma	cancer	G	53.0	22032152	rs7865618	Coronary heart disease	cardio	A	50.0	22031005	2454	9
+rs9344	Immunoglobulin light chain (AL) amyloidosis	cardio	G	64.0	69462910	rs1352075	Multiple myeloma	cancer	T	68.0	69457293	2954	11
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs3184504	Coronary heart disease	cardio	T	50.0	111884608	3014	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3048	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3049	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Myocardial infarction	cardio	C	50.0	112007756	3652	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Peripheral artery disease	cardio	C	50.0	112007756	3653	12
+rs2204008	Bladder cancer	cancer	T	60.0	38439203	rs11182052	Idiopathic dilated cardiomyopathy	cardio	T	30.0	38450421	4094	12
+rs4273077	Multiple myeloma	cancer	G	68.0	16849139	rs4792800	Immunoglobulin light chain (AL) amyloidosis	cardio	G	64.0	16845167	4238	17
+rs79419269	Immunoglobulin light chain (AL) amyloidosis	cardio	C	64.0	150937076	rs7781265	Multiple myeloma	cancer	A	68.0	150950940	4365	7
+rs35629860	Immunoglobulin light chain (AL) amyloidosis	cardio	A	64.0	30671532	rs8058578	Multiple myeloma	cancer	T	68.0	30726248	4740	16
+rs11065987	Primary biliary cholangitis	cancer	G	39.0	112072424	rs17696736	Ischemic stroke	cardio	G	65.0	112486818	5721	12
+rs9298506	Intracranial aneurysm	cardio	A	50.0	55437524	rs28571765	Multiple myeloma	cancer	T	68.0	55449281	6950	8
+rs4243971	Crohn's disease	metabolic	T	15.0	30849517	rs6142618	Inflammatory bowel disease	metabolic	G	15.0	30725648	133	20
+rs12722515	Inflammatory bowel disease	metabolic	C	15.0	6081230	rs12722489	Crohn's disease	metabolic	C	15.0	6102012	156	10
+rs2836878	Crohn's disease	metabolic	A	15.0	40465534	rs2836883	Primary sclerosing cholangitis	metabolic	G	20.0	40466744	271	21
+rs2836878	Inflammatory bowel disease	metabolic	G	15.0	40465534	rs2836883	Primary sclerosing cholangitis	metabolic	G	20.0	40466744	273	21
+rs102275	Crohn's disease	metabolic	C	15.0	61557803	rs174537	Colorectal cancer	metabolic	G	50.0	61552680	478	11
+rs7282490	Inflammatory bowel disease	metabolic	G	15.0	45615741	rs2838519	Crohn's disease	metabolic	G	15.0	45615023	523	21
+rs17695092	Crohn's disease	metabolic	T	15.0	173337853	rs72810983	Inflammatory bowel disease	metabolic	A	15.0	173318254	621	5
+rs6837335	Crohn's disease	metabolic	G	15.0	48363983	rs7438704	Inflammatory bowel disease	metabolic	G	15.0	48363245	726	4
+rs1569723	Inflammatory bowel disease	metabolic	C	15.0	44742064	rs6074022	Crohn's disease	metabolic	C	15.0	44740196	727	20
+rs864745	Crohn's disease	metabolic	T	15.0	28180556	rs1708302	Type 2 diabetes	metabolic	C	35.0	28198677	774	7
+rs13407913	Crohn's disease	metabolic	G	15.0	25097644	rs6545800	Inflammatory bowel disease	metabolic	T	15.0	25118885	890	2
+rs681343	Primary sclerosing cholangitis	metabolic	T	20.0	49206462	rs516246	Crohn's disease	metabolic	T	15.0	49206172	1236	19
+rs681343	Primary sclerosing cholangitis	metabolic	T	20.0	49206462	rs516246	Inflammatory bowel disease	metabolic	T	15.0	49206172	1237	19
+rs11742570	Inflammatory bowel disease	metabolic	C	15.0	40410584	rs9292777	Crohn's disease	metabolic	T	15.0	40437948	1289	5
+rs11175593	Crohn's disease	metabolic	T	15.0	40601940	rs11564258	Inflammatory bowel disease	metabolic	A	15.0	40792300	1329	12
+rs7097656	Crohn's disease	metabolic	T	15.0	82250831	rs6586030	Inflammatory bowel disease	metabolic	G	15.0	82254047	1389	10
+rs1199103	Crohn's disease	metabolic	G	15.0	59947231	rs2790216	Inflammatory bowel disease	metabolic	G	15.0	59997926	1492	10
+rs1456896	Inflammatory bowel disease	metabolic	T	15.0	50304461	rs1456893	Crohn's disease	metabolic	A	15.0	50269672	1498	7
+rs10896794	Inflammatory bowel disease	metabolic	T	15.0	58339124	rs11229555	Crohn's disease	metabolic	T	15.0	58408687	1694	11
+rs10883365	Crohn's disease	metabolic	G	15.0	101287764	rs4409764	Inflammatory bowel disease	metabolic	T	15.0	101284237	1728	10
+rs3091316	Crohn's disease	metabolic	G	15.0	32593974	rs3091315	Inflammatory bowel disease	metabolic	A	15.0	32593665	1866	17
+rs2641348	Inflammatory bowel disease	metabolic	A	15.0	120437884	rs3897478	Crohn's disease	metabolic	T	15.0	120451190	1914	1
+rs2641348	Inflammatory bowel disease	metabolic	A	15.0	120437884	rs10923931	Type 2 diabetes	metabolic	T	35.0	120517959	1916	1
+rs2542151	Crohn's disease	metabolic	G	15.0	12779947	rs1893217	Celiac disease	metabolic	G	8.0	12809340	2283	18
+rs2542151	Crohn's disease	metabolic	G	15.0	12779947	rs1893217	Inflammatory bowel disease	metabolic	G	15.0	12809340	2285	18
+rs11584383	Crohn's disease	metabolic	T	15.0	200935866	rs7554511	Inflammatory bowel disease	metabolic	C	15.0	200877562	2374	1
+rs1535	Colorectal cancer	metabolic	A	50.0	61597972	rs4246215	Inflammatory bowel disease	metabolic	T	15.0	61564299	2427	11
+rs516246	Inflammatory bowel disease	metabolic	T	15.0	49206172	rs281379	Crohn's disease	metabolic	A	15.0	49214274	2622	19
+rs992157	Colorectal cancer	metabolic	A	50.0	219154781	rs2382817	Crohn's disease	metabolic	A	15.0	219151218	2674	2
+rs992157	Colorectal cancer	metabolic	A	50.0	219154781	rs2382817	Inflammatory bowel disease	metabolic	A	15.0	219151218	2675	2
+rs3897478	Crohn's disease	metabolic	T	15.0	120451190	rs10923931	Type 2 diabetes	metabolic	T	35.0	120517959	2714	1
+rs12521868	Crohn's disease	metabolic	T	15.0	131784393	rs2188962	Inflammatory bowel disease	metabolic	T	15.0	131770805	2840	5
+rs12727642	Celiac disease	metabolic	A	8.0	8046672	rs35675666	Inflammatory bowel disease	metabolic	G	15.0	8021973	2880	1
+rs12727642	Celiac disease	metabolic	A	8.0	8046672	rs3766606	Crohn's disease	metabolic	T	15.0	8022197	2882	1
+rs7517810	Inflammatory bowel disease	metabolic	T	15.0	172853460	rs9286879	Crohn's disease	metabolic	G	15.0	172862234	2887	1
+rs2315008	Inflammatory bowel disease	metabolic	G	15.0	62343956	rs6062504	Crohn's disease	metabolic	A	15.0	62348907	2894	20
+rs4246905	Inflammatory bowel disease	metabolic	C	15.0	117553249	rs3810936	Crohn's disease	metabolic	C	15.0	117552885	2927	9
+rs58791712	Colorectal cancer	metabolic	T	50.0	40281797	rs1842076	Crohn's disease	metabolic	C	15.0	40237018	3177	5
+rs58791712	Colorectal cancer	metabolic	T	50.0	40281797	rs1842076	Inflammatory bowel disease	metabolic	T	15.0	40237018	3178	5
+rs11465804	Crohn's disease	metabolic	T	15.0	67702526	rs11209026	Inflammatory bowel disease	metabolic	G	15.0	67705958	3211	1
+rs9557195	Inflammatory bowel disease	metabolic	T	15.0	99956622	rs3742130	Crohn's disease	metabolic	A	15.0	99907341	3515	13
+rs4077515	Crohn's disease	metabolic	T	15.0	139266496	rs10781499	Inflammatory bowel disease	metabolic	A	15.0	139266405	3539	9
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3626	12
+rs3184504	Celiac disease	metabolic	C	8.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3627	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Celiac disease	metabolic	C	8.0	112007756	3633	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3634	12
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3635	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Celiac disease	metabolic	C	8.0	112007756	3673	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3674	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3675	12
+rs423674	Crohn's disease	metabolic	T	15.0	11373405	rs529866	Inflammatory bowel disease	metabolic	C	15.0	11373320	3906	16
+rs917997	Celiac disease	metabolic	T	8.0	103070568	rs6708413	Crohn's disease	metabolic	G	15.0	103063369	3950	2
+rs917997	Celiac disease	metabolic	T	8.0	103070568	rs6708413	Inflammatory bowel disease	metabolic	G	15.0	103063369	3951	2
+rs917997	Inflammatory bowel disease	metabolic	T	15.0	103070568	rs6708413	Crohn's disease	metabolic	G	15.0	103063369	3952	2
+rs921720	Inflammatory bowel disease	metabolic	G	15.0	126534671	rs1551398	Crohn's disease	metabolic	A	15.0	126540051	4112	8
+rs13003464	Celiac disease	metabolic	G	8.0	61186829	rs7608910	Crohn's disease	metabolic	G	15.0	61204856	4122	2
+rs13003464	Celiac disease	metabolic	G	8.0	61186829	rs7608910	Inflammatory bowel disease	metabolic	G	15.0	61204856	4123	2
+rs13003464	Crohn's disease	metabolic	G	15.0	61186829	rs7608910	Inflammatory bowel disease	metabolic	G	15.0	61204856	4126	2
+rs2062305	Crohn's disease	metabolic	G	15.0	43052880	rs9525625	Inflammatory bowel disease	metabolic	T	15.0	43018030	4147	13
+rs2227564	Inflammatory bowel disease	metabolic	C	15.0	75673101	rs2227551	Crohn's disease	metabolic	G	15.0	75669190	4192	10
+rs780093	Crohn's disease	metabolic	T	15.0	27742603	rs1260326	Gallstone disease	metabolic	C	38.0	27730940	4338	2
+rs780093	Crohn's disease	metabolic	T	15.0	27742603	rs1260326	Inflammatory bowel disease	metabolic	T	15.0	27730940	4341	2
+rs780093	Crohn's disease	metabolic	T	15.0	27742603	rs780094	Hypertriglyceridemia	metabolic	T	30.0	27741237	4348	2
+rs780093	Crohn's disease	metabolic	T	15.0	27742603	rs780094	Type 2 diabetes	metabolic	C	35.0	27741237	4349	2
+rs780093	Type 2 diabetes	metabolic	C	35.0	27742603	rs780094	Hypertriglyceridemia	metabolic	T	30.0	27741237	4350	2
+rs254563	Colorectal cancer	metabolic	A	50.0	134440426	rs254560	Inflammatory bowel disease	metabolic	A	15.0	134443606	4353	5
+rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	4396	17
+rs1363907	Inflammatory bowel disease	metabolic	A	15.0	96252803	rs2549794	Crohn's disease	metabolic	C	15.0	96244549	4427	5
+rs17309827	Crohn's disease	metabolic	T	15.0	3433318	rs13204048	Inflammatory bowel disease	metabolic	T	15.0	3420406	4466	6
+rs2412970	Inflammatory bowel disease	metabolic	G	15.0	30486826	rs5763767	Crohn's disease	metabolic	A	15.0	30493882	4473	22
+rs6716753	Inflammatory bowel disease	metabolic	C	15.0	231097129	rs7423615	Crohn's disease	metabolic	T	15.0	231116874	4669	2
+rs2149085	Crohn's disease	metabolic	T	15.0	167371110	rs1819333	Inflammatory bowel disease	metabolic	T	15.0	167373547	4989	6
+rs744166	Crohn's disease	metabolic	A	15.0	40514201	rs12942547	Inflammatory bowel disease	metabolic	A	15.0	40527544	5054	17
+rs181359	Crohn's disease	metabolic	A	15.0	21928641	rs2266959	Inflammatory bowel disease	metabolic	T	15.0	21922904	5476	22
+rs181359	Crohn's disease	metabolic	A	15.0	21928641	rs2298428	Celiac disease	metabolic	T	8.0	21982892	5488	22
+rs4976646	Crohn's disease	metabolic	C	15.0	176788570	rs12654812	Inflammatory bowel disease	metabolic	A	15.0	176794191	5513	5
+rs2298428	Celiac disease	metabolic	T	8.0	21982892	rs2266959	Inflammatory bowel disease	metabolic	T	15.0	21922904	5810	22
+rs3116494	Inflammatory bowel disease	metabolic	G	15.0	204592021	rs7426056	Primary sclerosing cholangitis	metabolic	A	20.0	204612058	5955	2
+rs13140464	Primary sclerosing cholangitis	metabolic	G	20.0	123499745	rs13132308	Celiac disease	metabolic	A	8.0	123551114	6077	4
+rs6920220	Inflammatory bowel disease	metabolic	A	15.0	138006504	rs17264332	Celiac disease	metabolic	G	8.0	138005515	6182	6
+rs1260326	Gallstone disease	metabolic	C	38.0	27730940	rs780094	Hypertriglyceridemia	metabolic	T	30.0	27741237	6295	2
+rs1260326	Gallstone disease	metabolic	C	38.0	27730940	rs780094	Type 2 diabetes	metabolic	C	35.0	27741237	6296	2
+rs1260326	Inflammatory bowel disease	metabolic	T	15.0	27730940	rs780094	Hypertriglyceridemia	metabolic	T	30.0	27741237	6301	2
+rs1260326	Inflammatory bowel disease	metabolic	T	15.0	27730940	rs780094	Type 2 diabetes	metabolic	C	35.0	27741237	6302	2
+rs4246215	Inflammatory bowel disease	metabolic	T	15.0	61564299	rs174537	Crohn's disease	metabolic	T	15.0	61552680	6426	11
+rs2274910	Crohn's disease	metabolic	C	15.0	160852046	rs4656958	Inflammatory bowel disease	metabolic	G	15.0	160856964	6491	1
+rs11747270	Crohn's disease	metabolic	G	15.0	150258867	rs11741861	Inflammatory bowel disease	metabolic	G	15.0	150277909	6640	5
+rs3828309	Crohn's disease	metabolic	G	15.0	234180410	rs12994997	Inflammatory bowel disease	metabolic	A	15.0	234173503	6783	2
+rs727088	Inflammatory bowel disease	metabolic	G	15.0	67530439	rs1788097	Primary sclerosing cholangitis	metabolic	T	20.0	67543688	6909	18
+rs3748816	Primary sclerosing cholangitis	metabolic	A	20.0	2526746	rs4445406	Celiac disease	metabolic	T	8.0	2539400	7116	1
+rs7134472	Crohn's disease	metabolic	A	15.0	68499986	rs7134599	Inflammatory bowel disease	metabolic	A	15.0	68500075	7682	12
+rs3766606	Crohn's disease	metabolic	T	15.0	8022197	rs35675666	Inflammatory bowel disease	metabolic	G	15.0	8021973	7885	1
+rs7554511	Crohn's disease	metabolic	A	15.0	200877562	rs10800746	Celiac disease	metabolic	C	8.0	200881392	8486	1
+rs7554511	Inflammatory bowel disease	metabolic	C	15.0	200877562	rs10800746	Celiac disease	metabolic	C	8.0	200881392	8487	1
+rs9858542	Crohn's disease	metabolic	A	15.0	49701983	rs3197999	Inflammatory bowel disease	metabolic	A	15.0	49721532	8902	3
+rs9858542	Crohn's disease	metabolic	A	15.0	49701983	rs3197999	Primary sclerosing cholangitis	metabolic	A	20.0	49721532	8903	3
+rs12722515	Crohn's disease	metabolic	A	15.0	6081230	rs12722489	Multiple sclerosis	nervous	C	32.0	6102012	155	10
+rs12722515	Inflammatory bowel disease	metabolic	C	15.0	6081230	rs12722489	Multiple sclerosis	nervous	C	32.0	6102012	157	10
+rs724016	Crohn's disease	metabolic	G	15.0	141105570	rs9846396	Multiple sclerosis	nervous	C	32.0	141140968	181	3
+rs1738074	Multiple sclerosis	nervous	C	32.0	159465977	rs182429	Celiac disease	metabolic	A	8.0	159469574	212	6
+rs71624119	Multiple sclerosis	nervous	G	32.0	55440730	rs10065637	Crohn's disease	metabolic	C	15.0	55438851	486	5
+rs71624119	Multiple sclerosis	nervous	G	32.0	55440730	rs10065637	Inflammatory bowel disease	metabolic	C	15.0	55438851	487	5
+rs1569723	Inflammatory bowel disease	metabolic	C	15.0	44742064	rs6074022	Multiple sclerosis	nervous	C	32.0	44740196	729	20
+rs2506125	Type 2 diabetes	metabolic	G	35.0	84293453	rs2796441	Schizophrenia	nervous	G	13.0	84308948	776	9
+rs4810485	Multiple sclerosis	nervous	T	32.0	44747947	rs6074022	Crohn's disease	metabolic	C	15.0	44740196	864	20
+rs7087591	Type 2 diabetes	metabolic	G	35.0	94473629	rs7923837	Multiple sclerosis	nervous	G	32.0	94481917	889	10
+rs11742570	Crohn's disease	metabolic	T	15.0	40410584	rs6880778	Multiple sclerosis	nervous	G	32.0	40399096	1278	5
+rs11742570	Inflammatory bowel disease	metabolic	C	15.0	40410584	rs6880778	Multiple sclerosis	nervous	G	32.0	40399096	1279	5
+rs725613	Primary sclerosing cholangitis	metabolic	T	20.0	11169683	rs6498160	Multiple sclerosis	nervous	T	32.0	11199447	1480	16
+rs12148050	Multiple sclerosis	nervous	A	32.0	103263788	rs12882491	Gallstone disease	metabolic	C	38.0	103283273	1864	14
+rs564398	Type 2 diabetes	metabolic	T	35.0	22029547	rs615552	Migraine	nervous	C	12.0	22026077	1992	9
+rs564398	Type 2 diabetes	metabolic	T	35.0	22029547	rs7865618	Glaucoma	nervous	A	40.0	22031005	1994	9
+rs6857	Type 2 diabetes	metabolic	C	35.0	45392254	rs2075650	Age-related macular degeneration	nervous	A	50.0	45395619	2279	19
+rs6857	Type 2 diabetes	metabolic	C	35.0	45392254	rs2075650	Alzheimer's disease	nervous	G	60.0	45395619	2280	19
+rs2816316	Celiac disease	metabolic	C	8.0	192536813	rs1323292	Multiple sclerosis	nervous	A	32.0	192541021	2419	1
+rs1535	Colorectal cancer	metabolic	A	50.0	61597972	rs174576	Bipolar disorder	nervous	A	15.0	61603510	2428	11
+rs7522462	Multiple sclerosis	nervous	G	32.0	200881595	rs7554511	Crohn's disease	metabolic	A	15.0	200877562	2738	1
+rs7522462	Multiple sclerosis	nervous	G	32.0	200881595	rs7554511	Inflammatory bowel disease	metabolic	C	15.0	200877562	2739	1
+rs7522462	Multiple sclerosis	nervous	G	32.0	200881595	rs10800746	Celiac disease	metabolic	C	8.0	200881392	2742	1
+rs174576	Bipolar disorder	nervous	A	15.0	61603510	rs174537	Crohn's disease	metabolic	T	15.0	61552680	3115	11
+rs174576	Bipolar disorder	nervous	A	15.0	61603510	rs4246215	Inflammatory bowel disease	metabolic	T	15.0	61564299	3117	11
+rs11583043	Inflammatory bowel disease	metabolic	T	15.0	101466054	rs11581062	Multiple sclerosis	nervous	G	32.0	101407519	3512	1
+rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	rs7137828	Glaucoma	nervous	T	40.0	111932800	3608	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	rs7137828	Glaucoma	nervous	T	40.0	111932800	3613	12
+rs9271366	Crohn's disease	metabolic	A	15.0	32586854	rs3104373	Multiple sclerosis	nervous	T	32.0	32600375	3870	6
+rs423674	Crohn's disease	metabolic	T	15.0	11373405	rs6498184	Multiple sclerosis	nervous	C	32.0	11435990	3908	16
+rs4075958	Multiple sclerosis	nervous	A	32.0	176784512	rs4976646	Crohn's disease	metabolic	C	15.0	176788570	4181	5
+rs6498184	Multiple sclerosis	nervous	C	32.0	11435990	rs529866	Inflammatory bowel disease	metabolic	C	15.0	11373320	4326	16
+rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	4400	17
+rs6716753	Inflammatory bowel disease	metabolic	C	15.0	231097129	rs10201872	Multiple sclerosis	nervous	T	32.0	231106724	4667	2
+rs4611812	Type 2 diabetes	metabolic	C	35.0	64699445	rs6795735	Age-related macular degeneration	nervous	T	50.0	64705365	5051	3
+rs744166	Multiple sclerosis	nervous	G	32.0	40514201	rs12942547	Crohn's disease	metabolic	G	15.0	40527544	5056	17
+rs744166	Multiple sclerosis	nervous	G	32.0	40514201	rs12942547	Inflammatory bowel disease	metabolic	A	15.0	40527544	5057	17
+rs4648356	Multiple sclerosis	nervous	C	32.0	2709164	rs4445406	Celiac disease	metabolic	T	8.0	2539400	5066	1
+rs8070345	Multiple sclerosis	nervous	T	32.0	57816757	rs1292053	Crohn's disease	metabolic	G	15.0	57963537	5338	17
+rs8070345	Multiple sclerosis	nervous	T	32.0	57816757	rs1292053	Inflammatory bowel disease	metabolic	G	15.0	57963537	5339	17
+rs1790100	Multiple sclerosis	nervous	G	32.0	123656725	rs1060105	Type 2 diabetes	metabolic	C	35.0	123806219	5357	12
+rs4976646	Multiple sclerosis	nervous	C	32.0	176788570	rs12654812	Inflammatory bowel disease	metabolic	A	15.0	176794191	5515	5
+rs9828629	Multiple sclerosis	nervous	C	32.0	71530346	rs36023390	Primary sclerosing cholangitis	metabolic	C	20.0	71523093	5706	3
+rs7423615	Crohn's disease	metabolic	T	15.0	231116874	rs10201872	Multiple sclerosis	nervous	T	32.0	231106724	5946	2
+rs3748816	Primary sclerosing cholangitis	metabolic	A	20.0	2526746	rs3748817	Multiple sclerosis	nervous	T	32.0	2525665	7113	1
+rs653178	Celiac disease	metabolic	C	8.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7325	12
+rs653178	Crohn's disease	metabolic	C	15.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7326	12
+rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	rs7137828	Glaucoma	nervous	T	40.0	111932800	7327	12
+rs3916765	Type 2 diabetes	metabolic	A	35.0	32685550	rs9275326	Parkinson's disease	nervous	C	58.0	32666660	8167	6
+rs2836878	Crohn's disease	metabolic	A	15.0	40465534	rs4817988	Takayasu arteritis	eye	G	30.0	40468838	276	21
+rs2836878	Inflammatory bowel disease	metabolic	G	15.0	40465534	rs4817988	Takayasu arteritis	eye	G	30.0	40468838	277	21
+rs224090	Crohn's disease	metabolic	T	15.0	64541319	rs442309	Vogt-Koyanagi-Harada syndrome	eye	T	40.0	64490495	1258	10
+rs2836883	Primary sclerosing cholangitis	metabolic	G	20.0	40466744	rs4817988	Takayasu arteritis	eye	G	30.0	40468838	2942	21
+rs1363907	Inflammatory bowel disease	metabolic	A	15.0	96252803	rs7705093	Birdshot chorioretinopathy	eye	T	50.0	96290647	4436	5
+rs2549794	Crohn's disease	metabolic	C	15.0	96244549	rs7705093	Birdshot chorioretinopathy	eye	T	50.0	96290647	4784	5
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Crohn's disease	metabolic	G	15.0	114377568	992	1
+rs17293632	Crohn's disease	metabolic	T	15.0	67442596	rs56062135	Thyroid cancer	endocrine	T	44.0	67455630	1661	15
+rs17293632	Inflammatory bowel disease	metabolic	T	15.0	67442596	rs56062135	Thyroid cancer	endocrine	T	44.0	67455630	1663	15
+rs10936599	Celiac disease	metabolic	T	8.0	169492101	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	3287	3
+rs10936599	Colorectal cancer	metabolic	C	50.0	169492101	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	3289	3
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Celiac disease	metabolic	C	8.0	112007756	3665	12
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3666	12
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3667	12
+rs6651252	Crohn's disease	metabolic	T	15.0	129567181	rs10088218	Epithelial ovarian cancer	cancer	A	63.0	129543949	60	8
+rs6651252	Crohn's disease	metabolic	T	15.0	129567181	rs10088218	Ovarian cancer	cancer	G	57.0	129543949	62	8
+rs6651252	Inflammatory bowel disease	metabolic	T	15.0	129567181	rs10088218	Epithelial ovarian cancer	cancer	A	63.0	129543949	63	8
+rs6651252	Inflammatory bowel disease	metabolic	T	15.0	129567181	rs10088218	Ovarian cancer	cancer	G	57.0	129543949	65	8
+rs724016	Crohn's disease	metabolic	G	15.0	141105570	rs6763931	Prostate cancer	cancer	A	63.0	141102833	180	3
+rs907092	Primary biliary cholangitis	cancer	A	39.0	37922259	rs12946510	Inflammatory bowel disease	metabolic	T	15.0	37912377	218	17
+rs907092	Primary biliary cholangitis	cancer	A	39.0	37922259	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	241	17
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs2872507	Crohn's disease	metabolic	A	15.0	38040763	319	17
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs10936599	Celiac disease	metabolic	T	8.0	169492101	392	3
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs10936599	Colorectal cancer	metabolic	C	50.0	169492101	394	3
+rs510372	Primary biliary cholangitis	cancer	C	39.0	64115137	rs694739	Crohn's disease	metabolic	A	15.0	64097233	499	11
+rs3807307	Primary biliary cholangitis	cancer	C	39.0	128579202	rs4728142	Inflammatory bowel disease	metabolic	A	15.0	128573967	898	7
+rs6679677	Crohn's disease	metabolic	C	15.0	114303808	rs2476601	Hodgkin's lymphoma	cancer	A	24.0	114377568	973	1
+rs681343	Lung cancer	cancer	T	40.0	49206462	rs516246	Crohn's disease	metabolic	T	15.0	49206172	1227	19
+rs681343	Lung cancer	cancer	T	40.0	49206462	rs516246	Inflammatory bowel disease	metabolic	T	15.0	49206172	1228	19
+rs4973341	Primary biliary cholangitis	cancer	T	39.0	228660362	rs7556897	Crohn's disease	metabolic	T	15.0	228660112	1250	2
+rs4973341	Primary biliary cholangitis	cancer	T	39.0	228660362	rs7556897	Inflammatory bowel disease	metabolic	T	15.0	228660112	1251	2
+rs3123636	Prostate cancer	cancer	C	63.0	160842537	rs7758229	Colorectal cancer	metabolic	T	50.0	160840252	1338	6
+rs4809330	Crohn's disease	metabolic	G	15.0	62349586	rs6062509	Prostate cancer	cancer	T	63.0	62362563	1445	20
+rs725613	Primary sclerosing cholangitis	metabolic	T	20.0	11169683	rs12708715	Primary biliary cholangitis	cancer	C	39.0	11177824	1474	16
+rs2030519	Celiac disease	metabolic	A	8.0	188119901	rs73192661	Chronic lymphocytic leukemia	cancer	C	60.0	188128794	1524	3
+rs564398	Type 2 diabetes	metabolic	T	35.0	22029547	rs634537	Glioblastoma	cancer	G	53.0	22032152	1995	9
+rs564398	Type 2 diabetes	metabolic	T	35.0	22029547	rs1412829	Glioma	cancer	G	10.0	22043926	2005	9
+rs12627970	Inflammatory bowel disease	metabolic	G	15.0	39721745	rs968451	Primary biliary cholangitis	cancer	T	39.0	39670851	2042	22
+rs2285803	Multiple myeloma	cancer	T	68.0	31107258	rs2073721	Type 2 diabetes	metabolic	G	35.0	31129616	2085	6
+rs11263761	Endometrial cancer	cancer	A	58.0	36097775	rs4430796	Type 2 diabetes	metabolic	G	35.0	36098040	2102	17
+rs73112661	Primary biliary cholangitis	cancer	C	39.0	37373179	rs6974491	Celiac disease	metabolic	A	8.0	37374510	2413	7
+rs3772190	Glioma	cancer	G	10.0	169500487	rs10936599	Celiac disease	metabolic	T	8.0	169492101	2546	3
+rs3772190	Glioma	cancer	G	10.0	169500487	rs10936599	Colorectal cancer	metabolic	C	50.0	169492101	2548	3
+rs444210	Lung cancer	cancer	A	40.0	167390242	rs1819333	Crohn's disease	metabolic	G	15.0	167373547	2861	6
+rs444210	Lung cancer	cancer	A	40.0	167390242	rs1819333	Inflammatory bowel disease	metabolic	T	15.0	167373547	2862	6
+rs11820646	Breast cancer	cancer	C	55.0	129461171	rs7107217	Type 2 diabetes	metabolic	C	35.0	129473690	2915	11
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs3184504	Colorectal cancer	metabolic	C	50.0	111884608	3013	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs3184504	Primary sclerosing cholangitis	metabolic	T	20.0	111884608	3018	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Celiac disease	metabolic	C	8.0	112007756	3045	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3046	12
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3047	12
+rs10505477	Colorectal cancer	metabolic	A	50.0	128407443	rs6983267	Prostate cancer	cancer	G	63.0	128413305	3083	8
+rs10936599	Celiac disease	metabolic	T	8.0	169492101	rs12638862	Multiple myeloma	cancer	A	68.0	169477506	3245	3
+rs10936599	Colorectal cancer	metabolic	C	50.0	169492101	rs12638862	Multiple myeloma	cancer	A	68.0	169477506	3247	3
+rs9387479	Lung cancer	cancer	T	40.0	117792612	rs4946260	Colorectal cancer	metabolic	T	50.0	117822993	3533	6
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Celiac disease	metabolic	C	8.0	112007756	3649	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Crohn's disease	metabolic	C	15.0	112007756	3650	12
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs653178	Inflammatory bowel disease	metabolic	C	15.0	112007756	3651	12
+rs1321366	Inflammatory bowel disease	metabolic	A	15.0	117240593	rs339331	Prostate cancer	cancer	T	63.0	117210052	4025	6
+rs6716753	Inflammatory bowel disease	metabolic	C	15.0	231097129	rs13397985	Chronic lymphocytic leukemia	cancer	G	60.0	231091223	4665	2
+rs2488389	Crohn's disease	metabolic	A	15.0	197631141	rs2488393	Primary biliary cholangitis	cancer	T	39.0	197722240	4829	1
+rs2488389	Inflammatory bowel disease	metabolic	A	15.0	197631141	rs2488393	Primary biliary cholangitis	cancer	T	39.0	197722240	4831	1
+rs17817449	Breast cancer	cancer	T	55.0	53813367	rs9936385	Type 2 diabetes	metabolic	C	35.0	53819169	5110	16
+rs6062504	Inflammatory bowel disease	metabolic	G	15.0	62348907	rs6062509	Prostate cancer	cancer	T	63.0	62362563	5868	20
+rs7423615	Crohn's disease	metabolic	T	15.0	231116874	rs13397985	Chronic lymphocytic leukemia	cancer	G	60.0	231091223	5943	2
+rs6920220	Inflammatory bowel disease	metabolic	A	15.0	138006504	rs6933404	Primary biliary cholangitis	cancer	C	39.0	137959235	6166	6
+rs6933404	Primary biliary cholangitis	cancer	C	39.0	137959235	rs17264332	Celiac disease	metabolic	G	8.0	138005515	6542	6
+rs10908278	Type 2 diabetes	metabolic	A	35.0	36099952	rs11651052	Prostate cancer	cancer	G	63.0	36102381	7677	17
+rs11651052	Type 2 diabetes	metabolic	A	35.0	36102381	rs11651755	Epithelial ovarian cancer	cancer	C	63.0	36099840	8091	17
+rs2596500	Schizophrenia	nervous	A	13.0	31321267	rs1800628	Oral cavity cancer	headneck	A	62.0	31546850	5351	6
+rs944800	Glaucoma	nervous	G	40.0	22050898	rs8181047	Oral cavity cancer	headneck	A	62.0	22064465	6764	9
+rs3828805	Oral cavity cancer	headneck	C	62.0	32636120	rs3129720	Hypothyroidism	endocrine	C	60.0	32663631	5646	6
+rs11210195	Schizophrenia	nervous	C	13.0	73749283	rs1572668	Migraine	nervous	G	12.0	73899742	151	1
+rs3617	Schizophrenia	nervous	C	13.0	52833805	rs2710323	Glaucoma	nervous	T	40.0	52815905	885	3
+rs12148337	Schizophrenia	nervous	T	13.0	70589272	rs1971791	Amyotrophic lateral sclerosis	nervous	G	55.0	70576138	893	15
+rs2947349	Epilepsy	nervous	C	1.0	58059803	rs2312147	Schizophrenia	nervous	C	13.0	58222928	1132	2
+rs6918586	Schizophrenia	nervous	T	13.0	26097384	rs198811	Narcolepsy	nervous	T	15.0	26128446	1499	6
+rs523096	Glaucoma	nervous	A	40.0	22019129	rs615552	Migraine	nervous	C	12.0	22026077	1737	9
+rs1890185	Migraine	nervous	G	12.0	104748718	rs7914558	Schizophrenia	nervous	G	13.0	104775908	1937	10
+rs3131296	Schizophrenia	nervous	C	13.0	32172993	rs1150757	Neuromyelitis optica	nervous	A	32.0	32029205	2008	6
+rs6857	Alzheimer's disease	nervous	T	60.0	45392254	rs2075650	Age-related macular degeneration	nervous	A	50.0	45395619	2275	19
+rs6857	Frontotemporal dementia	nervous	T	59.0	45392254	rs2075650	Age-related macular degeneration	nervous	A	50.0	45395619	2277	19
+rs6857	Frontotemporal dementia	nervous	T	59.0	45392254	rs2075650	Alzheimer's disease	nervous	G	60.0	45395619	2278	19
+rs2288904	Multiple sclerosis	nervous	G	32.0	10742170	rs9797861	Thrombosis	nervous	T	60.0	10743126	2853	19
+rs736408	Bipolar disorder	nervous	C	15.0	52835354	rs4687552	Schizophrenia	nervous	T	13.0	52838402	3164	3
+rs2159100	Schizophrenia	nervous	T	13.0	2346393	rs1006737	Bipolar disorder	nervous	A	15.0	2345295	3411	12
+rs2577831	Schizophrenia	nervous	C	13.0	52628056	rs2710323	Glaucoma	nervous	T	40.0	52815905	3964	3
+rs17115100	Parkinson's disease	nervous	G	58.0	104591393	rs11191580	Schizophrenia	nervous	T	13.0	104906211	4002	10
+rs1615350	Schizophrenia	nervous	C	13.0	123650335	rs1619561	Tourette syndrome	nervous	C	5.0	123620268	4788	12
+rs1615350	Schizophrenia	nervous	C	13.0	123650335	rs1790100	Multiple sclerosis	nervous	G	32.0	123656725	4789	12
+rs6550435	Bipolar disorder	nervous	G	15.0	36864489	rs3732386	Schizophrenia	nervous	T	13.0	36871993	4796	3
+rs199498	Parkinson's disease	nervous	T	58.0	44865603	rs199499	Alzheimer's disease	nervous	C	60.0	44865498	4851	17
+rs1790100	Multiple sclerosis	nervous	G	32.0	123656725	rs1619561	Tourette syndrome	nervous	C	5.0	123620268	5353	12
+rs6990255	Bipolar disorder	nervous	T	15.0	34126948	rs74804370	Schizophrenia	nervous	C	13.0	33998571	5883	8
+rs12202969	Bipolar disorder	nervous	A	15.0	98576223	rs1906252	Tourette syndrome	nervous	C	5.0	98550289	7376	6
+rs28834970	Alzheimer's disease	nervous	C	60.0	27195121	rs2322599	Takayasu arteritis	eye	G	30.0	27211910	1125	8
+rs10936599	Multiple sclerosis	nervous	C	32.0	169492101	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	3291	3
+rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	rs7137828	Glaucoma	nervous	T	40.0	111932800	3612	12
+rs17445836	Multiple sclerosis	nervous	G	32.0	86017663	rs11117432	Primary biliary cholangitis	cancer	G	39.0	86019271	129	16
+rs3112612	Breast cancer	cancer	A	55.0	52635164	rs3104767	Restless legs syndrome	nervous	G	27.0	52624738	192	16
+rs907092	Primary biliary cholangitis	cancer	A	39.0	37922259	rs12946510	Multiple sclerosis	nervous	T	32.0	37912377	219	17
+rs17690703	Idiopathic pulmonary fibrosis	cancer	C	50.0	43925297	rs7207400	Alzheimer's disease	nervous	T	60.0	43824360	360	17
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs10936599	Multiple sclerosis	nervous	C	32.0	169492101	396	3
+rs510372	Primary biliary cholangitis	cancer	C	39.0	64115137	rs694739	Multiple sclerosis	nervous	A	32.0	64097233	500	11
+rs2517713	Nasopharyngeal carcinoma	cancer	T	30.0	29918099	rs9260489	Multiple sclerosis	nervous	T	32.0	29920332	862	6
+rs3803662	Breast cancer	cancer	A	55.0	52586341	rs4784227	Parkinson's disease	nervous	T	58.0	52599188	1550	16
+rs2157719	Glioma	cancer	C	10.0	22033366	rs1333037	Glaucoma	nervous	T	40.0	22040765	1621	9
+rs2300747	Primary biliary cholangitis	cancer	A	39.0	117104215	rs1335532	Multiple sclerosis	nervous	A	32.0	117100957	1978	1
+rs13191445	Lung cancer	cancer	A	40.0	26015489	rs13198474	Schizophrenia	nervous	G	13.0	25874423	2018	6
+rs2942168	Parkinson's disease	nervous	G	58.0	43714850	rs17564829	Primary biliary cholangitis	cancer	C	39.0	44006601	2169	17
+rs34706883	Schizophrenia	nervous	A	13.0	27805255	rs34878803	Squamous cell carcinoma	cancer	C	70.0	28250179	2340	6
+rs634537	Glioblastoma	cancer	G	53.0	22032152	rs615552	Migraine	nervous	C	12.0	22026077	2442	9
+rs3772190	Glioma	cancer	G	10.0	169500487	rs10936599	Multiple sclerosis	nervous	C	32.0	169492101	2550	3
+rs4324798	Lung cancer	cancer	A	40.0	28776117	rs144447022	Schizophrenia	nervous	G	13.0	29244219	2603	6
+rs7839435	Lung cancer	cancer	G	40.0	27412953	rs11778040	Schizophrenia	nervous	C	13.0	27419807	2747	8
+rs501942	Lung cancer	cancer	T	40.0	31840477	rs1150757	Neuromyelitis optica	nervous	A	32.0	32029205	2819	6
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs7137828	Glaucoma	nervous	T	40.0	111932800	3039	12
+rs3851634	Glioblastoma	cancer	T	53.0	106812902	rs6539267	Tourette syndrome	nervous	T	5.0	106785554	3130	12
+rs3851634	Glioma	cancer	T	10.0	106812902	rs6539267	Tourette syndrome	nervous	T	5.0	106785554	3133	12
+rs55834529	Schizophrenia	nervous	A	13.0	27072542	rs35768595	Lung cancer	cancer	T	40.0	27141904	3195	6
+rs55834529	Schizophrenia	nervous	A	13.0	27072542	rs35768595	Squamous cell carcinoma	cancer	T	70.0	27141904	3198	6
+rs10936599	Multiple sclerosis	nervous	C	32.0	169492101	rs12638862	Multiple myeloma	cancer	A	68.0	169477506	3249	3
+rs144447022	Schizophrenia	nervous	G	13.0	29244219	rs148696809	Lung cancer	cancer	C	40.0	28934352	3328	6
+rs144447022	Schizophrenia	nervous	G	13.0	29244219	rs148696809	Squamous cell carcinoma	cancer	C	70.0	28934352	3331	6
+rs12957236	Squamous cell carcinoma	cancer	T	70.0	41899245	rs12962305	Restless legs syndrome	nervous	T	27.0	41870243	3382	18
+rs522127	Multiple sclerosis	nervous	C	32.0	159734668	rs2366643	Primary biliary cholangitis	cancer	T	39.0	159736485	3395	3
+rs3184504	Endometrial cancer	cancer	C	58.0	111884608	rs7137828	Glaucoma	nervous	T	40.0	111932800	3610	12
+rs6881706	Multiple sclerosis	nervous	G	32.0	35879156	rs6890853	Primary biliary cholangitis	cancer	G	39.0	35852311	3820	5
+rs4737547	Multiple myeloma	cancer	G	68.0	60545664	rs13261481	Schizophrenia	nervous	T	13.0	60701801	3963	8
+rs9846396	Multiple sclerosis	nervous	C	32.0	141140968	rs6763931	Prostate cancer	cancer	A	63.0	141102833	3978	3
+rs13199649	Lung cancer	cancer	T	40.0	27868792	rs13217619	Schizophrenia	nervous	T	13.0	28306671	4080	6
+rs12708715	Primary biliary cholangitis	cancer	C	39.0	11177824	rs12927355	Multiple sclerosis	nervous	C	32.0	11194771	4173	16
+rs9591325	Primary biliary cholangitis	cancer	T	39.0	50811220	rs9596270	Multiple sclerosis	nervous	T	32.0	50842440	4193	13
+rs13217619	Schizophrenia	nervous	T	13.0	28306671	rs34878803	Squamous cell carcinoma	cancer	C	70.0	28250179	4555	6
+rs13217619	Schizophrenia	nervous	T	13.0	28306671	rs34661125	Lung cancer	cancer	A	40.0	28281894	4557	6
+rs36109883	Squamous cell carcinoma	cancer	A	70.0	26133070	rs13198474	Schizophrenia	nervous	G	13.0	25874423	4618	6
+rs1054037	Primary biliary cholangitis	cancer	T	39.0	103552709	rs7665090	Multiple sclerosis	nervous	G	32.0	103551603	4690	4
+rs35952432	Lung cancer	cancer	T	40.0	28074901	rs401754	Schizophrenia	nervous	T	13.0	27782538	5126	6
+rs2596500	Schizophrenia	nervous	A	13.0	31321267	rs3094222	Lung cancer	cancer	G	40.0	31081434	5347	6
+rs5752774	Glaucoma	nervous	T	40.0	29105610	rs4822983	Esophageal cancer (squamous cell)	cancer	T	50.0	29115066	5506	22
+rs1412829	Glioma	cancer	G	10.0	22043926	rs615552	Migraine	nervous	C	12.0	22026077	5890	9
+rs13397985	Chronic lymphocytic leukemia	cancer	G	60.0	231091223	rs10201872	Multiple sclerosis	nervous	T	32.0	231106724	6387	2
+rs13220495	Squamous cell carcinoma	cancer	T	70.0	26441640	rs34104395	Schizophrenia	nervous	C	13.0	26478252	6514	6
+rs10492972	Multiple sclerosis	nervous	C	32.0	10353112	rs17401966	Hepatocellular carcinoma	cancer	A	65.0	10385471	6603	1
+rs12185268	Parkinson's disease	nervous	A	58.0	43923683	rs17564829	Primary biliary cholangitis	cancer	C	39.0	44006601	6647	17
+rs145929329	Glioblastoma	cancer	TT	53.0	22066211	rs4977756	Glaucoma	nervous	A	40.0	22068652	6713	9
+rs13191296	Squamous cell carcinoma	cancer	T	70.0	25684606	rs13198474	Schizophrenia	nervous	G	13.0	25874423	7790	6
+rs9271192	Alzheimer's disease	nervous	C	60.0	32578530	rs9271176	Chronic lymphocytic leukemia	cancer	G	60.0	32578127	8024	6
+rs7204270	Multiple sclerosis	nervous	C	32.0	30156963	rs6565176	Hodgkin's lymphoma	cancer	T	24.0	30174926	8035	16
+rs10811645	Glaucoma	nervous	A	40.0	22049656	rs7874604	Basal cell carcinoma	cancer	T	59.0	22054690	8074	9
+rs1800693	Multiple sclerosis	nervous	C	32.0	6440009	rs4149576	Primary biliary cholangitis	cancer	T	39.0	6449115	8368	12
+rs34244947	Lung cancer	cancer	C	40.0	26761745	rs34104395	Schizophrenia	nervous	C	13.0	26478252	8754	6
+rs267738	Rhegmatogenous retinal detachment	eye	T	40.0	150940625	rs17599629	Prostate cancer	cancer	G	63.0	150658287	2161	1
+rs4915077	Hypothyroidism	endocrine	C	60.0	108366016	rs4915076	Thyroid cancer	endocrine	T	44.0	108359505	2177	1
+rs925489	Hypothyroidism	endocrine	T	60.0	100546600	rs1588635	Thyroid cancer	endocrine	A	44.0	100537802	4503	9
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	418	3
+rs6679677	Hypothyroidism	endocrine	A	60.0	114303808	rs2476601	Hodgkin's lymphoma	cancer	A	24.0	114377568	995	1
+rs1051920	Hypothyroidism	endocrine	T	60.0	81438420	rs11993814	Basal cell carcinoma	cancer	C	59.0	81389791	2072	8
+rs4915077	Hypothyroidism	endocrine	C	60.0	108366016	rs4915076	Papillary thyroid cancer	cancer	T	15.0	108359505	2176	1
+rs3772190	Glioma	cancer	G	10.0	169500487	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	2563	3
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs3184504	Hypothyroidism	endocrine	T	60.0	111884608	3017	12
+rs10936599	Bladder cancer	cancer	C	60.0	169492101	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	3286	3
+rs10936599	Chronic lymphocytic leukemia	cancer	C	60.0	169492101	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	3288	3
+rs12638862	Multiple myeloma	cancer	A	68.0	169477506	rs6793295	Thyroid cancer	endocrine	T	44.0	169518455	5530	3
+rs2995264	Melanoma	cancer	G	61.0	105668843	rs7902587	Thyroid cancer	endocrine	T	44.0	105694301	5881	10
+rs34081947	Papillary thyroid cancer	cancer	T	15.0	36559531	rs944289	Thyroid cancer	endocrine	T	44.0	36649246	5933	14
+rs421284	Basal cell carcinoma	cancer	T	59.0	1325590	rs401681	Bladder cancer	cancer	C	60.0	1322087	113	5
+rs421284	Basal cell carcinoma	cancer	T	59.0	1325590	rs401681	Melanoma	cancer	T	61.0	1322087	117	5
+rs421284	Basal cell carcinoma	cancer	T	59.0	1325590	rs401681	Pancreatic cancer	cancer	T	69.0	1322087	118	5
+rs421284	Basal cell carcinoma	cancer	T	59.0	1325590	rs452932	Uveal melanoma	cancer	C	60.0	1330253	119	5
+rs421284	Basal cell carcinoma	cancer	T	59.0	1325590	rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	120	5
+rs421284	Basal cell carcinoma	cancer	T	59.0	1325590	rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	125	5
+rs8067378	Cervical cancer	cancer	G	50.0	38051348	rs9303277	Primary biliary cholangitis	cancer	T	39.0	37976469	307	17
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs10936599	Bladder cancer	cancer	C	60.0	169492101	391	3
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs10936599	Chronic lymphocytic leukemia	cancer	C	60.0	169492101	393	3
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs10936599	Multiple myeloma	cancer	C	68.0	169492101	395	3
+rs28649851	Lung cancer	cancer	A	40.0	169489312	rs3772190	Glioma	cancer	G	10.0	169500487	409	3
+rs10904377	Lung cancer	cancer	T	40.0	4978419	rs4453114	Squamous cell carcinoma	cancer	C	70.0	4961021	573	10
+rs10088218	Ovarian cancer	cancer	G	57.0	129543949	rs1400482	Epithelial ovarian cancer	cancer	G	63.0	129541931	626	8
+rs35923643	Chronic lymphocytic leukemia	cancer	G	60.0	123355391	rs735665	Follicular lymphoma	cancer	A	60.0	123361397	959	11
+rs4938573	Follicular lymphoma	cancer	C	60.0	118741842	rs6421571	Primary biliary cholangitis	cancer	C	39.0	118743772	962	11
+rs380286	Lung cancer	cancer	G	40.0	1320247	rs401681	Basal cell carcinoma	cancer	C	59.0	1322087	1049	5
+rs380286	Lung cancer	cancer	G	40.0	1320247	rs401681	Bladder cancer	cancer	C	60.0	1322087	1050	5
+rs380286	Lung cancer	cancer	G	40.0	1320247	rs401681	Melanoma	cancer	T	61.0	1322087	1054	5
+rs380286	Lung cancer	cancer	G	40.0	1320247	rs401681	Pancreatic cancer	cancer	T	69.0	1322087	1055	5
+rs35789010	Lung cancer	cancer	A	40.0	25514179	rs13191296	Squamous cell carcinoma	cancer	T	70.0	25684606	1096	6
+rs113701136	Breast cancer	cancer	T	55.0	30277729	rs8102137	Bladder cancer	cancer	C	60.0	30296853	1322	19
+rs11639372	Lung cancer	cancer	T	40.0	78966655	rs3813565	Squamous cell carcinoma	cancer	T	70.0	79019610	1455	15
+rs13191445	Lung cancer	cancer	A	40.0	26015489	rs36109883	Squamous cell carcinoma	cancer	A	70.0	26133070	2024	6
+rs2080303	Basal cell carcinoma	cancer	T	59.0	202165206	rs59308963	Prostate cancer	cancer	T	63.0	202123479	2057	2
+rs2080303	Basal cell carcinoma	cancer	T	59.0	202165206	rs1830298	Breast cancer	cancer	C	55.0	202181247	2058	2
+rs11263761	Endometrial cancer	cancer	A	58.0	36097775	rs4430796	Prostate cancer	cancer	A	63.0	36098040	2101	17
+rs2297440	Glioma	cancer	C	10.0	62312299	rs6062302	Glioblastoma	cancer	C	53.0	62320968	2230	20
+rs3772190	Glioma	cancer	G	10.0	169500487	rs10936599	Bladder cancer	cancer	C	60.0	169492101	2545	3
+rs3772190	Glioma	cancer	G	10.0	169500487	rs10936599	Chronic lymphocytic leukemia	cancer	C	60.0	169492101	2547	3
+rs3772190	Glioma	cancer	G	10.0	169500487	rs10936599	Multiple myeloma	cancer	C	68.0	169492101	2549	3
+rs4324798	Lung cancer	cancer	A	40.0	28776117	rs148696809	Squamous cell carcinoma	cancer	C	70.0	28934352	2591	6
+rs258322	Melanoma	cancer	A	61.0	89755903	rs35063026	Squamous cell carcinoma	cancer	T	70.0	89736157	2698	16
+rs452932	Uveal melanoma	cancer	C	60.0	1330253	rs401681	Bladder cancer	cancer	C	60.0	1322087	2724	5
+rs452932	Uveal melanoma	cancer	C	60.0	1330253	rs401681	Lung cancer	cancer	C	40.0	1322087	2725	5
+rs452932	Uveal melanoma	cancer	C	60.0	1330253	rs401681	Melanoma	cancer	T	61.0	1322087	2728	5
+rs452932	Uveal melanoma	cancer	C	60.0	1330253	rs401681	Pancreatic cancer	cancer	T	69.0	1322087	2729	5
+rs452932	Uveal melanoma	cancer	C	60.0	1330253	rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	2731	5
+rs452932	Uveal melanoma	cancer	C	60.0	1330253	rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	2736	5
+rs11065979	Primary biliary cholangitis	cancer	T	39.0	112059557	rs3184504	Endometrial cancer	cancer	C	58.0	111884608	3015	12
+rs7953249	Epithelial ovarian cancer	cancer	G	63.0	121403724	rs7310409	Pancreatic cancer	cancer	A	69.0	121424861	3207	12
+rs10936599	Bladder cancer	cancer	C	60.0	169492101	rs12638862	Multiple myeloma	cancer	A	68.0	169477506	3244	3
+rs10936599	Chronic lymphocytic leukemia	cancer	C	60.0	169492101	rs12638862	Multiple myeloma	cancer	A	68.0	169477506	3246	3
+rs1805007	Basal cell carcinoma	cancer	T	59.0	89986117	rs35063026	Squamous cell carcinoma	cancer	T	70.0	89736157	3399	16
+rs1805007	Cutaneous squamous cell carcinoma	cancer	T	70.0	89986117	rs35063026	Squamous cell carcinoma	cancer	T	70.0	89736157	3401	16
+rs17246404	Chronic lymphocytic leukemia	cancer	C	60.0	124462661	rs58618031	Multiple myeloma	cancer	T	68.0	124583896	3511	7
+rs2736098	Pancreatic cancer	cancer	C	69.0	1294086	rs3215401	Breast cancer	cancer	A	55.0	1296255	3749	5
+rs77710113	Squamous cell carcinoma	cancer	T	70.0	154618623	rs78062588	Lung cancer	cancer	T	40.0	154566225	3807	1
+rs1830298	Breast cancer	cancer	C	55.0	202181247	rs59308963	Prostate cancer	cancer	T	63.0	202123479	3833	2
+rs13199649	Lung cancer	cancer	T	40.0	27868792	rs34878803	Squamous cell carcinoma	cancer	C	70.0	28250179	4065	6
+rs2363956	Ovarian cancer	cancer	T	57.0	17394124	rs8100241	Breast cancer	cancer	G	55.0	17392894	4087	19
+rs1126809	Basal cell carcinoma	cancer	A	59.0	89017961	rs1393350	Melanoma	cancer	A	61.0	89011046	4131	11
+rs1126809	Cutaneous squamous cell carcinoma	cancer	A	70.0	89017961	rs1393350	Melanoma	cancer	A	61.0	89011046	4133	11
+rs1126809	Squamous cell carcinoma	cancer	A	70.0	89017961	rs1393350	Melanoma	cancer	A	61.0	89011046	4135	11
+rs3806624	Hodgkin's lymphoma	cancer	G	24.0	27764623	rs9880772	Chronic lymphocytic leukemia	cancer	A	60.0	27777779	4196	3
+rs17749561	Follicular lymphoma	cancer	G	60.0	60783211	rs77551289	Chronic lymphocytic leukemia	cancer	A	60.0	60788745	4334	18
+rs757210	Ovarian cancer	cancer	C	57.0	36096515	rs7405776	Epithelial ovarian cancer	cancer	G	63.0	36093022	4916	17
+rs35952432	Lung cancer	cancer	T	40.0	28074901	rs34878803	Squamous cell carcinoma	cancer	C	70.0	28250179	5156	6
+rs78663305	Squamous cell carcinoma	cancer	A	70.0	168497741	rs77045810	Lung cancer	cancer	A	40.0	168505017	5358	1
+rs7207826	Epithelial ovarian cancer	cancer	C	63.0	46500673	rs9303542	Ovarian cancer	cancer	G	57.0	46411500	5451	17
+rs17621345	Prostate cancer	cancer	A	63.0	40875192	rs17688601	Pancreatic cancer	cancer	C	69.0	40866663	5455	7
+rs872267	Endometrial cancer	cancer	G	58.0	127888067	rs10934853	Prostate cancer	cancer	A	63.0	128038373	5610	3
+rs2647012	Follicular lymphoma	cancer	C	60.0	32664458	rs9275572	Hepatocellular carcinoma	cancer	A	65.0	32678999	5668	6
+rs6755777	Epithelial ovarian cancer	cancer	T	63.0	177043226	rs2072590	Ovarian cancer	cancer	A	57.0	177042633	5740	2
+rs2995264	Melanoma	cancer	G	61.0	105668843	rs7902587	Lung cancer	cancer	T	40.0	105694301	5878	10
+rs11649743	Prostate cancer	cancer	G	63.0	36074979	rs4795218	Pancreatic cancer	cancer	G	69.0	36078510	6152	17
+rs4430796	Endometrial cancer	cancer	A	58.0	36098040	rs11651755	Epithelial ovarian cancer	cancer	C	63.0	36099840	6205	17
+rs13220495	Squamous cell carcinoma	cancer	T	70.0	26441640	rs80264589	Lung cancer	cancer	A	40.0	26927602	6528	6
+rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	rs401681	Bladder cancer	cancer	C	60.0	1322087	6660	5
+rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	rs401681	Lung cancer	cancer	C	40.0	1322087	6661	5
+rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	rs401681	Melanoma	cancer	T	61.0	1322087	6664	5
+rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	rs401681	Pancreatic cancer	cancer	T	69.0	1322087	6665	5
+rs467095	Squamous cell carcinoma	cancer	T	70.0	1336221	rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	6683	5
+rs145929329	Glioblastoma	cancer	TT	53.0	22066211	rs4977756	Glioma	cancer	G	10.0	22068652	6714	9
+rs35768595	Squamous cell carcinoma	cancer	T	70.0	27141904	rs80264589	Lung cancer	cancer	A	40.0	26927602	6977	6
+rs34661125	Lung cancer	cancer	A	40.0	28281894	rs34878803	Squamous cell carcinoma	cancer	C	70.0	28250179	7059	6
+rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	rs401681	Bladder cancer	cancer	C	60.0	1322087	7468	5
+rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	rs401681	Lung cancer	cancer	C	40.0	1322087	7469	5
+rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	rs401681	Melanoma	cancer	T	61.0	1322087	7472	5
+rs31490	Chronic lymphocytic leukemia	cancer	A	60.0	1344458	rs401681	Pancreatic cancer	cancer	T	69.0	1322087	7473	5
+rs144962376	Epithelial ovarian cancer	cancer	T	63.0	21878831	rs11012732	Meningioma	cancer	A	40.0	21830104	7814	10
+rs8034191	Lung cancer	cancer	C	40.0	78806023	rs55853698	Small cell lung carcinoma	cancer	G	60.0	78857939	7826	15
+rs11651052	Prostate cancer	cancer	G	63.0	36102381	rs11651755	Epithelial ovarian cancer	cancer	C	63.0	36099840	8089	17
+rs7907606	Basal cell carcinoma	cancer	G	59.0	105680632	rs11591710	Lung cancer	cancer	C	40.0	105687632	8222	10

@@ -1,0 +1,145 @@
+Rheumatoid arthritis	35		
+Rheumatoid arthritis	35		
+		Rheumatoid arthritis	35
+Rheumatoid arthritis	35		
+		Chronic obstructive pulmonary disease	40
+		Chronic obstructive pulmonary disease	40
+		Chronic obstructive pulmonary disease	40
+Chronic obstructive pulmonary disease	40		
+Chronic obstructive pulmonary disease	40		
+		Sarcoidosis	25
+		Sarcoidosis	25
+		Chronic obstructive pulmonary disease	40
+		Chronic obstructive pulmonary disease	40
+Sarcoidosis	25		
+Chronic obstructive pulmonary disease	40		
+Endometriosis	21		
+Endometriosis	21		
+Vitiligo	19		
+Vitiligo	19		
+Atopic dermatitis	1		
+Systemic lupus erythematosus	19		
+Systemic lupus erythematosus	19		
+Systemic lupus erythematosus	19		
+Systemic lupus erythematosus	19		
+Systemic lupus erythematosus	19		
+Psoriasis	28		
+		Type 1 diabetes	4
+Psoriasis	28		
+		Systemic lupus erythematosus	19
+		Type 1 diabetes	4
+Psoriasis	28		
+Systemic lupus erythematosus	19		
+Systemic lupus erythematosus	19		
+		Type 1 diabetes	4
+Systemic lupus erythematosus	19		
+		Allergic rhinitis	8
+Type 1 diabetes	4		
+		Systemic lupus erythematosus	19
+		Type 1 diabetes	4
+		Type 1 diabetes	4
+Allergic rhinitis	8		
+Type 1 diabetes	4		
+Systemic lupus erythematosus	19		
+Type 1 diabetes	4		
+		Chronic kidney disease	60
+		Chronic kidney disease	60
+Chronic kidney disease	60		
+Coronary heart disease	50		
+Aortic valve stenosis	75		
+Coronary heart disease	50		
+Myocardial infarction	50		
+Coronary heart disease	50		
+Myocardial infarction	50		
+Coronary heart disease	50		
+Myocardial infarction	50		
+Coronary heart disease	50		
+Myocardial infarction	50		
+Coronary heart disease	50		
+Myocardial infarction	50		
+Coronary heart disease	50		
+Coronary heart disease	50		
+		Coronary heart disease	50
+Coronary heart disease	50		
+Coronary heart disease	50		
+		Coronary heart disease	50
+		Myocardial infarction	50
+		Coronary heart disease	50
+		Coronary heart disease	50
+		Myocardial infarction	50
+		Coronary heart disease	50
+Intracranial aneurysm	50		
+Intracranial aneurysm	50		
+		Coronary heart disease	50
+Myocardial infarction	50		
+Abdominal aortic aneurysm	50		
+Coronary heart disease	50		
+Abdominal aortic aneurysm	50		
+Coronary heart disease	50		
+		Coronary heart disease	50
+		Coronary heart disease	50
+		Myocardial infarction	50
+		Peripheral artery disease	50
+		Ischemic stroke	65
+Coronary heart disease	50		
+		Myocardial infarction	50
+		Peripheral artery disease	50
+Coronary heart disease	50		
+Myocardial infarction	50		
+Intracranial aneurysm	50		
+Intracranial aneurysm	50		
+		Ischemic stroke	65
+Coronary heart disease	50		
+Myocardial infarction	50		
+Coronary heart disease	50		
+Myocardial infarction	50		
+		Coronary heart disease	50
+Myocardial infarction	50		
+Myocardial infarction	50		
+Myocardial infarction	50		
+		Coronary heart disease	50
+		Coronary heart disease	50
+		Abdominal aortic aneurysm	50
+Ischemic stroke	65		
+Myocardial infarction	50		
+Peripheral artery disease	50		
+Coronary heart disease	50		
+Abdominal aortic aneurysm	50		
+Abdominal aortic aneurysm	50		
+Coronary heart disease	50		
+Coronary heart disease	50		
+		Celiac disease	8
+		Colorectal cancer	50
+		Primary sclerosing cholangitis	20
+		Celiac disease	8
+		Crohn's disease	15
+Celiac disease	8		
+Colorectal cancer	50		
+Primary sclerosing cholangitis	20		
+		Celiac disease	8
+		Crohn's disease	15
+Celiac disease	8		
+Crohn's disease	15		
+		Glaucoma	40
+		Glaucoma	40
+		Schizophrenia	13
+Hypothyroidism	60		
+Hypothyroidism	60		
+Hypothyroidism	60		
+		Small cell lung carcinoma	60
+		Lung cancer	40
+		Squamous cell carcinoma	70
+		Breast cancer	55
+Primary biliary cholangitis	39		
+		Endometrial cancer	58
+Primary biliary cholangitis	39		
+		Primary biliary cholangitis	39
+Primary biliary cholangitis	39		
+Endometrial cancer	58		
+		Primary biliary cholangitis	39
+		Small cell lung carcinoma	60
+		Lung cancer	40
+		Squamous cell carcinoma	70
+Primary biliary cholangitis	39		
+Lung cancer	40		
+		Small cell lung carcinoma	60

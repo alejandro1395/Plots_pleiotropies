@@ -1,0 +1,220 @@
+	SNP	Disease	Group	REGION	CHR_ID	CHR_POS	PleioType
+0	rs2395029	Psoriasis	immune system disease	6p21.33	6	31464003.0	Agonistic
+1	rs2030519	Allergic rhinitis	immune system disease	3q28	3	188402113.0	Antagonistic
+2	rs2155219	Allergic rhinitis	immune system disease	11q13.5	11	76588150.0	Agonistic
+3	rs2519093	Allergic rhinitis	immune system disease				Agonistic
+4	rs1018326	Ankylosing spondylitis	immune system disease	2q31.3	2	181143073.0	Agonistic
+5	rs10865331	Ankylosing spondylitis	immune system disease	2p15	2	62324337.0	Agonistic
+6	rs11209026	Ankylosing spondylitis	immune system disease	1p31.3	1	67240275.0	Agonistic
+7	rs1250550	Ankylosing spondylitis	immune system disease	10q22.3	10	79300560.0	Antagonistic
+8	rs1801274	Ankylosing spondylitis	immune system disease	1q23.3	1	161509955.0	Antagonistic
+9	rs2310173	Ankylosing spondylitis	immune system disease	2q11.2	2	102047167.0	Agonistic
+10	rs2836883	Ankylosing spondylitis	immune system disease	21q22.2	21	39094818.0	Agonistic
+11	rs2910686	Ankylosing spondylitis	immune system disease	5q15	5	96916885.0	Agonistic
+12	rs4129267	Ankylosing spondylitis	immune system disease	1q21.3	1	154453788.0	Antagonistic
+13	rs6871626	Ankylosing spondylitis	immune system disease	5q33.3	5	159399784.0	Agonistic
+14	rs7282490	Ankylosing spondylitis	immune system disease	21q22.3	21	44195858.0	Agonistic
+15	rs7954567	Ankylosing spondylitis	immune system disease	12p13.31	12	6381959.0	Agonistic
+16	rs1295686	Atopic dermatitis	immune system disease	5q31.1	5	132660151.0	Agonistic
+17	rs1701704	Type 1 diabetes	immune system disease	12q13.2	12	56018703.0	Antagonistic
+18	rs2305480	Ulcerative colitis	immune system disease	17q21.1	17	39905943.0	Antagonistic
+19	rs13015714	Atopic dermatitis	immune system disease	2q12.1	2	102355405.0	Agonistic
+20	rs2228145	Atopic dermatitis	immune system disease	1q21.3	1	154454494.0	Antagonistic
+21	rs4821544	Atopic dermatitis	immune system disease	22q12.3	22	36862461.0	Agonistic
+22	rs6010620	Atopic dermatitis	immune system disease	20q13.33	20	63678486.0	Agonistic
+23	rs7927894	Atopic dermatitis	immune system disease	11q13.5	11	76590272.0	Agonistic
+24	rs1126809	Vitiligo	immune system disease	11q14.3	11	89284793.0	Antagonistic
+25	rs12203592	Vitiligo	immune system disease	6p25.3	6	396321.0	Antagonistic
+26	rs6059655	Vitiligo	immune system disease	20q11.22	20	34077942.0	Antagonistic
+27	rs907611	Ulcerative colitis	immune system disease	11p15.5	11	1852842.0	Agonistic
+28	rs13003464	Ulcerative colitis	immune system disease	2p16.1	2	60959694.0	Agonistic
+29	rs1464510	Vitiligo	immune system disease	3q28	3	188394766.0	Antagonistic
+30	rs1893217	Type 1 diabetes	immune system disease	18p11.21	18	12809341.0	Agonistic
+31	rs2187668	Systemic lupus erythematosus	immune system disease	6p21.32	6	32638107.0	Agonistic
+32	rs2327832	Systemic lupus erythematosus	immune system disease	6q23.3	6	137651931.0	Agonistic
+33	rs3184504	Type 1 diabetes	immune system disease	12q24.12	12	111446804.0	Antagonistic
+34	rs653178	Systemic lupus erythematosus	immune system disease	12q24.12	12	111569952.0	Agonistic
+35	rs10028805	Systemic lupus erythematosus	immune system disease	4q24	4	101816093.0	Agonistic
+36	rs10774625	Systemic lupus erythematosus	immune system disease	12q24.12	12	111472415.0	Agonistic
+37	rs10185424	Ulcerative colitis	immune system disease	2q11.2	2	102046427.0	Agonistic
+38	rs10758669	Ulcerative colitis	immune system disease	9p24.1	9	4981602.0	Agonistic
+39	rs10761659	Ulcerative colitis	immune system disease	10q21.2	10	62685804.0	Antagonistic
+40	rs10781499	Ulcerative colitis	immune system disease	9q34.3	9	136371953.0	Agonistic
+41	rs11190140	Ulcerative colitis	immune system disease	10q24.2	10	99531836.0	Agonistic
+42	rs11229555	Ulcerative colitis	immune system disease	11q12.1	11	58641214.0	Antagonistic
+43	rs11230563	Ulcerative colitis	immune system disease	11q12.2	11	61008737.0	Antagonistic
+44	rs113653754	Ulcerative colitis	immune system disease	6p21.32	6	32658495.0	Antagonistic
+45	rs11584383	Ulcerative colitis	immune system disease	1q32.1	1	200966738.0	Antagonistic
+46	rs11641184	Ulcerative colitis	immune system disease	16p13.13	16	11610795.0	Agonistic
+47	rs11741861	Ulcerative colitis	immune system disease	5q33.1	5	150898347.0	Agonistic
+48	rs11742570	Ulcerative colitis	immune system disease	5p13.1	5	40410482.0	Antagonistic
+49	rs12103	Ulcerative colitis	immune system disease	1p36.33	1	1312114.0	Agonistic
+50	rs12422544	Ulcerative colitis	immune system disease	12q12	12	40134630.0	Agonistic
+51	rs1250546	Psoriasis	immune system disease	10q22.3	10	79272775.0	Antagonistic
+52	rs12718244	Ulcerative colitis	immune system disease	7p12.2	7	50136058.0	Agonistic
+53	rs12720356	Psoriasis	immune system disease	19p13.2	19	10359299.0	Antagonistic
+54	rs12942547	Ulcerative colitis	immune system disease	17q21.2	17	42375526.0	Antagonistic
+55	rs12946510	Ulcerative colitis	immune system disease	17q12	17	39756124.0	Agonistic
+56	rs13300218	Ulcerative colitis	immune system disease	9q34.3	9	136505189.0	Antagonistic
+57	rs13407913	Ulcerative colitis	immune system disease	2p23.3	2	24874775.0	Agonistic
+58	rs1363907	Ulcerative colitis	immune system disease	5q15	5	96917099.0	Agonistic
+59	rs1517352	Ulcerative colitis	immune system disease	2q32.2	2	191066738.0	Antagonistic
+60	rs17293632	Ulcerative colitis	immune system disease	15q22.33	15	67150258.0	Agonistic
+61	rs1736135	Ulcerative colitis	immune system disease	21q21.1	21	15432901.0	Agonistic
+62	rs17622378	Ulcerative colitis	immune system disease	5q31.1	5	132442760.0	Agonistic
+63	rs17694108	Ulcerative colitis	immune system disease	19q13.11	19	33240645.0	Agonistic
+64	rs181359	Psoriasis	immune system disease	22q11.21	22	21574352.0	Agonistic
+65	rs2382817	Ulcerative colitis	immune system disease	2q35	2	218286495.0	Agonistic
+66	rs2413583	Ulcerative colitis	immune system disease	22q13.1	22	39263768.0	Antagonistic
+67	rs2476601	Graves' disease	immune system disease	1p13.2	1	113834946.0	Antagonistic
+68	rs2488389	Ulcerative colitis	immune system disease	1q31.3	1	197662011.0	Agonistic
+69	rs2538470	Ulcerative colitis	immune system disease	7q36.1	7	148523356.0	Agonistic
+70	rs2542151	Type 1 diabetes	immune system disease	18p11.21	18	12779948.0	Agonistic
+71	rs259964	Ulcerative colitis	immune system disease	20q13.32	20	59249254.0	Agonistic
+72	rs26528	Ulcerative colitis	immune system disease	16p11.2	16	28506388.0	Agonistic
+73	rs2823286	Ulcerative colitis	immune system disease	21q21.1	21	15445619.0	Antagonistic
+74	rs2836878	Ulcerative colitis	immune system disease	21q22.2	21	39093608.0	Antagonistic
+75	rs2838519	Ulcerative colitis	immune system disease	21q22.3	21	44195140.0	Agonistic
+76	rs2872507	Type 1 diabetes	immune system disease	17q21.1	17	39884510.0	Agonistic
+77	rs2930047	Ulcerative colitis	immune system disease	5p15.2	5	10695414.0	Agonistic
+78	rs3024505	Systemic lupus erythematosus	immune system disease	1q32.1	1	206766559.0	Antagonistic
+79	rs314313	Ulcerative colitis	immune system disease	7q22.1	7	100825743.0	Agonistic
+80	rs3197999	Ulcerative colitis	immune system disease	3p21.31	3	49684099.0	Agonistic
+81	rs3742130	Ulcerative colitis	immune system disease	13q32.3	13	99255087.0	Antagonistic
+82	rs3749171	Ulcerative colitis	immune system disease	2q37.3	2	240630275.0	Agonistic
+83	rs3766606	Ulcerative colitis	immune system disease	1p36.23	1	7962137.0	Antagonistic
+84	rs395157	Ulcerative colitis	immune system disease	5p13.1	5	38867630.0	Agonistic
+85	rs4077515	Ulcerative colitis	immune system disease	9q34.3	9	136372044.0	Agonistic
+86	rs4246905	Ulcerative colitis	immune system disease	9q32	9	114790969.0	Antagonistic
+87	rs4409764	Ulcerative colitis	immune system disease	10q24.2	10	99524480.0	Agonistic
+88	rs4656958	Ulcerative colitis	immune system disease	1q23.3	1	160887174.0	Antagonistic
+89	rs4703855	Ulcerative colitis	immune system disease	5q13.2	5	72398072.0	Antagonistic
+90	rs4845604	Ulcerative colitis	immune system disease	1q21.3	1	151829204.0	Antagonistic
+91	rs4976646	Ulcerative colitis	immune system disease	5q35.3	5	177361569.0	Agonistic
+92	rs516246	Type 1 diabetes	immune system disease	19q13.33	19	48702915.0	Agonistic
+93	rs559928	Ulcerative colitis	immune system disease	11q13.1	11	64382898.0	Antagonistic
+94	rs56167332	Ulcerative colitis	immune system disease	5q33.3	5	159400761.0	Agonistic
+95	rs5763767	Ulcerative colitis	immune system disease	22q12.2	22	30097893.0	Agonistic
+96	rs6062504	Ulcerative colitis	immune system disease	20q13.33	20	63717555.0	Antagonistic
+97	rs6679677	Systemic lupus erythematosus	immune system disease	1p13.2	1	113761186.0	Antagonistic
+98	rs6738825	Systemic lupus erythematosus	immune system disease	2q33.1	2	198032171.0	Agonistic
+99	rs6908425	Ulcerative colitis	immune system disease	6p22.3	6	20728500.0	Antagonistic
+100	rs694739	Psoriasis	immune system disease	11q13.1	11	64329761.0	Agonistic
+101	rs7134472	Ulcerative colitis	immune system disease	12q15	12	68106206.0	Agonistic
+102	rs7329174	Systemic lupus erythematosus	immune system disease	13q14.11	13	40983974.0	Agonistic
+103	rs7554511	Ulcerative colitis	immune system disease	1q32.1	1	200908434.0	Antagonistic
+104	rs7556897	Ulcerative colitis	immune system disease	2q36.3	2	227795396.0	Agonistic
+105	rs75900472	Ulcerative colitis	immune system disease	9p24.1	9	4981601.0	Agonistic
+106	rs7608910	Ulcerative colitis	immune system disease	2p16.1	2	60977721.0	Agonistic
+107	rs7657746	Ulcerative colitis	immune system disease	4q27	4	122240464.0	Antagonistic
+108	rs8005161	Ulcerative colitis	immune system disease	14q31.3	14	88006251.0	Agonistic
+109	rs9271366	Systemic lupus erythematosus	immune system disease	6p21.32	6	32619077.0	Antagonistic
+110	rs9297145	Ulcerative colitis	immune system disease	7q22.1	7	99161494.0	Agonistic
+111	rs9868809	Ulcerative colitis	immune system disease	3p21.31	3	48643620.0	Agonistic
+112	rs505922	Graves' disease	immune system disease				Antagonistic
+113	rs7524102	Ulcerative colitis	immune system disease	1p36.12	1	22371954.0	Antagonistic
+114	rs2647012	Systemic lupus erythematosus	immune system disease	6p21.32	6	32696681.0	Antagonistic
+115	rs1534422	Graves' disease	immune system disease	2p24.3	2	12500615.0	Agonistic
+116	rs3761959	Graves' disease	immune system disease	1q23.1	1	157699488.0	Antagonistic
+117	rs4409785	Graves' disease	immune system disease	11q21	11	95578258.0	Agonistic
+118	rs6457617	Graves' disease	immune system disease	6p21.32	6	32696074.0	Agonistic
+119	rs706779	Graves' disease	immune system disease	10p15.1	10	6056861.0	Agonistic
+120	rs72928038	Graves' disease	immune system disease	6q15	6	90267049.0	Agonistic
+121	rs9275572	Systemic lupus erythematosus	immune system disease	6p21.32	6	32711222.0	Agonistic
+122	rs11574637	Systemic lupus erythematosus	immune system disease	16p11.2	16	31357553.0	Antagonistic
+123	rs6677604	Systemic lupus erythematosus	immune system disease	1q31.3	1	196717788.0	Antagonistic
+124	rs1077773	Ulcerative colitis	immune system disease	7p21.1	7	17403055.0	Agonistic
+125	rs11054935	Ulcerative colitis	immune system disease	12p13.2	12	12495909.0	Agonistic
+126	rs11064881	Ulcerative colitis	immune system disease	12q24.23	12	119709120.0	Agonistic
+127	rs11083840	Ulcerative colitis	immune system disease	19q13.32	19	46616653.0	Agonistic
+128	rs11150589	Ulcerative colitis	immune system disease	16p11.2	16	30471173.0	Agonistic
+129	rs11168249	Ulcerative colitis	immune system disease	12q13.11	12	47814585.0	Agonistic
+130	rs113010081	Type 1 diabetes	immune system disease	3p21.31	3	46415921.0	Antagonistic
+131	rs11554257	Ulcerative colitis	immune system disease	9q32	9	114842790.0	Agonistic
+132	rs11583043	Ulcerative colitis	immune system disease	1p21.2	1	101000498.0	Agonistic
+133	rs1182188	Ulcerative colitis	immune system disease	7p22.2	7	2830351.0	Agonistic
+134	rs12568930	Ulcerative colitis	immune system disease	1p36.12	1	22375738.0	Agonistic
+135	rs1569723	Kawasaki disease	immune system disease	20q13.12	20	46113425.0	Antagonistic
+136	rs17085007	Ulcerative colitis	immune system disease	13q12.13	13	26957130.0	Agonistic
+137	rs17229285	Ulcerative colitis	immune system disease	2q33.1	2	198658398.0	Agonistic
+138	rs17771967	Ulcerative colitis	immune system disease	19q13.42	19	54868759.0	Agonistic
+139	rs17780256	Ulcerative colitis	immune system disease	17q24.3	17	72646784.0	Agonistic
+140	rs2111485	Psoriasis	immune system disease	2q24.2	2	162254026.0	Antagonistic
+141	rs2189234	Ulcerative colitis	immune system disease	4q24	4	105154341.0	Agonistic
+142	rs254560	Ulcerative colitis	immune system disease	5q31.1	5	135107916.0	Agonistic
+143	rs2651244	Ulcerative colitis	immune system disease	1p31.1	1	70529879.0	Agonistic
+144	rs2816958	Ulcerative colitis	immune system disease	1q32.1	1	200132792.0	Agonistic
+145	rs3116494	Ulcerative colitis	immune system disease	2q33.2	2	203727298.0	Agonistic
+146	rs35675666	Ulcerative colitis	immune system disease	1p36.23	1	7961913.0	Agonistic
+147	rs4380874	Ulcerative colitis	immune system disease	7q31.1	7	107839870.0	Agonistic
+148	rs4728142	Systemic lupus erythematosus	immune system disease	7q32.1	7	128933913.0	Agonistic
+149	rs4743820	Ulcerative colitis	immune system disease	9q22.2	9	91166134.0	Agonistic
+150	rs4812833	Ulcerative colitis	immune system disease	20q13.12	20	44440356.0	Agonistic
+151	rs483905	Ulcerative colitis	immune system disease	11q21	11	96290263.0	Agonistic
+152	rs561722	Ulcerative colitis	immune system disease	11q23.2	11	114516108.0	Agonistic
+153	rs564349	Ulcerative colitis	immune system disease	5q35.1	5	172897975.0	Agonistic
+154	rs6426833	Ulcerative colitis	immune system disease	1p36.13	1	19845367.0	Agonistic
+155	rs6667605	Ulcerative colitis	immune system disease	1p36.32	1	2571341.0	Agonistic
+156	rs6920220	Systemic lupus erythematosus	immune system disease	6q23.3	6	137685367.0	Agonistic
+157	rs7011507	Ulcerative colitis	immune system disease	8q11.21	8	48216682.0	Agonistic
+158	rs7134599	Ulcerative colitis	immune system disease	12q15	12	68106295.0	Agonistic
+159	rs7240004	Ulcerative colitis	immune system disease	18q21.1	18	48868651.0	Agonistic
+160	rs727088	Ulcerative colitis	immune system disease	18q22.2	18	69863203.0	Agonistic
+161	rs7404095	Ulcerative colitis	immune system disease	16p12.2	16	23853269.0	Agonistic
+162	rs913678	Ulcerative colitis	immune system disease	20q13.13	20	50338887.0	Agonistic
+163	rs941823	Ulcerative colitis	immune system disease	13q14.11	13	40439840.0	Agonistic
+164	rs17696736	Type 1 diabetes	immune system disease	12q24.13	12	112049014.0	Agonistic
+165	rs2254546	Kawasaki disease	immune system disease	8p23.1	8	11486171.0	Agonistic
+166	rs2736340	Kawasaki disease	immune system disease	8p23.1	8	11486464.0	Agonistic
+167	rs2395185	Ulcerative colitis	immune system disease	6p21.32	6	32465390.0	Antagonistic
+168	rs34517439	Psoriasis	immune system disease	1p31.1	1	77984833.0	Agonistic
+169	rs35789010	Systemic lupus erythematosus	immune system disease	6p22.2	6	25513951.0	Agonistic
+170	rs1393350	Vitiligo	immune system disease	11q14.3	11	89277878.0	Antagonistic
+171	rs6601327	Systemic lupus erythematosus	immune system disease	8p23.1	8	9538022.0	Agonistic
+172	rs8058578	Systemic lupus erythematosus	immune system disease	16p11.2	16	30714927.0	Agonistic
+173	rs11154801	Systemic lupus erythematosus	immune system disease	6q23.3	6	135418217.0	Agonistic
+174	rs12927355	Type 1 diabetes	immune system disease	16p13.13	16	11100914.0	Agonistic
+175	rs223889	Systemic lupus erythematosus	immune system disease	16q21	16	57358329.0	Agonistic
+176	rs2546890	Psoriasis	immune system disease	5q33.3	5	159332892.0	Agonistic
+177	rs4810485	Systemic lupus erythematosus	immune system disease	20q13.12	20	46119308.0	Agonistic
+178	rs6897932	Type 1 diabetes	immune system disease	5p13.2	5	35874473.0	Antagonistic
+179	rs7200786	Systemic lupus erythematosus	immune system disease	16p13.13	16	11083944.0	Agonistic
+180	rs1150757	Systemic lupus erythematosus	immune system disease	6p21.33	6	32061428.0	Agonistic
+181	rs10488631	Systemic lupus erythematosus	immune system disease	7q32.1	7	128954129.0	Agonistic
+182	rs11065979	Psoriasis	immune system disease	12q24.12	12	111621753.0	Agonistic
+183	rs12531711	Systemic lupus erythematosus	immune system disease	7q32.1	7	128977412.0	Antagonistic
+184	rs2304256	Systemic lupus erythematosus	immune system disease	19p13.2	19	10364976.0	Agonistic
+185	rs7574865	Systemic lupus erythematosus	immune system disease	2q32.2	2	191099907.0	Agonistic
+186	rs911263	Systemic lupus erythematosus	immune system disease	14q24.1	14	68286876.0	Antagonistic
+187	rs12191877	Psoriasis	immune system disease	6p21.33	6	31285148.0	Agonistic
+188	rs2201841	Psoriasis	immune system disease	1p31.3	1	67228519.0	Agonistic
+189	rs2451258	Psoriasis	immune system disease	6q25.3	6	159085568.0	Antagonistic
+190	rs33980500	Psoriasis	immune system disease	6q21	6	111592059.0	Agonistic
+191	rs4683946	Psoriasis	immune system disease	3q12.3	3	101896982.0	Agonistic
+192	rs4795067	Psoriasis	immune system disease	17q11.2	17	27779649.0	Agonistic
+193	rs13017599	Psoriatic arthritis	immune system disease	2p16.1	2	60937196.0	Antagonistic
+194	rs10774624	Vitiligo	immune system disease	12q24.12	12	111395984.0	Agonistic
+195	rs10795791	Type 1 diabetes	immune system disease	10p15.1	10	6066377.0	Agonistic
+196	rs11203203	Vitiligo	immune system disease	21q22.3	21	42416077.0	Agonistic
+197	rs11889341	Systemic lupus erythematosus	immune system disease	2q32.2	2	191079016.0	Agonistic
+198	rs2230926	Systemic lupus erythematosus	immune system disease	6q23.3	6	137874929.0	Agonistic
+199	rs3087243	Type 1 diabetes	immune system disease	2q33.2	2	203874196.0	Agonistic
+200	rs35677470	Systemic sclerosis	immune system disease	3p14.3	3	58197909.0	Agonistic
+201	rs58721818	Systemic lupus erythematosus	immune system disease	6q23.3	6	137922602.0	Agonistic
+202	rs71508903	Vitiligo	immune system disease	10q21.2	10	62020112.0	Agonistic
+203	rs743777	Type 1 diabetes	immune system disease	22q12.3	22	37155567.0	Agonistic
+204	rs7579944	Systemic lupus erythematosus	immune system disease	2p23.1	2	30222160.0	Agonistic
+205	rs947474	Type 1 diabetes	immune system disease	10p15.1	10	6348488.0	Antagonistic
+206	rs9653442	Type 1 diabetes	immune system disease	2q11.2	2	100208905.0	Agonistic
+207	rs1150754	Systemic lupus erythematosus	immune system disease	6p21.33	6	32082981.0	Antagonistic
+208	rs4268748	Vitiligo	immune system disease	16q24.3	16	89960104.0	Antagonistic
+209	rs1990760	Systemic lupus erythematosus	immune system disease	2q24.2	2	162267541.0	Antagonistic
+210	rs229541	Systemic lupus erythematosus	immune system disease	22q12.3	22	37195278.0	Agonistic
+211	rs3024493	Systemic lupus erythematosus	immune system disease	1q32.1	1	206770623.0	Agonistic
+212	rs61839660	Systemic lupus erythematosus	immune system disease	10p15.1	10	6052734.0	Antagonistic
+213	rs77583790	Systemic lupus erythematosus	immune system disease	3q25.33	3	159976265.0	Agonistic
+214	rs9373839	Systemic lupus erythematosus	immune system disease	6q21	6	106207742.0	Agonistic
+215	rs10758593	Type 1 diabetes	immune system disease	9p24.2	9	4292083.0	Agonistic
+216	rs17388568	Type 1 diabetes	immune system disease	4q27	4	122408207.0	Agonistic
+217	rs3757247	Type 1 diabetes	immune system disease	6q15	6	90247744.0	Agonistic
+218	rs7202877	Type 1 diabetes	immune system disease	16q23.1	16	75213347.0	Antagonistic

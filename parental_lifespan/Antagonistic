@@ -1,0 +1,41 @@
+rs11552449			C		parental longevity	114448389	[0.0075-0.0193] unit decrease	rs7513707	Breast cancer		A	55	breast carcinoma	114445880	[0.039-0.071] unit increase	1661	1
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs11065987	Primary biliary cholangitis		G	39	primary biliary cirrhosis	112072424	NR	4274	12
+rs11065979	Primary biliary cholangitis		T	39	primary biliary cirrhosis	112059557	[1.13-1.27]	rs11513729			C		parental longevity	112273499	[0.011-0.02] unit decrease	4276	12
+rs11513729			C		parental longevity	112273499	[0.011-0.02] unit decrease	rs11065987	Primary biliary cholangitis		G	39	primary biliary cirrhosis	112072424	NR	6162	12
+rs11065987	Primary biliary cholangitis		G	39	primary biliary cirrhosis	112072424	NR	rs17696736			A		parental longevity	112486818	[0.01-0.019] unit decrease	8010	12
+rs56289821	Coronary heart disease		G	50	coronary artery disease	11188247	[1.11- 1.18]	rs6511720			G		parental longevity	11202306	[0.0096-0.0234] unit increase	279	19
+rs2891168	Coronary heart disease		A	50	coronary artery disease	22098619	[0.18-0.2] unit decrease	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	546	9
+rs11673093	Coronary heart disease		A	50	coronary artery disease	45742094	[0.033-0.061] unit increase	rs74444983			T		parental longevity	45745607	[0.0094-0.0192] unit decrease	841	19
+rs4845625	Coronary heart disease		T	50	coronary artery disease	154422067	[0.034-0.056] unit increase	rs6689306			A		parental longevity	154395946	[0.0066-0.0156] unit increase	1021	1
+rs12118721	Myocardial infarction		T	50	myocardial infarction	154397416	[1.04-1.08]	rs6689306			A		parental longevity	154395946	[0.0066-0.0156] unit increase	2875	1
+rs10757274	Abdominal aortic aneurysm		A	50	Abdominal Aortic Aneurysm	22096055	[1.20-1.29]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	3240	9
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs3184504	Coronary heart disease		T	50	coronary artery disease	111884608	[0.061-0.087] unit increase	4193	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Myocardial infarction		C	50	myocardial infarction	112007756	[1.06-1.1]	4263	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Peripheral artery disease		C	50	peripheral arterial disease	112007756	[1.13-1.32]	4264	12
+rs17630235			G		parental longevity	112591686	[0.01-0.019] unit decrease	rs17696736	Ischemic stroke		G	65	stroke	112486818	[1.06-1.14]	4756	12
+rs55791371	Coronary heart disease		A	50	coronary artery disease	11188153	[0.098-0.134] unit increase	rs6511720			G		parental longevity	11202306	[0.0096-0.0234] unit increase	5432	19
+rs55791371	Myocardial infarction		A	50	myocardial infarction	11188153	[1.07-1.15]	rs6511720			G		parental longevity	11202306	[0.0096-0.0234] unit increase	5435	19
+rs11513729			C		parental longevity	112273499	[0.011-0.02] unit decrease	rs17696736	Ischemic stroke		G	65	stroke	112486818	[1.06-1.14]	6164	12
+rs4977574	Coronary heart disease		A	50	coronary artery disease	22098574	[0.17-0.19] unit decrease	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6489	9
+rs17696736	Ischemic stroke		G	65	stroke	112486818	[1.06-1.14]	rs11066309			G		parental longevity	112883476	[0.01-0.019] unit decrease	10113	12
+rs597808	Hypothyroidism		A	60	hypothyroidism	111973358	[0.13-0.23] unit increase	rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	4136	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs3184504	Type 1 diabetes		T	4	type I diabetes mellitus	111884608	[NR]	4198	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Type 1 diabetes		C	4	type I diabetes mellitus	112007756		4267	12
+rs17630235			G		parental longevity	112591686	[0.01-0.019] unit decrease	rs17696736	Type 1 diabetes		G	4	type I diabetes mellitus	112486818		4758	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs35350651	Allergic rhinitis		C	8	allergic rhinitis	111907431	[1.03-1.05]	4933	12
+rs11513729			C		parental longevity	112273499	[0.011-0.02] unit decrease	rs17696736	Type 1 diabetes		G	4	type I diabetes mellitus	112486818		6166	12
+rs17696736	Type 1 diabetes		G	4	type I diabetes mellitus	112486818		rs11066309			G		parental longevity	112883476	[0.01-0.019] unit decrease	10115	12
+rs597808	Systemic lupus erythematosus		A	19	systemic lupus erythematosus	111973358	[NR]	rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	4140	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Systemic lupus erythematosus		C	19	systemic lupus erythematosus	112007756	[1.08-1.20]	4266	12
+rs11065979	Psoriasis		T	28	psoriasis	112059557		rs11513729			C		parental longevity	112273499	[0.011-0.02] unit decrease	4278	12
+rs17630235	Systemic lupus erythematosus		A	19	systemic lupus erythematosus	112591686	[1.06-1.18]	rs11513729			C		parental longevity	112273499	[0.011-0.02] unit decrease	4750	12
+rs17630235	Systemic lupus erythematosus		A	19	systemic lupus erythematosus	112591686	[1.06-1.18]	rs17696736			A		parental longevity	112486818	[0.01-0.019] unit decrease	4755	12
+rs17630235	Systemic lupus erythematosus		A	19	systemic lupus erythematosus	112591686	[1.06-1.18]	rs11066309			G		parental longevity	112883476	[0.01-0.019] unit decrease	4760	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Chronic kidney disease		T	60	cystatin C measurement, chronic kidney disease	112007756	[0.009-0.017] unit increase	5099	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Celiac disease		C	8	celiac disease	112007756	[1.15-1.24]	4260	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs3184504	Primary sclerosing cholangitis		T	20	sclerosing cholangitis	111884608	[1.13-1.24]	4196	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Crohn's disease		C	15	Crohn's disease	112007756	[1.04-1.09]	4262	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs7137828	Glaucoma		T	40	open-angle glaucoma	111932800	NR	5010	12
+rs10757272	Endometriosis		C	21	endometriosis	22088260	1.04-1.10	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6150	9
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs653178	Sarcoidosis		C	25	Sarcoidosis	112007756	[1.14-1.27]	4265	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs3184504	Rheumatoid arthritis		T	35	rheumatoid arthritis	111884608	[NR]	4197	12

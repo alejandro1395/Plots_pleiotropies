@@ -1,0 +1,252 @@
+	SNP	Disease	Group	REGION	CHR_ID	CHR_POS	PleioType
+0	rs6795735	Type 2 diabetes	metabolic disease	3p14.1	3	64719689.0	Antagonistic
+1	rs2030519	Celiac disease	digestive system disease	3q28	3	188402113.0	Antagonistic
+2	rs2155219	Crohn's disease	digestive system disease	11q13.5	11	76588150.0	Agonistic
+3	rs6857	Type 2 diabetes	metabolic disease	19q13.32	19	44888997.0	Antagonistic
+4	rs1018326	Celiac disease	digestive system disease	2q31.3	2	181143073.0	Agonistic
+5	rs10865331	Crohn's disease	digestive system disease	2p15	2	62324337.0	Agonistic
+6	rs11209026	Crohn's disease	digestive system disease	1p31.3	1	67240275.0	Agonistic
+7	rs1250550	Crohn's disease	digestive system disease	10q22.3	10	79300560.0	Antagonistic
+8	rs1801274	Crohn's disease	digestive system disease	1q23.3	1	161509955.0	Antagonistic
+9	rs2836883	Primary sclerosing cholangitis	digestive system disease	21q22.2	21	39094818.0	Agonistic
+10	rs6871626	Inflammatory bowel disease	digestive system disease	5q33.3	5	159399784.0	Agonistic
+11	rs7282490	Crohn's disease	digestive system disease	21q22.3	21	44195858.0	Agonistic
+12	rs7954567	Crohn's disease	digestive system disease	12p13.31	12	6381959.0	Agonistic
+13	rs13015714	Celiac disease	digestive system disease	2q12.1	2	102355405.0	Agonistic
+14	rs4821544	Crohn's disease	digestive system disease	22q12.3	22	36862461.0	Agonistic
+15	rs7927894	Crohn's disease	digestive system disease	11q13.5	11	76590272.0	Agonistic
+16	rs17810546	Celiac disease	digestive system disease	3q25.33	3	159947262.0	Agonistic
+17	rs7616215	Celiac disease	digestive system disease	3p21.31	3	46164194.0	Agonistic
+18	rs10936599	Celiac disease	digestive system disease	3q26.2	3	169774313.0	Antagonistic
+19	rs2294008	Duodenal ulcer	digestive system disease	8q24.3	8	142680513.0	Antagonistic
+20	rs907611	Inflammatory bowel disease	digestive system disease	11p15.5	11	1852842.0	Agonistic
+21	rs7107217	Type 2 diabetes	metabolic disease	11q24.3	11	129603795.0	Agonistic
+22	rs13003464	Celiac disease	digestive system disease	2p16.1	2	60959694.0	Agonistic
+23	rs1464510	Celiac disease	digestive system disease	3q28	3	188394766.0	Antagonistic
+24	rs1738074	Celiac disease	digestive system disease	6q25.3	6	159044945.0	Antagonistic
+25	rs1893217	Celiac disease	digestive system disease	18p11.21	18	12809341.0	Agonistic
+26	rs2187668	Celiac disease	digestive system disease	6p21.32	6	32638107.0	Agonistic
+27	rs2327832	Celiac disease	digestive system disease	6q23.3	6	137651931.0	Agonistic
+28	rs3184504	Celiac disease	digestive system disease	12q24.12	12	111446804.0	Antagonistic
+29	rs653178	Celiac disease	digestive system disease	12q24.12	12	111569952.0	Agonistic
+30	rs6974491	Celiac disease	digestive system disease	7p14.1	7	37334906.0	Agonistic
+31	rs802734	Celiac disease	digestive system disease	6q22.33	6	127957653.0	Antagonistic
+32	rs917997	Celiac disease	digestive system disease	2q12.1	2	102454108.0	Agonistic
+33	rs56848936	Colorectal cancer	digestive system disease	19q13.32	19	45818249.0	Agonistic
+34	rs10505477	Colorectal cancer	digestive system disease	8q24.21	8	127395198.0	Agonistic
+35	rs174537	Colorectal cancer	digestive system disease	11q12.2	11	61785208.0	Antagonistic
+36	rs6983267	Colorectal cancer	digestive system disease	8q24.21	8	127401060.0	Agonistic
+37	rs7758229	Colorectal cancer	digestive system disease	6q25.3	6	160419220.0	Agonistic
+38	rs671	Metabolic syndrome	metabolic disease	12q24.12	12	111803962.0	Antagonistic
+39	rs10051722	Crohn's disease	digestive system disease	5q23.3	5	130768383.0	Antagonistic
+40	rs10065637	Crohn's disease	digestive system disease	5q11.2	5	56143024.0	Agonistic
+41	rs10185424	Crohn's disease	digestive system disease	2q11.2	2	102046427.0	Agonistic
+42	rs1042058	Crohn's disease	digestive system disease	10p11.23	10	30439172.0	Antagonistic
+43	rs10486483	Crohn's disease	digestive system disease	7p15.2	7	26852821.0	Agonistic
+44	rs10495903	Crohn's disease	digestive system disease	2p21	2	43579779.0	Agonistic
+45	rs10758669	Crohn's disease	digestive system disease	9p24.1	9	4981602.0	Agonistic
+46	rs10761659	Crohn's disease	digestive system disease	10q21.2	10	62685804.0	Antagonistic
+47	rs10781499	Crohn's disease	digestive system disease	9q34.3	9	136371953.0	Agonistic
+48	rs10798069	Crohn's disease	digestive system disease	1q31.1	1	186906327.0	Antagonistic
+49	rs11190140	Crohn's disease	digestive system disease	10q24.2	10	99531836.0	Agonistic
+50	rs11229555	Crohn's disease	digestive system disease	11q12.1	11	58641214.0	Antagonistic
+51	rs11230563	Crohn's disease	digestive system disease	11q12.2	11	61008737.0	Antagonistic
+52	rs113653754	Crohn's disease	digestive system disease	6p21.32	6	32658495.0	Antagonistic
+53	rs11564258	Crohn's disease	digestive system disease	12q12	12	40398498.0	Agonistic
+54	rs11584383	Crohn's disease	digestive system disease	1q32.1	1	200966738.0	Antagonistic
+55	rs116392568	Crohn's disease	digestive system disease	6p21.33	6	31306603.0	Agonistic
+56	rs11641184	Crohn's disease	digestive system disease	16p13.13	16	11610795.0	Agonistic
+57	rs11741861	Crohn's disease	digestive system disease	5q33.1	5	150898347.0	Agonistic
+58	rs11742570	Crohn's disease	digestive system disease	5p13.1	5	40410482.0	Antagonistic
+59	rs11743851	Crohn's disease	digestive system disease	5q31.1	5	131277907.0	Agonistic
+60	rs11879191	Crohn's disease	digestive system disease	19p13.2	19	10402235.0	Antagonistic
+61	rs12103	Crohn's disease	digestive system disease	1p36.33	1	1312114.0	Agonistic
+62	rs12199775	Crohn's disease	digestive system disease	6q24.2	6	143577757.0	Antagonistic
+63	rs12422544	Crohn's disease	digestive system disease	12q12	12	40134630.0	Agonistic
+64	rs1250546	Crohn's disease	digestive system disease	10q22.3	10	79272775.0	Antagonistic
+65	rs12718244	Crohn's disease	digestive system disease	7p12.2	7	50136058.0	Agonistic
+66	rs12720356	Crohn's disease	digestive system disease	19p13.2	19	10359299.0	Antagonistic
+67	rs12722489	Crohn's disease	digestive system disease	10p15.1	10	6060049.0	Agonistic
+68	rs12722515	Crohn's disease	digestive system disease	10p15.1	10	6039267.0	Antagonistic
+69	rs1292053	Crohn's disease	digestive system disease	17q23.1	17	59886176.0	Agonistic
+70	rs12942547	Crohn's disease	digestive system disease	17q21.2	17	42375526.0	Antagonistic
+71	rs12946510	Crohn's disease	digestive system disease	17q12	17	39756124.0	Agonistic
+72	rs12994997	Crohn's disease	digestive system disease	2q37.1	2	233264857.0	Agonistic
+73	rs13126505	Crohn's disease	digestive system disease	4q24	4	101944147.0	Agonistic
+74	rs13204048	Crohn's disease	digestive system disease	6p25.2	6	3420172.0	Antagonistic
+75	rs13204742	Crohn's disease	digestive system disease	6q22.33	6	127924620.0	Agonistic
+76	rs13300218	Crohn's disease	digestive system disease	9q34.3	9	136505189.0	Antagonistic
+77	rs13407913	Crohn's disease	digestive system disease	2p23.3	2	24874775.0	Agonistic
+78	rs1363907	Crohn's disease	digestive system disease	5q15	5	96917099.0	Agonistic
+79	rs1456896	Crohn's disease	digestive system disease	7p12.2	7	50264865.0	Antagonistic
+80	rs1517352	Crohn's disease	digestive system disease	2q32.2	2	191066738.0	Antagonistic
+81	rs1569328	Crohn's disease	digestive system disease	14q24.3	14	75275048.0	Antagonistic
+82	rs16967103	Crohn's disease	digestive system disease	15q14	15	38606989.0	Agonistic
+83	rs17057051	Crohn's disease	digestive system disease	8p21.2	8	27370037.0	Antagonistic
+84	rs17119	Crohn's disease	digestive system disease	6p23	6	14719265.0	Antagonistic
+85	rs17293632	Crohn's disease	digestive system disease	15q22.33	15	67150258.0	Agonistic
+86	rs1736135	Crohn's disease	digestive system disease	21q21.1	21	15432901.0	Agonistic
+87	rs17391694	Crohn's disease	digestive system disease	1p31.1	1	78157942.0	Antagonistic
+88	rs17622378	Crohn's disease	digestive system disease	5q31.1	5	132442760.0	Agonistic
+89	rs17694108	Crohn's disease	digestive system disease	19q13.11	19	33240645.0	Agonistic
+90	rs181359	Crohn's disease	digestive system disease	22q11.21	22	21574352.0	Agonistic
+91	rs1819333	Crohn's disease	digestive system disease	6q27	6	166960059.0	Antagonistic
+92	rs1842076	Crohn's disease	digestive system disease	5p13.1	5	40236916.0	Antagonistic
+93	rs1847472	Crohn's disease	digestive system disease	6q15	6	90263440.0	Antagonistic
+94	rs194749	Crohn's disease	digestive system disease	14q24.1	14	68807188.0	Agonistic
+95	rs2024092	Crohn's disease	digestive system disease	19p13.3	19	1124032.0	Agonistic
+96	rs2073505	Crohn's disease	digestive system disease	4p16.3	4	3442776.0	Agonistic
+97	rs212388	Crohn's disease	digestive system disease	6q25.3	6	159069404.0	Agonistic
+98	rs2188962	Crohn's disease	digestive system disease	5q31.1	5	132435113.0	Agonistic
+99	rs2284553	Crohn's disease	digestive system disease	21q22.11	21	33404389.0	Antagonistic
+100	rs2382817	Crohn's disease	digestive system disease	2q35	2	218286495.0	Agonistic
+101	rs2413583	Crohn's disease	digestive system disease	22q13.1	22	39263768.0	Antagonistic
+102	rs2476601	Crohn's disease	digestive system disease	1p13.2	1	113834946.0	Antagonistic
+103	rs2488389	Crohn's disease	digestive system disease	1q31.3	1	197662011.0	Agonistic
+104	rs2538470	Crohn's disease	digestive system disease	7q36.1	7	148523356.0	Agonistic
+105	rs2542151	Crohn's disease	digestive system disease	18p11.21	18	12779948.0	Agonistic
+106	rs259964	Crohn's disease	digestive system disease	20q13.32	20	59249254.0	Agonistic
+107	rs2641348	Crohn's disease	digestive system disease	1p12	1	119895261.0	Antagonistic
+108	rs26528	Crohn's disease	digestive system disease	16p11.2	16	28506388.0	Agonistic
+109	rs2823286	Crohn's disease	digestive system disease	21q21.1	21	15445619.0	Antagonistic
+110	rs2836878	Crohn's disease	digestive system disease	21q22.2	21	39093608.0	Antagonistic
+111	rs2838519	Crohn's disease	digestive system disease	21q22.3	21	44195140.0	Agonistic
+112	rs2872507	Crohn's disease	digestive system disease	17q21.1	17	39884510.0	Agonistic
+113	rs2930047	Crohn's disease	digestive system disease	5p15.2	5	10695414.0	Agonistic
+114	rs2945412	Crohn's disease	digestive system disease	17q11.2	17	27516617.0	Antagonistic
+115	rs3024505	Crohn's disease	digestive system disease	1q32.1	1	206766559.0	Antagonistic
+116	rs3091315	Crohn's disease	digestive system disease	17q12	17	34266646.0	Antagonistic
+117	rs3091316	Crohn's disease	digestive system disease	17q12	17	34266955.0	Agonistic
+118	rs314313	Crohn's disease	digestive system disease	7q22.1	7	100825743.0	Agonistic
+119	rs3197999	Crohn's disease	digestive system disease	3p21.31	3	49684099.0	Agonistic
+120	rs34856868	Crohn's disease	digestive system disease	1p22.1	1	92088726.0	Antagonistic
+121	rs3742130	Crohn's disease	digestive system disease	13q32.3	13	99255087.0	Antagonistic
+122	rs3749171	Crohn's disease	digestive system disease	2q37.3	2	240630275.0	Agonistic
+123	rs3764147	Crohn's disease	digestive system disease	13q14.11	13	43883789.0	Agonistic
+124	rs3766606	Crohn's disease	digestive system disease	1p36.23	1	7962137.0	Antagonistic
+125	rs3853824	Crohn's disease	digestive system disease	17q22	17	56803632.0	Antagonistic
+126	rs395157	Crohn's disease	digestive system disease	5p13.1	5	38867630.0	Agonistic
+127	rs4077515	Crohn's disease	digestive system disease	9q34.3	9	136372044.0	Agonistic
+128	rs423674	Crohn's disease	digestive system disease	16p13.13	16	11279548.0	Antagonistic
+129	rs4243971	Crohn's disease	digestive system disease	20q11.21	20	32261714.0	Antagonistic
+130	rs4246905	Crohn's disease	digestive system disease	9q32	9	114790969.0	Antagonistic
+131	rs4256159	Crohn's disease	digestive system disease	3p24.3	3	18725912.0	Agonistic
+132	rs4409764	Crohn's disease	digestive system disease	10q24.2	10	99524480.0	Agonistic
+133	rs4613763	Crohn's disease	digestive system disease	5p13.1	5	40392626.0	Agonistic
+134	rs4656958	Crohn's disease	digestive system disease	1q23.3	1	160887174.0	Antagonistic
+135	rs4664304	Crohn's disease	digestive system disease	2q24.2	2	159937497.0	Agonistic
+136	rs4692386	Crohn's disease	digestive system disease	4p15.2	4	26130739.0	Antagonistic
+137	rs4703855	Crohn's disease	digestive system disease	5q13.2	5	72398072.0	Antagonistic
+138	rs4768236	Crohn's disease	digestive system disease	12q12	12	40362670.0	Agonistic
+139	rs4802307	Crohn's disease	digestive system disease	19q13.32	19	46346549.0	Antagonistic
+140	rs4845604	Crohn's disease	digestive system disease	1q21.3	1	151829204.0	Antagonistic
+141	rs4976646	Crohn's disease	digestive system disease	5q35.3	5	177361569.0	Agonistic
+142	rs516246	Crohn's disease	digestive system disease	19q13.33	19	48702915.0	Agonistic
+143	rs559928	Crohn's disease	digestive system disease	11q13.1	11	64382898.0	Antagonistic
+144	rs56167332	Crohn's disease	digestive system disease	5q33.3	5	159400761.0	Agonistic
+145	rs5763767	Crohn's disease	digestive system disease	22q12.2	22	30097893.0	Agonistic
+146	rs6062504	Crohn's disease	digestive system disease	20q13.33	20	63717555.0	Antagonistic
+147	rs6074022	Crohn's disease	digestive system disease	20q13.12	20	46111557.0	Agonistic
+148	rs6556412	Crohn's disease	digestive system disease	5q33.3	5	159360377.0	Agonistic
+149	rs6568421	Crohn's disease	digestive system disease	6q21	6	105987150.0	Agonistic
+150	rs6651252	Crohn's disease	digestive system disease	8q24.21	8	128554935.0	Agonistic
+151	rs6679677	Crohn's disease	digestive system disease	1p13.2	1	113761186.0	Antagonistic
+152	rs670523	Crohn's disease	digestive system disease	1q22	1	155908941.0	Agonistic
+153	rs6708413	Crohn's disease	digestive system disease	2q12.1	2	102446909.0	Agonistic
+154	rs6716753	Crohn's disease	digestive system disease	2q37.1	2	230232414.0	Agonistic
+155	rs6738825	Crohn's disease	digestive system disease	2q33.1	2	198032171.0	Agonistic
+156	rs6740462	Crohn's disease	digestive system disease	2p14	2	65440138.0	Antagonistic
+157	rs6856616	Crohn's disease	digestive system disease	4p14	4	38323415.0	Agonistic
+158	rs6908425	Crohn's disease	digestive system disease	6p22.3	6	20728500.0	Antagonistic
+159	rs694739	Crohn's disease	digestive system disease	11q13.1	11	64329761.0	Agonistic
+160	rs7015630	Crohn's disease	digestive system disease	8q21.3	8	89863690.0	Antagonistic
+161	rs7097656	Crohn's disease	digestive system disease	10q23.1	10	80491075.0	Antagonistic
+162	rs7134472	Crohn's disease	digestive system disease	12q15	12	68106206.0	Agonistic
+163	rs71559680	Crohn's disease	digestive system disease	6p22.3	6	21430497.0	Antagonistic
+164	rs7165170	Crohn's disease	digestive system disease	15q26.1	15	90638257.0	Antagonistic
+165	rs7236492	Crohn's disease	digestive system disease	18q23	18	79460616.0	Antagonistic
+166	rs727563	Crohn's disease	digestive system disease	22q13.2	22	41471373.0	Agonistic
+167	rs7329174	Crohn's disease	digestive system disease	13q14.11	13	40983974.0	Agonistic
+168	rs7438704	Crohn's disease	digestive system disease	4p11	4	48361228.0	Antagonistic
+169	rs744166	Crohn's disease	digestive system disease	17q21.2	17	42362183.0	Antagonistic
+170	rs7517810	Crohn's disease	digestive system disease	1q24.3	1	172884320.0	Agonistic
+171	rs7554511	Crohn's disease	digestive system disease	1q32.1	1	200908434.0	Antagonistic
+172	rs7555082	Crohn's disease	digestive system disease	1q31.3	1	198629533.0	Agonistic
+173	rs7556897	Crohn's disease	digestive system disease	2q36.3	2	227795396.0	Agonistic
+174	rs75900472	Crohn's disease	digestive system disease	9p24.1	9	4981601.0	Agonistic
+175	rs7608910	Crohn's disease	digestive system disease	2p16.1	2	60977721.0	Agonistic
+176	rs7657746	Crohn's disease	digestive system disease	4q27	4	122240464.0	Antagonistic
+177	rs7758080	Crohn's disease	digestive system disease	6q25.1	6	149255943.0	Agonistic
+178	rs7765379	Crohn's disease	digestive system disease	6p21.32	6	32713151.0	Antagonistic
+179	rs7773324	Crohn's disease	digestive system disease	6p25.3	6	382559.0	Antagonistic
+180	rs780093	Crohn's disease	digestive system disease	2p23.3	2	27519736.0	Antagonistic
+181	rs8005161	Crohn's disease	digestive system disease	14q31.3	14	88006251.0	Agonistic
+182	rs864745	Crohn's disease	digestive system disease	7p15.1	7	28140937.0	Agonistic
+183	rs915286	Crohn's disease	digestive system disease	13q14.11	13	40121855.0	Antagonistic
+184	rs921720	Crohn's disease	digestive system disease	8q24.13	8	125522429.0	Antagonistic
+185	rs925255	Crohn's disease	digestive system disease	2p23.2	2	28391927.0	Antagonistic
+186	rs9271366	Crohn's disease	digestive system disease	6p21.32	6	32619077.0	Antagonistic
+187	rs9292777	Crohn's disease	digestive system disease	5p13.1	5	40437846.0	Agonistic
+188	rs9297145	Crohn's disease	digestive system disease	7q22.1	7	99161494.0	Agonistic
+189	rs9525625	Crohn's disease	digestive system disease	13q14.11	13	42443894.0	Agonistic
+190	rs9868809	Crohn's disease	digestive system disease	3p21.31	3	48643620.0	Agonistic
+191	rs9891119	Crohn's disease	digestive system disease	17q21.2	17	42355962.0	Antagonistic
+192	rs505922	Duodenal ulcer	digestive system disease				Antagonistic
+193	rs38904	Inflammatory bowel disease	digestive system disease	7q31.2	7	117252792.0	Antagonistic
+194	rs4430796	Type 2 diabetes	metabolic disease	17q12	17	37738049.0	Antagonistic
+195	rs167769	Eosinophilic esophagitis	digestive system disease	12q13.3	12	57109992.0	Agonistic
+196	rs1260326	Gallstone disease	digestive system disease	2p23.3	2	27508073.0	Antagonistic
+197	rs8112449	Gastritis	digestive system disease	19p13.2	19	10409388.0	Antagonistic
+198	rs780094	Hypertriglyceridemia	metabolic disease	2p23.3	2	27518370.0	Antagonistic
+199	rs1077773	Inflammatory bowel disease	digestive system disease	7p21.1	7	17403055.0	Agonistic
+200	rs11054935	Inflammatory bowel disease	digestive system disease	12p13.2	12	12495909.0	Agonistic
+201	rs11064881	Inflammatory bowel disease	digestive system disease	12q24.23	12	119709120.0	Agonistic
+202	rs11083840	Inflammatory bowel disease	digestive system disease	19q13.32	19	46616653.0	Agonistic
+203	rs11150589	Inflammatory bowel disease	digestive system disease	16p11.2	16	30471173.0	Agonistic
+204	rs11168249	Inflammatory bowel disease	digestive system disease	12q13.11	12	47814585.0	Agonistic
+205	rs113010081	Inflammatory bowel disease	digestive system disease	3p21.31	3	46415921.0	Antagonistic
+206	rs11554257	Inflammatory bowel disease	digestive system disease	9q32	9	114842790.0	Agonistic
+207	rs11583043	Inflammatory bowel disease	digestive system disease	1p21.2	1	101000498.0	Agonistic
+208	rs1182188	Inflammatory bowel disease	digestive system disease	7p22.2	7	2830351.0	Agonistic
+209	rs12568930	Inflammatory bowel disease	digestive system disease	1p36.12	1	22375738.0	Agonistic
+210	rs1569723	Inflammatory bowel disease	digestive system disease	20q13.12	20	46113425.0	Antagonistic
+211	rs17085007	Inflammatory bowel disease	digestive system disease	13q12.13	13	26957130.0	Agonistic
+212	rs17229285	Inflammatory bowel disease	digestive system disease	2q33.1	2	198658398.0	Agonistic
+213	rs1734907	Inflammatory bowel disease	digestive system disease	7q22.1	7	100717894.0	Agonistic
+214	rs17771967	Inflammatory bowel disease	digestive system disease	19q13.42	19	54868759.0	Agonistic
+215	rs17780256	Inflammatory bowel disease	digestive system disease	17q24.3	17	72646784.0	Agonistic
+216	rs2111485	Inflammatory bowel disease	digestive system disease	2q24.2	2	162254026.0	Antagonistic
+217	rs2189234	Inflammatory bowel disease	digestive system disease	4q24	4	105154341.0	Agonistic
+218	rs254560	Inflammatory bowel disease	digestive system disease	5q31.1	5	135107916.0	Agonistic
+219	rs2651244	Inflammatory bowel disease	digestive system disease	1p31.1	1	70529879.0	Agonistic
+220	rs2816958	Inflammatory bowel disease	digestive system disease	1q32.1	1	200132792.0	Agonistic
+221	rs3116494	Inflammatory bowel disease	digestive system disease	2q33.2	2	203727298.0	Agonistic
+222	rs35675666	Inflammatory bowel disease	digestive system disease	1p36.23	1	7961913.0	Agonistic
+223	rs4380874	Inflammatory bowel disease	digestive system disease	7q31.1	7	107839870.0	Agonistic
+224	rs4728142	Inflammatory bowel disease	digestive system disease	7q32.1	7	128933913.0	Agonistic
+225	rs4743820	Inflammatory bowel disease	digestive system disease	9q22.2	9	91166134.0	Agonistic
+226	rs4812833	Inflammatory bowel disease	digestive system disease	20q13.12	20	44440356.0	Agonistic
+227	rs483905	Inflammatory bowel disease	digestive system disease	11q21	11	96290263.0	Agonistic
+228	rs561722	Inflammatory bowel disease	digestive system disease	11q23.2	11	114516108.0	Agonistic
+229	rs564349	Inflammatory bowel disease	digestive system disease	5q35.1	5	172897975.0	Agonistic
+230	rs6025	Inflammatory bowel disease	digestive system disease	1q24.2	1	169549811.0	Antagonistic
+231	rs630923	Inflammatory bowel disease	digestive system disease	11q23.3	11	118883644.0	Agonistic
+232	rs6426833	Inflammatory bowel disease	digestive system disease	1p36.13	1	19845367.0	Agonistic
+233	rs6667605	Inflammatory bowel disease	digestive system disease	1p36.32	1	2571341.0	Agonistic
+234	rs6920220	Inflammatory bowel disease	digestive system disease	6q23.3	6	137685367.0	Agonistic
+235	rs7011507	Inflammatory bowel disease	digestive system disease	8q11.21	8	48216682.0	Agonistic
+236	rs7134599	Inflammatory bowel disease	digestive system disease	12q15	12	68106295.0	Agonistic
+237	rs7240004	Inflammatory bowel disease	digestive system disease	18q21.1	18	48868651.0	Agonistic
+238	rs727088	Inflammatory bowel disease	digestive system disease	18q22.2	18	69863203.0	Agonistic
+239	rs7404095	Inflammatory bowel disease	digestive system disease	16p12.2	16	23853269.0	Agonistic
+240	rs913678	Inflammatory bowel disease	digestive system disease	20q13.13	20	50338887.0	Agonistic
+241	rs941823	Inflammatory bowel disease	digestive system disease	13q14.11	13	40439840.0	Agonistic
+242	rs663743	Primary sclerosing cholangitis	digestive system disease	11q13.1	11	64340263.0	Antagonistic
+243	rs681343	Primary sclerosing cholangitis	digestive system disease	19q13.33	19	48703205.0	Agonistic
+244	rs228614	Primary sclerosing cholangitis	digestive system disease	4q24	4	102657480.0	Agonistic
+245	rs1561927	Type 2 diabetes	metabolic disease	8q24.21	8	128555832.0	Antagonistic
+246	rs1893592	Primary sclerosing cholangitis	digestive system disease	21q22.3	21	42434957.0	Agonistic
+247	rs11651052	Type 2 diabetes	metabolic disease	17q12	17	37742390.0	Antagonistic
+248	rs2796441	Type 2 diabetes	metabolic disease	9q21.32	9	81694033.0	Agonistic
+249	rs10758593	Type 2 diabetes	metabolic disease	9p24.2	9	4292083.0	Agonistic
+250	rs7202877	Type 2 diabetes	metabolic disease	16q23.1	16	75213347.0	Antagonistic

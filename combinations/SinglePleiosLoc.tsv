@@ -1,0 +1,475 @@
+	SNP	Disease	Group	PleioType	skin	skeletal	respiratory	reproductive	cancer	immune	infectious	kidney	cardio	metabolic	headneck	nervous	eye	endocrine
+0	rs2395029	{'AIDS', 'Psoriasis'}	{'immune system disease', 'infectious disease'}	Early-Late Agonistic	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+1	rs10757274	{'Coronary heart disease', 'Abdominal aortic aneurysm'}	{'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+2	rs6511720	{'Coronary heart disease', 'Abdominal aortic aneurysm'}	{'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3	rs11755724	{'Age-related macular degeneration', 'Multiple sclerosis'}	{'nervous system disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+4	rs2075650	"{'Age-related macular degeneration', ""Alzheimer's disease""}"	{'nervous system disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+5	rs4420638	{'Age-related macular degeneration', 'Coronary heart disease'}	{'nervous system disease', 'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+6	rs6795735	{'Age-related macular degeneration', 'Type 2 diabetes'}	{'nervous system disease', 'metabolic disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+7	rs2030519	{'Celiac disease', 'Allergic rhinitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+8	rs2155219	"{""Crohn's disease"", 'Inflammatory bowel disease', 'Ulcerative colitis', 'Allergic rhinitis', 'Eosinophilic esophagitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+9	rs2519093	{'Venous thromboembolism', 'Allergic rhinitis', 'Coronary heart disease'}	{'immune system disease', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+10	rs6857	"{""Alzheimer's disease"", 'Frontotemporal dementia', 'Type 2 diabetes'}"	{'nervous system disease', 'metabolic disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+11	rs12608932	{'Amyotrophic lateral sclerosis', 'Frontotemporal dementia'}	{'nervous system disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+12	rs1018326	{'Celiac disease', 'Ankylosing spondylitis'}	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+13	rs10865331	"{'Psoriasis', ""Crohn's disease"", 'Ankylosing spondylitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+14	rs11209026	"{'Ulcerative colitis', 'Inflammatory bowel disease', ""Crohn's disease"", 'Ankylosing spondylitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+15	rs1250550	"{'Multiple sclerosis', ""Crohn's disease"", 'Ankylosing spondylitis'}"	{'nervous system disease', 'immune system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+16	rs1801274	"{""Crohn's disease"", 'Kawasaki disease', 'Inflammatory bowel disease', 'Ulcerative colitis', 'Ankylosing spondylitis', 'Systemic lupus erythematosus'}"	{'immune system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+17	rs2310173	{'Ulcerative colitis', 'Ankylosing spondylitis'}	{'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+18	rs2836883	{'Primary sclerosing cholangitis', 'Ankylosing spondylitis'}	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+19	rs2910686	{'Psoriasis', 'Ankylosing spondylitis'}	{'immune system disease'}	Late-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+20	rs4129267	{'Asthma', 'Ankylosing spondylitis'}	{'respiratory system disease', 'immune system disease'}	Early-Late Antagonistic	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+21	rs6871626	{'Ulcerative colitis', 'Inflammatory bowel disease', 'Ankylosing spondylitis'}	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+22	rs7282490	"{'Ulcerative colitis', 'Inflammatory bowel disease', ""Crohn's disease"", 'Ankylosing spondylitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+23	rs7954567	"{""Crohn's disease"", 'Ankylosing spondylitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+24	rs10455872	{'Coronary heart disease', 'Myocardial infarction', 'Aortic valve stenosis'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+25	rs1295686	{'Asthma', 'Atopic dermatitis'}	{'respiratory system disease', 'immune system disease'}	Early-Early Agonistic	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+26	rs1701704	{'Asthma', 'Type 1 diabetes'}	{'respiratory system disease', 'immune system disease'}	Early-Early Antagonistic	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+27	rs2305480	{'Asthma', 'Ulcerative colitis'}	{'respiratory system disease', 'immune system disease'}	Early-Early Antagonistic	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+28	rs3019885	{'Asthma', 'Lung cancer'}	{'respiratory system disease', 'neoplasm'}	Early-Late Agonistic	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+29	rs907092	{'Asthma', 'Primary biliary cholangitis'}	{'respiratory system disease', 'endocrine system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+30	rs13015714	{'Celiac disease', 'Atopic dermatitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+31	rs2228145	{'Atopic dermatitis', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+32	rs4821544	"{'Atopic dermatitis', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+33	rs6010620	{'Atopic dermatitis', 'Glioma'}	{'immune system disease', 'neoplasm'}	Early-Early Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+34	rs7927894	"{'Atopic dermatitis', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+35	rs1126809	{'Basal cell carcinoma', 'Squamous cell carcinoma', 'Cutaneous squamous cell carcinoma', 'Vitiligo'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+36	rs12203592	{'Basal cell carcinoma', 'Squamous cell carcinoma', 'Cutaneous squamous cell carcinoma', 'Vitiligo'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+37	rs1805007	{'Basal cell carcinoma', 'Melanoma', 'Cutaneous squamous cell carcinoma'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+38	rs35407	{'Basal cell carcinoma', 'Melanoma', 'Cutaneous squamous cell carcinoma'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+39	rs401681	{'Bladder cancer', 'Lung cancer', 'Pancreatic cancer', 'Melanoma', 'Basal cell carcinoma'}	{'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+40	rs6059655	{'Squamous cell carcinoma', 'Vitiligo', 'Cutaneous squamous cell carcinoma', 'Melanoma', 'Basal cell carcinoma'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+41	rs78378222	{'Glioblastoma', 'Basal cell carcinoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+42	rs17810546	"{'Celiac disease', ""Behcet's disease""}"	{'digestive system disease', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+43	rs7616215	"{'Celiac disease', ""Behcet's disease""}"	{'digestive system disease', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+44	rs1006737	{'Schizophrenia', 'Bipolar disorder'}	{'nervous system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+45	rs6550435	{'Schizophrenia', 'Bipolar disorder'}	{'nervous system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+46	rs10936599	{'Celiac disease', 'Bladder cancer', 'Multiple sclerosis', 'Colorectal cancer', 'Multiple myeloma', 'Chronic lymphocytic leukemia'}	{'nervous system disease', 'neoplasm', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+47	rs2294008	{'Duodenal ulcer', 'Bladder cancer', 'Gastric cancer'}	{'neoplasm', 'digestive system disease'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+48	rs907611	{'Inflammatory bowel disease', 'Bladder cancer', 'Ulcerative colitis'}	{'immune system disease', 'neoplasm', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+49	rs10069690	{'Glioblastoma', 'Breast cancer', 'Glioma', 'Epithelial ovarian cancer', 'Thyroid cancer'}	{'reproductive system disease', 'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+50	rs17879961	{'Breast cancer', 'Lung cancer'}	{'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+51	rs2363956	{'Ovarian cancer', 'Breast cancer'}	{'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+52	rs4245739	{'Breast cancer', 'Prostate cancer'}	{'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+53	rs4784227	"{'Breast cancer', ""Parkinson's disease""}"	{'nervous system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+54	rs7107217	{'Type 2 diabetes', 'Breast cancer'}	{'metabolic disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+55	rs74911261	{'Breast cancer', 'Renal cell carcinoma'}	{'neoplasm', 'kidney disease'}	Late-Late Antagonistic	0	0	0	0	1	0	0	1	0	0	0	0	0	0
+56	rs8170	{'Epithelial ovarian cancer', 'Breast cancer', 'Ovarian cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+57	rs13003464	"{'Celiac disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+58	rs1464510	{'Celiac disease', 'Vitiligo'}	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+59	rs1738074	{'Celiac disease', 'Multiple sclerosis'}	{'nervous system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+60	rs1893217	"{'Celiac disease', ""Crohn's disease"", 'Type 1 diabetes', 'Inflammatory bowel disease', 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+61	rs2187668	{'Cutaneous lupus erythematosus', 'Celiac disease', 'Sarcoidosis', 'Systemic lupus erythematosus'}	{'respiratory system disease', 'skin disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	1	0	0	1	0	0	0	1	0	0	0	0
+62	rs2327832	{'Celiac disease', 'Systemic lupus erythematosus'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+63	rs3184504	{'Celiac disease', 'Hypothyroidism', 'Type 1 diabetes', 'Coronary heart disease', 'Endometrial cancer', 'Primary sclerosing cholangitis', 'Colorectal cancer', 'Rheumatoid arthritis'}	{'endocrine system disease', 'digestive system disease', 'cardiovascular disease', 'skeletal system disease', 'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	1	1	0	0	0	0
+64	rs653178	"{'Celiac disease', ""Crohn's disease"", 'Type 1 diabetes', 'Sarcoidosis', 'Inflammatory bowel disease', 'Peripheral artery disease', 'Systemic lupus erythematosus', 'Myocardial infarction'}"	{'cardiovascular disease', 'respiratory system disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	1	0	0	1	0	0	1	1	0	0	0	0
+65	rs6974491	{'Celiac disease', 'Primary biliary cholangitis'}	{'endocrine system disease', 'neoplasm', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+66	rs802734	{'Celiac disease', 'Multiple sclerosis'}	{'nervous system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+67	rs917997	{'Celiac disease', 'Inflammatory bowel disease'}	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+68	rs8067378	{'Cervical cancer', 'Primary biliary cholangitis'}	{'endocrine system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+69	rs10028805	{'Systemic lupus erythematosus', 'Chronic lymphocytic leukemia'}	{'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+70	rs139996880	{'Melanoma', 'Chronic lymphocytic leukemia'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+71	rs140522	{'Multiple sclerosis', 'Chronic lymphocytic leukemia'}	{'nervous system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+72	rs735665	{'Follicular lymphoma', 'Chronic lymphocytic leukemia'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+73	rs7705526	{'Epithelial ovarian cancer', 'Lung cancer', 'Chronic lymphocytic leukemia'}	{'reproductive system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+74	rs9880772	{'Rheumatoid arthritis', 'Chronic lymphocytic leukemia'}	{'skeletal system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+75	rs2076295	{'Idiopathic pulmonary fibrosis', 'Chronic obstructive pulmonary disease'}	{'respiratory system disease', 'neoplasm'}	Late-Late Antagonistic	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+76	rs8034191	{'Lung cancer', 'Chronic obstructive pulmonary disease'}	{'respiratory system disease', 'neoplasm'}	Late-Late Agonistic	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+77	rs56848936	{'Colon cancer', 'Colorectal cancer'}	{'neoplasm', 'digestive system disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+78	rs10505477	{'Prostate cancer', 'Colorectal cancer'}	{'neoplasm', 'digestive system disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+79	rs174537	"{""Crohn's disease"", 'Colorectal cancer'}"	{'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+80	rs6983267	{'Prostate cancer', 'Colorectal cancer'}	{'neoplasm', 'digestive system disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+81	rs7758229	{'Prostate cancer', 'Colorectal cancer'}	{'neoplasm', 'digestive system disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+82	rs10738607	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+83	rs10774625	{'Coronary heart disease', 'Systemic lupus erythematosus'}	{'immune system disease', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	1	0	0	0	0	0
+84	rs11066015	{'Coronary heart disease', 'Esophageal cancer'}	{'neoplasm', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+85	rs11066280	{'Coronary heart disease', 'Esophageal cancer'}	{'neoplasm', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+86	rs11206510	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+87	rs1122608	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+88	rs11556924	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+89	rs12413409	{'Intracranial aneurysm', 'Coronary heart disease'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+90	rs12541758	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+91	rs16880442	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+92	rs16986953	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+93	rs1746048	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+94	rs17465637	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+95	rs17514846	{'Schizophrenia', 'Coronary heart disease'}	{'nervous system disease', 'cardiovascular disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+96	rs17678683	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+97	rs180803	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+98	rs1870634	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+99	rs2107595	{'Coronary heart disease', 'Ischemic stroke', 'Moyamoya disease'}	{'Abnormality of the nervous system', 'cardiovascular disease', 'Moyamoya disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+100	rs2505083	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+101	rs2681472	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+102	rs28451064	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+103	rs2891168	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+104	rs4977574	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+105	rs56062135	{'Thyroid cancer', 'Coronary heart disease'}	{'endocrine system disease', 'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+106	rs646776	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+107	rs671	{'Intracranial aneurysm', 'Coronary heart disease', 'Esophageal cancer', 'Metabolic syndrome'}	{'metabolic disease', 'neoplasm', 'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	1	1	0	0	0	0
+108	rs6725887	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+109	rs7212798	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+110	rs72689147	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+111	rs72743461	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+112	rs7528419	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+113	rs7865618	{'Coronary heart disease', 'Glaucoma'}	{'nervous system disease', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+114	rs9349379	{'Migraine', 'Coronary heart disease', 'Myocardial infarction'}	{'nervous system disease', 'cardiovascular disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+115	rs9970807	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+116	rs9982601	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+117	rs9985766	{'Coronary heart disease', 'Myocardial infarction'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+118	rs10051722	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+119	rs10065637	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+120	rs10185424	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+121	rs1042058	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+122	rs10486483	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+123	rs10495903	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+124	rs10758669	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+125	rs10761659	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+126	rs10781499	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+127	rs10798069	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+128	rs11190140	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+129	rs11229555	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+130	rs11230563	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+131	rs113653754	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+132	rs11564258	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+133	rs11584383	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+134	rs116392568	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+135	rs11641184	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+136	rs11741861	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+137	rs11742570	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+138	rs11743851	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+139	rs11879191	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+140	rs12103	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+141	rs12199775	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+142	rs12422544	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+143	rs1250546	"{'Psoriasis', 'Inflammatory bowel disease', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+144	rs12718244	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+145	rs12720356	"{""Crohn's disease"", 'Psoriasis', 'Type 1 diabetes', 'Inflammatory bowel disease', 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+146	rs12722489	"{'Multiple sclerosis', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+147	rs12722515	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+148	rs1292053	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+149	rs12942547	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+150	rs12946510	"{'Multiple sclerosis', 'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'nervous system disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+151	rs12994997	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+152	rs13126505	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+153	rs13204048	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+154	rs13204742	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+155	rs13300218	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+156	rs13407913	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+157	rs1363907	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+158	rs1456896	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+159	rs1517352	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+160	rs1569328	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+161	rs16967103	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+162	rs17057051	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+163	rs17119	"{'Multiple sclerosis', 'Inflammatory bowel disease', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+164	rs17293632	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+165	rs1736135	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+166	rs17391694	"{'Lung cancer', ""Crohn's disease""}"	{'neoplasm', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+167	rs17622378	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+168	rs17694108	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+169	rs181359	"{'Psoriasis', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+170	rs1819333	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+171	rs1842076	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+172	rs1847472	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+173	rs194749	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+174	rs2024092	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+175	rs2073505	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+176	rs212388	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+177	rs2188962	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+178	rs2284553	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+179	rs2382817	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+180	rs2413583	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+181	rs2476601	"{""Crohn's disease"", 'Type 1 diabetes', 'Myasthenia gravis', 'Vitiligo', ""Graves' disease"", 'Rheumatoid arthritis', ""Hodgkin's lymphoma"", 'Hashimoto thyroiditis', 'Systemic lupus erythematosus', 'Polymyositis'}"	{'skeletal system disease', 'immune system disease', 'neoplasm', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	1	0	0	0	0
+182	rs2488389	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+183	rs2538470	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+184	rs2542151	"{'Type 1 diabetes', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+185	rs259964	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+186	rs2641348	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+187	rs26528	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+188	rs2823286	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+189	rs2836878	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+190	rs2838519	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+191	rs2872507	"{'Type 1 diabetes', 'Ulcerative colitis', ""Crohn's disease"", 'Rheumatoid arthritis'}"	{'skeletal system disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+192	rs2930047	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+193	rs2945412	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+194	rs3024505	"{""Crohn's disease"", 'Type 1 diabetes', 'Inflammatory bowel disease', 'Ulcerative colitis', 'Systemic lupus erythematosus'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+195	rs3091315	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+196	rs3091316	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+197	rs314313	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+198	rs3197999	"{'Primary sclerosing cholangitis', 'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+199	rs34856868	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+200	rs3742130	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+201	rs3749171	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+202	rs3764147	"{'Leprosy', 'Inflammatory bowel disease', ""Crohn's disease""}"	{'infectious disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+203	rs3766606	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+204	rs3853824	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+205	rs395157	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+206	rs4077515	"{'IgA nephropathy', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease', 'kidney disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	1	0	1	0	0	0	0
+207	rs423674	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+208	rs4243971	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+209	rs4246905	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+210	rs4256159	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+211	rs4409764	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+212	rs4613763	"{'Multiple sclerosis', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+213	rs4656958	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+214	rs4664304	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+215	rs4692386	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+216	rs4703855	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+217	rs4768236	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+218	rs4802307	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+219	rs4845604	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+220	rs4976646	"{'Multiple sclerosis', 'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'nervous system disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+221	rs516246	"{'Type 1 diabetes', 'Inflammatory bowel disease', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+222	rs559928	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+223	rs56167332	"{'Takayasu arteritis', 'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease', 'eye disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+224	rs5763767	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+225	rs6062504	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+226	rs6074022	"{'Multiple sclerosis', 'Inflammatory bowel disease', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+227	rs6556412	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+228	rs6568421	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+229	rs6651252	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+230	rs6679677	"{'Hypothyroidism', ""Crohn's disease"", 'Type 1 diabetes', 'Rheumatoid arthritis', 'Giant cell arteritis', 'Systemic lupus erythematosus'}"	{'endocrine system disease', 'digestive system disease', 'cardiovascular disease', 'skeletal system disease', 'immune system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	1	1	0	0	0	0
+231	rs670523	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+232	rs6708413	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+233	rs6716753	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+234	rs6738825	"{'Systemic lupus erythematosus', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+235	rs6740462	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+236	rs6856616	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+237	rs6908425	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+238	rs694739	"{""Crohn's disease"", 'Psoriasis', 'Multiple sclerosis', 'Sarcoidosis', 'Primary biliary cholangitis'}"	{'endocrine system disease', 'digestive system disease', 'nervous system disease', 'respiratory system disease', 'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	1	0	1	1	0	0	0	1	0	1	0	0
+239	rs7015630	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+240	rs7097656	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+241	rs7134472	"{""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+242	rs71559680	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+243	rs7165170	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+244	rs7236492	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+245	rs727563	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+246	rs7329174	"{'Systemic lupus erythematosus', ""Crohn's disease""}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+247	rs7438704	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+248	rs744166	"{'Multiple sclerosis', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+249	rs7517810	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+250	rs7554511	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+251	rs7555082	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+252	rs7556897	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+253	rs75900472	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+254	rs7608910	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+255	rs7657746	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+256	rs7758080	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+257	rs7765379	"{'Enteric fever', ""Crohn's disease""}"	{'infectious disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+258	rs7773324	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+259	rs780093	"{'Type 2 diabetes', ""Crohn's disease""}"	{'metabolic disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+260	rs8005161	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+261	rs864745	"{'Type 2 diabetes', ""Crohn's disease""}"	{'metabolic disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+262	rs915286	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+263	rs921720	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+264	rs925255	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+265	rs9271366	"{'Multiple sclerosis', 'Systemic lupus erythematosus', ""Crohn's disease"", 'Ulcerative colitis'}"	{'nervous system disease', 'immune system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	1	0	0
+266	rs9292777	"{'Multiple sclerosis', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+267	rs9297145	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+268	rs9525625	"{'Inflammatory bowel disease', ""Crohn's disease""}"	{'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+269	rs9868809	"{'Inflammatory bowel disease', ""Crohn's disease"", 'Ulcerative colitis'}"	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+270	rs9891119	"{'Multiple sclerosis', ""Crohn's disease""}"	{'nervous system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+271	rs505922	"{'Venous thromboembolism', 'Duodenal ulcer', 'Type 2 diabetes', 'Pancreatic cancer', ""Graves' disease""}"	{'digestive system disease', 'cardiovascular disease', 'neoplasm', 'immune system disease', 'metabolic disease'}	Late-Late Antagonistic	0	0	0	0	1	1	0	0	1	1	0	0	0	0
+272	rs38904	"{""Dupuytren's disease"", 'Inflammatory bowel disease'}"	{'skeletal system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+273	rs7524102	"{""Dupuytren's disease"", 'Ulcerative colitis'}"	{'skeletal system disease', 'immune system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+274	rs11263763	{'Prostate cancer', 'Endometrial cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+275	rs4430796	{'Type 2 diabetes', 'Prostate cancer', 'Endometrial cancer'}	{'metabolic disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+276	rs10757272	{'Intracranial aneurysm', 'Endometriosis'}	{'reproductive system disease', 'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+277	rs167769	{'Eosinophilic esophagitis', 'Eosinophilic esophagitis (pediatric)'}	{'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+278	rs10088218	{'Epithelial ovarian cancer', 'Ovarian cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+279	rs2072590	{'Epithelial ovarian cancer', 'Ovarian cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+280	rs3814113	{'Epithelial ovarian cancer', 'Ovarian cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+281	rs757210	{'Epithelial ovarian cancer', 'Ovarian cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+282	rs9303542	{'Epithelial ovarian cancer', 'Ovarian cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+283	rs10052657	{'Esophageal cancer (squamous cell)', 'Esophageal cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+284	rs1229984	{'Esophageal cancer', 'Oral cavity cancer'}	{'neoplasm', 'head and neck disorder'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+285	rs2014300	{'Esophageal cancer (squamous cell)', 'Esophageal cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+286	rs2274223	{'Esophageal cancer (squamous cell)', 'Esophageal cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+287	rs13016963	{'Esophageal cancer (squamous cell)', 'Melanoma'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+288	rs2647012	{'Systemic lupus erythematosus', 'Follicular lymphoma'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+289	rs4937362	{'Follicular lymphoma', 'Rheumatoid arthritis'}	{'skeletal system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+290	rs1260326	{'Type 2 diabetes', 'Inflammatory bowel disease', 'Hypertriglyceridemia', 'Gout', 'Gallstone disease'}	{'skeletal system disease', 'metabolic disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+291	rs8112449	{'Gastritis', 'Multiple sclerosis'}	{'nervous system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+292	rs4977756	{'Glaucoma', 'Glioma'}	{'nervous system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+293	rs10852606	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+294	rs11233250	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+295	rs11979158	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+296	rs12752552	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+297	rs2235573	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+298	rs2297440	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+299	rs35850753	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+300	rs3751667	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+301	rs3851634	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+302	rs55705857	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+303	rs59060240	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+304	rs634537	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+305	rs75061358	{'Glioblastoma', 'Glioma'}	{'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+306	rs2736100	{'Testicular cancer', 'Idiopathic pulmonary fibrosis', 'Lung cancer', 'Glioma'}	{'reproductive system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+307	rs1534422	"{'Type 1 diabetes', 'Multiple sclerosis', ""Graves' disease""}"	{'nervous system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+308	rs3761959	"{'Multiple sclerosis', ""Graves' disease"", 'Rheumatoid arthritis'}"	{'nervous system disease', 'skeletal system disease', 'immune system disease'}	Late-Late Antagonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+309	rs4409785	"{'Multiple sclerosis', 'Vitiligo', ""Graves' disease"", 'Rheumatoid arthritis'}"	{'nervous system disease', 'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+310	rs6457617	"{'Systemic sclerosis', ""Graves' disease"", 'Rheumatoid arthritis'}"	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+311	rs706779	"{'Vitiligo', ""Graves' disease""}"	{'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+312	rs72928038	"{'Type 1 diabetes', 'Multiple sclerosis', 'Vitiligo', ""Graves' disease"", 'Rheumatoid arthritis'}"	{'nervous system disease', 'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+313	rs9275572	{'Hepatocellular carcinoma', 'Systemic lupus erythematosus'}	{'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+314	rs2019960	"{""Hodgkin's lymphoma"", 'Multiple sclerosis'}"	{'nervous system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+315	rs2425752	"{""Hodgkin's lymphoma"", 'Multiple sclerosis'}"	{'nervous system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+316	rs3806624	"{""Hodgkin's lymphoma"", 'Rheumatoid arthritis'}"	{'skeletal system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+317	rs780094	{'Hypertriglyceridemia', 'Type 2 diabetes'}	{'metabolic disease'}	Late-Late Antagonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+318	rs11574637	{'Systemic lupus erythematosus', 'IgA nephropathy'}	{'immune system disease', 'kidney disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+319	rs660895	{'IgA nephropathy', 'Rheumatoid arthritis'}	{'skeletal system disease', 'kidney disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+320	rs6677604	{'Systemic lupus erythematosus', 'IgA nephropathy'}	{'immune system disease', 'kidney disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+321	rs4487645	{'Multiple myeloma', 'Immunoglobulin light chain (AL) amyloidosis'}	{'neoplasm', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+322	rs1077773	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+323	rs11054935	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+324	rs11064881	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+325	rs11083840	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+326	rs11150589	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+327	rs11168249	{'Primary sclerosing cholangitis', 'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+328	rs113010081	{'Type 1 diabetes', 'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+329	rs11554257	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+330	rs11583043	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+331	rs1182188	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+332	rs12568930	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+333	rs1569723	{'Inflammatory bowel disease', 'Kawasaki disease'}	{'immune system disease', 'digestive system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+334	rs17085007	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+335	rs17229285	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+336	rs1734907	{'Schizophrenia', 'Inflammatory bowel disease'}	{'nervous system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+337	rs17771967	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+338	rs17780256	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+339	rs2111485	{'Psoriasis', 'Type 1 diabetes', 'Inflammatory bowel disease', 'Vitiligo', 'Ulcerative colitis', 'Systemic lupus erythematosus'}	{'immune system disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+340	rs2189234	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+341	rs254560	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+342	rs2651244	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+343	rs2816958	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+344	rs3116494	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+345	rs35675666	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+346	rs4380874	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+347	rs4728142	{'Systemic lupus erythematosus', 'Inflammatory bowel disease', 'Rheumatoid arthritis', 'Ulcerative colitis'}	{'skeletal system disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+348	rs4743820	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+349	rs4812833	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+350	rs483905	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+351	rs561722	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+352	rs564349	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+353	rs6025	{'Venous thromboembolism', 'Thrombosis', 'Inflammatory bowel disease'}	{'cardiovascular disease', 'Abnormality of the nervous system', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	1	0	1	0	0
+354	rs630923	{'Multiple sclerosis', 'Inflammatory bowel disease'}	{'nervous system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+355	rs6426833	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+356	rs6667605	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+357	rs6920220	{'Systemic lupus erythematosus', 'Inflammatory bowel disease', 'Rheumatoid arthritis', 'Ulcerative colitis'}	{'skeletal system disease', 'immune system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+358	rs7011507	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+359	rs7134599	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+360	rs7240004	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+361	rs727088	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+362	rs7404095	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+363	rs913678	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+364	rs941823	{'Inflammatory bowel disease', 'Ulcerative colitis'}	{'immune system disease', 'digestive system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+365	rs113851554	{'Restless legs syndrome', 'Insomnia'}	{'nervous system disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+366	rs1333040	{'Intracranial aneurysm', 'Squamous cell carcinoma'}	{'neoplasm', 'cardiovascular disease'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+367	rs6842241	{'Peripheral artery disease', 'Intracranial aneurysm'}	{'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+368	rs17696736	{'Type 1 diabetes', 'Ischemic stroke'}	{'immune system disease', 'Abnormality of the nervous system', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+369	rs4444878	{'Thrombosis', 'Ischemic stroke'}	{'Abnormality of the nervous system', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+370	rs2254546	{'Systemic lupus erythematosus', 'Kawasaki disease'}	{'immune system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+371	rs2736340	{'Systemic lupus erythematosus', 'Kawasaki disease', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+372	rs538147	{'Primary biliary cholangitis', 'Leprosy'}	{'neoplasm', 'endocrine system disease', 'infectious disease'}	Early-Late Antagonistic	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+373	rs663743	{'Primary sclerosing cholangitis', 'Leprosy'}	{'infectious disease', 'digestive system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+374	rs116418332	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+375	rs116480994	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+376	rs116822326	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+377	rs117534741	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+378	rs138488080	{'Schizophrenia', 'Lung cancer'}	{'nervous system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+379	rs139789464	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+380	rs142618987	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+381	rs144433536	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+382	rs147680653	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+383	rs148696809	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+384	rs2395185	{'Lung cancer', 'Ulcerative colitis'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+385	rs34517439	{'Psoriasis', 'Lung cancer'}	{'immune system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+386	rs35028925	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+387	rs35768595	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+388	rs35789010	{'Systemic lupus erythematosus', 'Squamous cell carcinoma', 'Lung cancer'}	{'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+389	rs56113850	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+390	rs56404467	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+391	rs681343	{'Primary sclerosing cholangitis', 'Lung cancer'}	{'neoplasm', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+392	rs72949976	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+393	rs74942078	{'Squamous cell carcinoma', 'Lung cancer'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+394	rs7902587	{'Thyroid cancer', 'Lung cancer'}	{'endocrine system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+395	rs8176719	{'Malaria', 'Venous thromboembolism'}	{'infectious disease', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+396	rs1393350	{'Melanoma', 'Vitiligo'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+397	rs6601327	{'Multiple myeloma', 'Systemic lupus erythematosus'}	{'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+398	rs8058578	{'Multiple myeloma', 'Systemic lupus erythematosus'}	{'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+399	rs9372120	{'Multiple myeloma', 'Rheumatoid arthritis'}	{'skeletal system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+400	rs11154801	{'Multiple sclerosis', 'Systemic lupus erythematosus'}	{'nervous system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+401	rs12927355	{'Type 1 diabetes', 'Multiple sclerosis'}	{'nervous system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+402	rs1800693	{'Primary biliary cholangitis', 'Multiple sclerosis'}	{'nervous system disease', 'endocrine system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+403	rs223889	{'Multiple sclerosis', 'Systemic lupus erythematosus'}	{'nervous system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+404	rs228614	{'Multiple sclerosis', 'Primary sclerosing cholangitis'}	{'nervous system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+405	rs2288904	{'Venous thromboembolism', 'Multiple sclerosis'}	{'nervous system disease', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+406	rs2293370	{'Primary biliary cholangitis', 'Multiple sclerosis'}	{'nervous system disease', 'endocrine system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+407	rs2300747	{'Primary biliary cholangitis', 'Multiple sclerosis'}	{'nervous system disease', 'endocrine system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+408	rs2546890	{'Psoriasis', 'Primary biliary cholangitis', 'Multiple sclerosis'}	{'nervous system disease', 'endocrine system disease', 'immune system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	1	0	0
+409	rs4810485	{'Multiple sclerosis', 'Systemic lupus erythematosus', 'Rheumatoid arthritis'}	{'nervous system disease', 'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+410	rs6897932	{'Primary biliary cholangitis', 'Multiple sclerosis', 'Type 1 diabetes'}	{'nervous system disease', 'endocrine system disease', 'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	1	0	0
+411	rs71624119	{'Multiple sclerosis', 'Rheumatoid arthritis'}	{'nervous system disease', 'skeletal system disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+412	rs7200786	{'Multiple sclerosis', 'Systemic lupus erythematosus'}	{'nervous system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+413	rs7665090	{'Primary biliary cholangitis', 'Multiple sclerosis'}	{'nervous system disease', 'endocrine system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+414	rs793108	{'Multiple sclerosis', 'Rheumatoid arthritis'}	{'nervous system disease', 'skeletal system disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+415	rs1150757	{'Systemic lupus erythematosus', 'Neuromyelitis optica'}	{'nervous system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+416	rs13107325	{'Schizophrenia', 'Osteoarthritis'}	{'nervous system disease', 'skeletal system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+417	rs1561927	{'Type 2 diabetes', 'Pancreatic cancer'}	{'metabolic disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+418	rs11175834	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+419	rs1874564	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+420	rs34081947	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+421	rs4649295	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+422	rs4915076	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+423	rs6996585	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+424	rs72753537	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+425	rs9858271	{'Thyroid cancer', 'Papillary thyroid cancer'}	{'endocrine system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+426	rs10488631	{'Primary biliary cholangitis', 'Systemic lupus erythematosus', 'Systemic sclerosis', 'Rheumatoid arthritis'}	{'endocrine system disease', 'skeletal system disease', 'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+427	rs11065979	{'Psoriasis', 'Primary biliary cholangitis'}	{'endocrine system disease', 'immune system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+428	rs12531711	{'Primary biliary cholangitis', 'Systemic lupus erythematosus'}	{'endocrine system disease', 'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+429	rs2304256	{'Type 1 diabetes', 'Primary biliary cholangitis', 'Systemic lupus erythematosus'}	{'endocrine system disease', 'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+430	rs7404928	{'Primary biliary cholangitis', 'Rheumatoid arthritis'}	{'endocrine system disease', 'skeletal system disease', 'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+431	rs7574865	{'Primary biliary cholangitis', 'Systemic lupus erythematosus', 'Systemic sclerosis', 'Rheumatoid arthritis'}	{'endocrine system disease', 'skeletal system disease', 'immune system disease', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+432	rs911263	{'Primary biliary cholangitis', 'Systemic lupus erythematosus', 'Rheumatoid arthritis'}	{'endocrine system disease', 'skeletal system disease', 'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+433	rs1893592	{'Primary sclerosing cholangitis', 'Rheumatoid arthritis'}	{'skeletal system disease', 'digestive system disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+434	rs103294	{'Takayasu arteritis', 'Prostate cancer'}	{'neoplasm', 'eye disease'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+435	rs11651052	{'Type 2 diabetes', 'Prostate cancer'}	{'metabolic disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+436	rs7501939	{'Prostate cancer', 'Testicular cancer'}	{'reproductive system disease', 'neoplasm'}	Late-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+437	rs12191877	{'Psoriasis', 'Psoriatic arthritis'}	{'immune system disease'}	Late-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+438	rs2201841	{'Psoriasis', 'Ulcerative colitis'}	{'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+439	rs2451258	{'Psoriasis', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Late-Late Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+440	rs33980500	{'Psoriasis', 'Psoriatic arthritis'}	{'immune system disease'}	Late-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+441	rs4683946	{'Psoriasis', 'Psoriatic arthritis'}	{'immune system disease'}	Late-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+442	rs4795067	{'Psoriasis', 'Psoriatic arthritis'}	{'immune system disease'}	Late-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+443	rs13017599	{'Psoriatic arthritis', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Late-Late Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+444	rs10774624	{'Vitiligo', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+445	rs10795791	{'Type 1 diabetes', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+446	rs11203203	{'Vitiligo', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+447	rs11889341	{'Systemic lupus erythematosus', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+448	rs2230926	{'Systemic lupus erythematosus', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+449	rs3087243	{'Type 1 diabetes', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+450	rs35677470	{'Systemic sclerosis', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+451	rs58721818	{'Systemic lupus erythematosus', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+452	rs71508903	{'Vitiligo', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+453	rs743777	{'Type 1 diabetes', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+454	rs7579944	{'Systemic lupus erythematosus', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+455	rs947474	{'Type 1 diabetes', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+456	rs9653442	{'Type 1 diabetes', 'Rheumatoid arthritis'}	{'skeletal system disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+457	rs1150754	{'Schizophrenia', 'Systemic lupus erythematosus'}	{'nervous system disease', 'immune system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	0	0	1	0	0
+458	rs2796441	{'Schizophrenia', 'Type 2 diabetes'}	{'nervous system disease', 'metabolic disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	0	1	0	1	0	0
+459	rs67682613	{'Schizophrenia', 'Small cell lung carcinoma'}	{'nervous system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+460	rs3813565	{'Small cell lung carcinoma', 'Squamous cell carcinoma'}	{'neoplasm'}	Late-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+461	rs4268748	{'Squamous cell carcinoma', 'Vitiligo'}	{'immune system disease', 'neoplasm'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+462	rs1990760	{'Type 1 diabetes', 'Systemic lupus erythematosus'}	{'immune system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+463	rs229541	{'Type 1 diabetes', 'Systemic lupus erythematosus'}	{'immune system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+464	rs3024493	{'Systemic lupus erythematosus', 'Ulcerative colitis'}	{'immune system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+465	rs61839660	{'Type 1 diabetes', 'Systemic lupus erythematosus'}	{'immune system disease'}	Early-Early Antagonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+466	rs77583790	{'Systemic lupus erythematosus', 'Systemic sclerosis'}	{'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+467	rs9373839	{'Systemic lupus erythematosus', 'Systemic sclerosis'}	{'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+468	rs1799963	{'Venous thromboembolism', 'Thrombosis'}	{'Abnormality of the nervous system', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+469	rs529565	{'Venous thromboembolism', 'Thrombosis'}	{'Abnormality of the nervous system', 'cardiovascular disease'}	Late-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+470	rs10758593	{'Type 1 diabetes', 'Type 2 diabetes'}	{'immune system disease', 'metabolic disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
+471	rs17388568	{'Type 1 diabetes', 'Ulcerative colitis'}	{'immune system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+472	rs3757247	{'Type 1 diabetes', 'Vitiligo'}	{'immune system disease'}	Early-Early Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+473	rs7202877	{'Type 1 diabetes', 'Type 2 diabetes'}	{'immune system disease', 'metabolic disease'}	Early-Late Antagonistic	0	0	0	0	0	1	0	0	0	1	0	0	0	0
