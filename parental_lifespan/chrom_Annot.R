@@ -94,3 +94,15 @@ kpPlotRegions(kp, cardio, col="pink")
 cardio <- toGRanges(data.frame(chr=cardio_domains$Chr, start=cardio_domains$Start,
                                end=cardio_domains$Start+1))
 kpPlotRegions(kp, cardio, col="darkgreen")
+
+
+
+##########################3333
+#############################
+#####SNP GENOME-WIDE ENRICHMENT SOFTWARE########3
+################################33
+
+if (!requireNamespace("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install("traseR")
