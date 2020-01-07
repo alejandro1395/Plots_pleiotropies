@@ -21,10 +21,11 @@ library(readr)
 library(dplyr)
 library(reshape2)
 library(tibble)
+library("gplots")
 
 ###############
 ###############
-#PHENOTIPIC DB#
+#PLEIOS DB#
 ###############
 
 #Import Phenotypes from AnAge
@@ -62,7 +63,7 @@ chisq.test(Counts_table)
 
 
 Counts_table<-Counts_table %>% rownames_to_column('new_column')
-Counts_table_filtered = Counts_table[ rowSums(Counts_table)!=0, ]
+Counts_table_filtered <- Counts_table[rowSums(Counts_table)!=0, ]
 
 
 #MOSAIC PLOT
@@ -100,8 +101,75 @@ for (i in 1:nrow(Counts_table_filtered)){
 
 #adjust FDR
 names(pvalues) <- as.character(rownames(Counts_table_filtered))
+Counts_table_filtered$type <- ifelse(as.numeric(as.character(Counts_table_filtered$Agonistic)) 
+                                     >= as.numeric(as.character(Counts_table_filtered$Antagonistic)),
+                                     "agon", "antagon")
 corrected_pvalues <- p.adjust(pvalues, method = "bonferroni", n = length(pvalues))
 sorted_corrected_pvalues <- sort(corrected_pvalues)
 pleios_df <- as.data.frame(cbind(names(sorted_corrected_pvalues), as.numeric(sorted_corrected_pvalues)))
 colnames(pleios_df) <- c("Combined_diseases", "Corrected_pval")
+for ( i in 1:length(pleios_df$Combined_diseases)){
+  subset <- Counts_table_filtered[which(rownames(Counts_table_filtered) == as.character(pleios_df$Combined_diseases[i])),]
+  pleios_df$type[i]  <- subset$type
+}
+
 View(pleios_df) 
+
+
+
+
+
+
+
+####################################
+####################################
+###HEATMAP de las interacciones####
+####################################
+
+library(pheatmap)
+
+###########
+#AGONISM###
+###########
+
+library("RColorBrewer")
+
+Counts_table_filtered[c('domainA','domainB')] <- colsplit(rownames(Counts_table_filtered),'_',c('domainA','domainB'))
+pleios_matrix_agon <- as.data.frame(cbind(Counts_table_filtered$domainA, Counts_table_filtered$domainB, 
+                                     as.numeric(as.character(Counts_table_filtered$Agonistic))), stringsAsFactors = FALSE)
+subset_repeated <- as.data.frame(cbind(Counts_table_filtered$domainB, Counts_table_filtered$domainA, 
+                                       as.numeric(as.character(Counts_table_filtered$Agonistic))))
+subset_repeated <- subset_repeated[which(as.character(subset_repeated$V1) != as.character(subset_repeated$V2)),]
+pleios_matrix_df <- rbind(pleios_matrix_agon, subset_repeated)
+pleios_matrix_df <- pleios_matrix_df[order(pleios_matrix_df$V3, decreasing = TRUE),]
+pleios_matrix <- acast(pleios_matrix_df, 
+                       V1~V2, value.var="V3")
+pleios_matrix[is.na(pleios_matrix)] = 0
+mode(pleios_matrix) = "numeric"
+
+my_palette <- colorRampPalette(c("green", "orange"))
+heatmap.2(pleios_matrix, Rowv=FALSE, trace="none", col=brewer.pal(n = 9, name = "Purples"),
+          scale='none', symm =T,
+          cexRow=0.9, cexCol=0.9, margins = c(8,8))
+
+##############
+##ANTAGONISM##
+##############
+
+subset_repeated <- as.data.frame(cbind(Counts_table_filtered$domainB, Counts_table_filtered$domainA, 
+                                       as.numeric(as.character(Counts_table_filtered$Antagonistic))))
+subset_repeated <- subset_repeated[which(as.character(subset_repeated$V1) != as.character(subset_repeated$V2)),]
+pleios_matrix_anta <- as.data.frame(cbind(Counts_table_filtered$domainA, Counts_table_filtered$domainB, 
+                                          as.numeric(as.character(Counts_table_filtered$Antagonistic))),
+                                    stringsAsFactors = FALSE)
+pleios_matrix_df <- rbind(pleios_matrix_anta, subset_repeated)
+pleios_matrix_df <- pleios_matrix_df[order(pleios_matrix_df$V3, decreasing = TRUE),]
+pleios_matrix <- acast(pleios_matrix_df, 
+                       V1~V2, value.var="V3")
+pleios_matrix[is.na(pleios_matrix)] = 0
+mode(pleios_matrix) = "numeric"
+
+my_palette <- colorRampPalette(c("green", "orange"))
+heatmap.2(pleios_matrix, Rowv=FALSE, trace="none", col=brewer.pal(n = 10, name = "YlOrBr"),
+          scale='none', symm =T,
+          cexRow=0.9, cexCol=0.9, margins = c(8,8))

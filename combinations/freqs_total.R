@@ -1,9 +1,6 @@
 ##########################################
 ##########################################
-###RScript to make correlations between###
-###Data of Primates from AnAge for their###
-###lifespan and the computed ortholog ####
-####lengths from ensembl#################
+###RScript to make disease DOMAINS study#################
 ###########################################
 
 #IMPORT libraries
@@ -191,9 +188,6 @@ pleios_matrix[is.na(pleios_matrix)] = 1
 mode(pleios_matrix) = "numeric"
 
 
-my_palette <- colorRampPalette(c("lightyellow", "yellow","orange", "darkred"))
-heatmap.2(pleios_matrix, Rowv=FALSE, trace="none", col = heat.colors(5), scale='none', symm =T,
-          cexRow=0.9, cexCol=0.9, margins = c(8,8))
 
 
 
