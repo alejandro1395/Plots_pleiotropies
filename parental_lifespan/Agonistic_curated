@@ -1,0 +1,126 @@
+rs1317286			A		parental longevity	78896129	unit increase	rs55853698	Small cell lung carcinoma	cancer	G	60	small cell lung carcinoma	78857939	[1.256072968-1.416074239]	1029	15
+rs1317286			A		parental longevity	78896129	unit increase	rs1051730	Lung cancer	cancer	A	40	lung adenocarcinoma	78894339	[1.27-1.36]	1044	15
+rs1317286			A		parental longevity	78896129	unit increase	rs8040868	Squamous cell carcinoma	cancer	C	70	squamous cell lung carcinoma	78911181	[1.243425108-1.339233734]	1056	15
+rs11552449			C		parental longevity	114448389	[0.0075-0.0193] unit increase	rs7513707	Breast cancer	cancer	A	55	breast carcinoma	114445880	[0.039-0.071] unit increase	1661	1
+rs11065979	Primary biliary cholangitis	cancer	T	39	primary biliary cirrhosis	112059557	[1.13-1.27]	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	4172	12
+rs11065979	Primary biliary cholangitis	cancer	T	39	primary biliary cirrhosis	112059557	[1.13-1.27]	rs7137828			C		parental longevity	111932800	unit decrease	4202	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs11065987	Primary biliary cholangitis	cancer	G	39	primary biliary cirrhosis	112072424	NR	4274	12
+rs11065979	Primary biliary cholangitis	cancer	T	39	primary biliary cirrhosis	112059557	[1.13-1.27]	rs11513729			C		parental longevity	112273499	[0.011-0.02] unit increase	4276	12
+rs11513729			C		parental longevity	112273499	[0.011-0.02] unit increase	rs11065987	Primary biliary cholangitis	cancer	G	39	primary biliary cirrhosis	112072424	NR	6162	12
+rs951266			G		parental longevity	78878541	[0.017-0.03] unit increase	rs55853698	Small cell lung carcinoma	cancer	G	60	small cell lung carcinoma	78857939	[1.256072968-1.416074239]	6910	15
+rs951266			G		parental longevity	78878541	[0.017-0.03] unit increase	rs1051730	Lung cancer	cancer	A	40	lung adenocarcinoma	78894339	[1.27-1.36]	6916	15
+rs951266			G		parental longevity	78878541	[0.017-0.03] unit increase	rs8040868	Squamous cell carcinoma	cancer	C	70	squamous cell lung carcinoma	78911181	[1.243425108-1.339233734]	6937	15
+rs11065987	Primary biliary cholangitis	cancer	G	39	primary biliary cirrhosis	112072424	NR	rs17696736			A		parental longevity	112486818	[0.01-0.019] unit increase	8010	12
+rs1051730	Lung cancer	cancer	A	40	lung adenocarcinoma	78894339	[1.27-1.36]	rs8042849			C		parental longevity	78817929	years decrease	8967	15
+rs8042849			C		parental longevity	78817929	years decrease	rs55853698	Small cell lung carcinoma	cancer	G	60	small cell lung carcinoma	78857939	[1.256072968-1.416074239]	12924	15
+rs56289821	Coronary heart disease	cardio	G	50	coronary artery disease	11188247	[1.11- 1.18]	rs6511720			G		parental longevity	11202306	[0.0096-0.0234] unit decrease	279	19
+rs10455872	Aortic valve stenosis	cardio	G	75	aortic stenosis	161010118	[1.37-1.56]	rs55730499			T		parental longevity	161005610	years decrease	378	6
+rs10455872	Coronary heart disease	cardio	G	50	coronary artery disease	161010118	[1.27-1.36]	rs55730499			T		parental longevity	161005610	years decrease	384	6
+rs10455872	Myocardial infarction	cardio	G	50	myocardial infarction	161010118	[1.27-1.4]	rs55730499			T		parental longevity	161005610	years decrease	390	6
+rs2891168	Coronary heart disease	cardio	A	50	coronary artery disease	22098619	[0.18-0.2] unit decrease	rs1556516			G		parental longevity	22100176	unit increase	538	9
+rs2891168	Myocardial infarction	cardio	G	50	myocardial infarction	22098619	[1.19-1.23]	rs1556516			G		parental longevity	22100176	unit increase	542	9
+rs2891168	Coronary heart disease	cardio	A	50	coronary artery disease	22098619	[0.18-0.2] unit decrease	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	546	9
+rs2891168	Myocardial infarction	cardio	G	50	myocardial infarction	22098619	[1.19-1.23]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	547	9
+rs10738607	Coronary heart disease	cardio	G	50	coronary artery disease	22088094	[NR]	rs1556516			G		parental longevity	22100176	unit increase	614	9
+rs10738607	Myocardial infarction	cardio	G	50	myocardial infarction	22088094	[NR]	rs1556516			G		parental longevity	22100176	unit increase	618	9
+rs10738607	Coronary heart disease	cardio	G	50	coronary artery disease	22088094	[NR]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	622	9
+rs10738607	Myocardial infarction	cardio	G	50	myocardial infarction	22088094	[NR]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	623	9
+rs11673093	Coronary heart disease	cardio	A	50	coronary artery disease	45742094	[0.033-0.061] unit increase	rs74444983			T		parental longevity	45745607	[0.0094-0.0192] unit increase	841	19
+rs4845625	Coronary heart disease	cardio	T	50	coronary artery disease	154422067	[0.034-0.056] unit increase	rs6689306			A		parental longevity	154395946	[0.0066-0.0156] unit decrease	1021	1
+rs17724992			A		parental longevity	18454825	[0.0075-0.0173] unit decrease	rs113230003	Coronary heart disease	cardio	A	50	coronary artery disease	18460956	[0.019-0.047] unit decrease	1076	19
+rs10774625	Coronary heart disease	cardio	A	50	coronary artery disease	111910219	[1.05-1.08]	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	1847	12
+rs10774625	Coronary heart disease	cardio	A	50	coronary artery disease	111910219	[1.05-1.08]	rs7137828			C		parental longevity	111932800	unit decrease	1863	12
+rs602633			T		parental longevity	109821511	unit increase	rs7528419	Coronary heart disease	cardio	A	50	coronary artery disease	109817192	[1.09-1.14]	1912	1
+rs602633			T		parental longevity	109821511	unit increase	rs7528419	Myocardial infarction	cardio	A	50	myocardial infarction	109817192	[1.08-1.13]	1913	1
+rs602633			T		parental longevity	109821511	unit increase	rs12740374	Coronary heart disease	cardio	T	50	coronary artery disease	109817590	[0.11-0.14] unit decrease	1918	1
+rs602633			T		parental longevity	109821511	unit increase	rs646776	Coronary heart disease	cardio	T	50	coronary heart disease	109818530	[1.22-1.44]	1924	1
+rs602633			T		parental longevity	109821511	unit increase	rs646776	Myocardial infarction	cardio	T	50	myocardial infarction	109818530	[1.13-1.26]	1925	1
+rs602633			T		parental longevity	109821511	unit increase	rs599839	Coronary heart disease	cardio	A	50	coronary heart disease	109822166	[1.08-1.15]	1930	1
+rs6475606	Intracranial aneurysm	cardio	T	50	brain aneurysm	22081850	[NR]	rs1556516			G		parental longevity	22100176	unit increase	2078	9
+rs6475606	Intracranial aneurysm	cardio	T	50	brain aneurysm	22081850	[NR]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	2082	9
+rs633185			G		parental longevity	100593538	[0.0063-0.0161] unit increase	rs604723	Coronary heart disease	cardio	T	50	coronary artery disease	100610546	[0.026-0.054] unit decrease	2086	11
+rs12118721	Myocardial infarction	cardio	T	50	myocardial infarction	154397416	[1.04-1.08]	rs6689306			A		parental longevity	154395946	[0.0066-0.0156] unit decrease	2875	1
+rs10757274	Coronary heart disease	cardio	G	50	coronary heart disease	22096055	[1.31-1.43]	rs1556516			G		parental longevity	22100176	unit increase	3236	9
+rs10757274	Coronary heart disease	cardio	G	50	coronary heart disease	22096055	[1.31-1.43]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	3241	9
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Coronary heart disease	cardio	T	50	coronary artery disease	111884608	[0.061-0.087] unit increase	4193	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs7137828	Coronary heart disease	cardio	T	50	coronary artery disease	111932800	[0.053-0.076] unit decrease	4221	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Myocardial infarction	cardio	C	50	myocardial infarction	112007756	[1.06-1.1]	4263	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Peripheral artery disease	cardio	C	50	peripheral arterial disease	112007756	[1.13-1.32]	4264	12
+rs17630235			G		parental longevity	112591686	[0.01-0.019] unit increase	rs17696736	Ischemic stroke	cardio	G	65	stroke	112486818	[1.06-1.14]	4756	12
+rs3184504	Coronary heart disease	cardio	T	50	coronary artery disease	111884608	[0.061-0.087] unit increase	rs7137828			C		parental longevity	111932800	unit decrease	4969	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Myocardial infarction	cardio	C	50	myocardial infarction	112007756	[1.06-1.1]	5101	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Peripheral artery disease	cardio	C	50	peripheral arterial disease	112007756	[1.13-1.32]	5102	12
+rs55791371	Coronary heart disease	cardio	A	50	coronary artery disease	11188153	[0.098-0.134] unit increase	rs6511720			G		parental longevity	11202306	[0.0096-0.0234] unit decrease	5432	19
+rs55791371	Myocardial infarction	cardio	A	50	myocardial infarction	11188153	[1.07-1.15]	rs6511720			G		parental longevity	11202306	[0.0096-0.0234] unit decrease	5435	19
+rs10757272	Intracranial aneurysm	cardio	T	50	brain aneurysm	22088260	[1.133-1.30]	rs1556516			G		parental longevity	22100176	unit increase	6146	9
+rs10757272	Intracranial aneurysm	cardio	T	50	brain aneurysm	22088260	[1.133-1.30]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6151	9
+rs11513729			C		parental longevity	112273499	[0.011-0.02] unit increase	rs17696736	Ischemic stroke	cardio	G	65	stroke	112486818	[1.06-1.14]	6164	12
+rs4977574	Coronary heart disease	cardio	A	50	coronary artery disease	22098574	[0.17-0.19] unit decrease	rs1556516			G		parental longevity	22100176	unit increase	6481	9
+rs4977574	Myocardial infarction	cardio	G	50	myocardial infarction	22098574	[1.25-1.34]	rs1556516			G		parental longevity	22100176	unit increase	6485	9
+rs4977574	Coronary heart disease	cardio	A	50	coronary artery disease	22098574	[0.17-0.19] unit decrease	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6489	9
+rs4977574	Myocardial infarction	cardio	G	50	myocardial infarction	22098574	[1.25-1.34]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6490	9
+rs17514846			C		parental longevity	91416550	unit increase	rs2071382	Coronary heart disease	cardio	T	50	coronary artery disease	91428197	[1.05-1.08]	6615	15
+rs10757278	Myocardial infarction	cardio	G	50	myocardial infarction	22124477	[1.22-1.35]	rs1556516			G		parental longevity	22100176	unit increase	7095	9
+rs10757278	Myocardial infarction	cardio	G	50	myocardial infarction	22124477	[1.22-1.35]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	7099	9
+rs10757278	Myocardial infarction	cardio	G	50	myocardial infarction	22124477	[1.22-1.35]	rs1333045			T		parental longevity	22119195	[0.0071-0.0181] unit increase	7102	9
+rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	rs1537370	Coronary heart disease	cardio	T	50	coronary artery calcification	22084310	[0.38-0.69] unit increase	7896	9
+rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	rs944797	Coronary heart disease	cardio	C	50	coronary heart disease	22115286	[1.18-1.31]	7911	9
+rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	rs2383207	Abdominal aortic aneurysm	cardio	G	50	Abdominal Aortic Aneurysm	22115959	[NR]	7912	9
+rs17696736	Ischemic stroke	cardio	G	65	stroke	112486818	[1.06-1.14]	rs11066309			G		parental longevity	112883476	[0.01-0.019] unit increase	10113	12
+rs653178	Myocardial infarction	cardio	C	50	myocardial infarction	112007756	[1.06-1.1]	rs7137828			C		parental longevity	111932800	unit decrease	10263	12
+rs653178	Peripheral artery disease	cardio	C	50	peripheral arterial disease	112007756	[1.13-1.32]	rs7137828			C		parental longevity	111932800	unit decrease	10270	12
+rs1537370	Coronary heart disease	cardio	T	50	coronary artery calcification	22084310	[0.38-0.69] unit increase	rs1556516			G		parental longevity	22100176	unit increase	11163	9
+rs2383207	Abdominal aortic aneurysm	cardio	G	50	Abdominal Aortic Aneurysm	22115959	[NR]	rs1556516			G		parental longevity	22100176	unit increase	11645	9
+rs2383207	Abdominal aortic aneurysm	cardio	G	50	Abdominal Aortic Aneurysm	22115959	[NR]	rs1333045			T		parental longevity	22119195	[0.0071-0.0181] unit increase	11651	9
+rs944797	Coronary heart disease	cardio	C	50	coronary heart disease	22115286	[1.18-1.31]	rs1556516			G		parental longevity	22100176	unit increase	12230	9
+rs944797	Coronary heart disease	cardio	C	50	coronary heart disease	22115286	[1.18-1.31]	rs1333045			T		parental longevity	22119195	[0.0071-0.0181] unit increase	12236	9
+rs597808	Hypothyroidism	endocrine	A	60	hypothyroidism	111973358	[0.13-0.23] unit increase	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	4085	12
+rs597808	Hypothyroidism	endocrine	A	60	hypothyroidism	111973358	[0.13-0.23] unit increase	rs7137828			C		parental longevity	111932800	unit decrease	4105	12
+rs597808	Hypothyroidism	endocrine	A	60	hypothyroidism	111973358	[0.13-0.23] unit increase	rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	4136	12
+rs4713555	Atopic dermatitis	immune	G	1	atopic eczema	32575524		rs28383322			C		parental longevity	32592796	unit decrease	1724	6
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Type 1 diabetes	immune	T	4	type I diabetes mellitus	111884608	[NR]	4198	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Type 1 diabetes	immune	C	4	type I diabetes mellitus	112007756		4267	12
+rs17630235			G		parental longevity	112591686	[0.01-0.019] unit increase	rs17696736	Type 1 diabetes	immune	G	4	type I diabetes mellitus	112486818		4758	12
+rs3184504	Type 1 diabetes	immune	T	4	type I diabetes mellitus	111884608	[NR]	rs7137828			C		parental longevity	111932800	unit decrease	5004	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Type 1 diabetes	immune	C	4	type I diabetes mellitus	112007756		5105	12
+rs11513729			C		parental longevity	112273499	[0.011-0.02] unit increase	rs17696736	Type 1 diabetes	immune	G	4	type I diabetes mellitus	112486818		6166	12
+rs17696736	Type 1 diabetes	immune	G	4	type I diabetes mellitus	112486818		rs11066309			G		parental longevity	112883476	[0.01-0.019] unit increase	10115	12
+rs653178	Type 1 diabetes	immune	C	4	type I diabetes mellitus	112007756		rs7137828			C		parental longevity	111932800	unit decrease	10291	12
+rs10774624	Vitiligo	immune	G	19	Vitiligo	111833788	[1.2-1.33]	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	45	12
+rs10774624	Vitiligo	immune	G	19	Vitiligo	111833788	[1.2-1.33]	rs7137828			C		parental longevity	111932800	unit decrease	63	12
+rs10774625	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	111910219	[1.08–1.18]	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	1856	12
+rs10774625	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	111910219	[1.08–1.18]	rs7137828			C		parental longevity	111932800	unit decrease	1870	12
+rs597808	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	111973358	[NR]	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	4094	12
+rs597808	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	111973358	[NR]	rs7137828			C		parental longevity	111932800	unit decrease	4112	12
+rs597808	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	111973358	[NR]	rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	4140	12
+rs11065979	Psoriasis	immune	T	28	psoriasis	112059557		rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	4190	12
+rs11065979	Psoriasis	immune	T	28	psoriasis	112059557		rs7137828			C		parental longevity	111932800	unit decrease	4216	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Systemic lupus erythematosus	immune	C	19	systemic lupus erythematosus	112007756	[1.08-1.20]	4266	12
+rs11065979	Psoriasis	immune	T	28	psoriasis	112059557		rs11513729			C		parental longevity	112273499	[0.011-0.02] unit increase	4278	12
+rs17630235	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	112591686	[1.06-1.18]	rs11513729			C		parental longevity	112273499	[0.011-0.02] unit increase	4750	12
+rs17630235	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	112591686	[1.06-1.18]	rs17696736			A		parental longevity	112486818	[0.01-0.019] unit increase	4755	12
+rs17630235	Systemic lupus erythematosus	immune	A	19	systemic lupus erythematosus	112591686	[1.06-1.18]	rs11066309			G		parental longevity	112883476	[0.01-0.019] unit increase	4760	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Systemic lupus erythematosus	immune	C	19	systemic lupus erythematosus	112007756	[1.08-1.20]	5104	12
+rs653178	Systemic lupus erythematosus	immune	C	19	systemic lupus erythematosus	112007756	[1.08-1.20]	rs7137828			C		parental longevity	111932800	unit decrease	10284	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Celiac disease	metabolic	C	8	celiac disease	112007756	[1.15-1.24]	4260	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Celiac disease	metabolic	C	8	celiac disease	112007756	[1.15-1.24]	5098	12
+rs653178	Celiac disease	metabolic	C	8	celiac disease	112007756	[1.15-1.24]	rs7137828			C		parental longevity	111932800	unit decrease	10242	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Primary sclerosing cholangitis	metabolic	T	20	sclerosing cholangitis	111884608	[1.13-1.24]	4196	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Crohn's disease	metabolic	C	15	Crohn's disease	112007756	[1.04-1.09]	4262	12
+rs3184504	Primary sclerosing cholangitis	metabolic	T	20	sclerosing cholangitis	111884608	[1.13-1.24]	rs7137828			C		parental longevity	111932800	unit decrease	4990	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Crohn's disease	metabolic	C	15	Crohn's disease	112007756	[1.04-1.09]	5100	12
+rs653178	Crohn's disease	metabolic	C	15	Crohn's disease	112007756	[1.04-1.09]	rs7137828			C		parental longevity	111932800	unit decrease	10256	12
+rs1317286			A		parental longevity	78896129	unit increase	rs8034191	Chronic obstructive pulmonary disease	respiratory	C	40	chronic obstructive pulmonary disease	78806023	[1.18-1.67]	1023	15
+rs1317286			A		parental longevity	78896129	unit increase	rs17486278	Chronic obstructive pulmonary disease	respiratory	C	40	chronic obstructive pulmonary disease	78867482	[1.15,1.22]	1032	15
+rs1317286			A		parental longevity	78896129	unit increase	rs12914385	Chronic obstructive pulmonary disease	respiratory	T	40	chronic obstructive pulmonary disease	78898723	[1.29-1.51]	1053	15
+rs17486278	Chronic obstructive pulmonary disease	respiratory	C	40	chronic obstructive pulmonary disease	78867482	[1.15,1.22]	rs8042849			C		parental longevity	78817929	years decrease	3926	15
+rs17486278	Chronic obstructive pulmonary disease	respiratory	C	40	chronic obstructive pulmonary disease	78867482	[1.15,1.22]	rs951266			G		parental longevity	78878541	[0.017-0.03] unit increase	3928	15
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Sarcoidosis	respiratory	C	25	Sarcoidosis	112007756	[1.14-1.27]	4265	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Sarcoidosis	respiratory	C	25	Sarcoidosis	112007756	[1.14-1.27]	5103	12
+rs951266			G		parental longevity	78878541	[0.017-0.03] unit increase	rs8034191	Chronic obstructive pulmonary disease	respiratory	C	40	chronic obstructive pulmonary disease	78806023	[1.18-1.67]	6904	15
+rs951266			G		parental longevity	78878541	[0.017-0.03] unit increase	rs12914385	Chronic obstructive pulmonary disease	respiratory	T	40	chronic obstructive pulmonary disease	78898723	[1.29-1.51]	6934	15
+rs653178	Sarcoidosis	respiratory	C	25	Sarcoidosis	112007756	[1.14-1.27]	rs7137828			C		parental longevity	111932800	unit decrease	10277	12
+rs8034191	Chronic obstructive pulmonary disease	respiratory	C	40	chronic obstructive pulmonary disease	78806023	[1.18-1.67]	rs8042849			C		parental longevity	78817929	years decrease	10975	15
+rs10774624	Rheumatoid arthritis	skeletal	G	35	rheumatoid arthritis	111833788	[1.06-1.13]	rs7137828			C		parental longevity	111932800	unit decrease	56	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Rheumatoid arthritis	skeletal	T	35	rheumatoid arthritis	111884608	[NR]	4197	12
+rs3184504	Rheumatoid arthritis	skeletal	T	35	rheumatoid arthritis	111884608	[NR]	rs7137828			C		parental longevity	111932800	unit decrease	4997	12

@@ -22,6 +22,7 @@ barplot(sort(table(all_domains), decreasing = TRUE), col="darkgreen")
 
 #In random panorama:
 
+ordered_domains <- sort(table(all_domains), decreasing=TRUE)
 expected_domains <- rep(sum(ordered_domains)/length(ordered_domains), length(ordered_domains))
 
 pvalues <- c()
@@ -39,7 +40,6 @@ corrected_pvalues <- p.adjust(pvalues, method = "bonferroni", n = length(pvalues
 
 
 #ggplot version
-ordered_domains <- sort(table(all_domains), decreasing=TRUE)
 histogram_domains <- as.data.frame(cbind(names(ordered_domains),ordered_domains, corrected_pvalues))
 ggplot(data=histogram_domains, 
        aes(x=reorder(V1, -as.numeric(as.character(ordered_domains))), 

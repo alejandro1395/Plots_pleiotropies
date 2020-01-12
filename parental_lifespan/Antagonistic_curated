@@ -1,0 +1,18 @@
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Endometrial cancer	cancer	C	58	endometrial carcinoma	111884608	[1.07-1.14]	4194	12
+rs3184504	Endometrial cancer	cancer	C	58	endometrial carcinoma	111884608	[1.07-1.14]	rs7137828			C		parental longevity	111932800	unit decrease	4976	12
+rs10757274	Abdominal aortic aneurysm	cardio	A	50	Abdominal Aortic Aneurysm	22096055	[1.20-1.29]	rs1556516			G		parental longevity	22100176	unit increase	3232	9
+rs10757274	Abdominal aortic aneurysm	cardio	A	50	Abdominal Aortic Aneurysm	22096055	[1.20-1.29]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	3240	9
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs35350651	Allergic rhinitis	immune	C	8	allergic rhinitis	111907431	[1.03-1.05]	4933	12
+rs35350651	Allergic rhinitis	immune	C	8	allergic rhinitis	111907431	[1.03-1.05]	rs7137828			C		parental longevity	111932800	unit decrease	8700	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs653178	Chronic kidney disease	kidney	T	60	cystatin C measurement, chronic kidney disease	112007756	[0.009-0.017] unit increase	4261	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Chronic kidney disease	kidney	T	60	cystatin C measurement, chronic kidney disease	112007756	[0.009-0.017] unit increase	5099	12
+rs653178	Chronic kidney disease	kidney	T	60	cystatin C measurement, chronic kidney disease	112007756	[0.009-0.017] unit increase	rs7137828			C		parental longevity	111932800	unit decrease	10249	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Celiac disease	metabolic	C	8	celiac disease	111884608		4191	12
+rs3184504	Celiac disease	metabolic	C	8	celiac disease	111884608		rs7137828			C		parental longevity	111932800	unit decrease	4955	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs3184504	Colorectal cancer	metabolic	C	50	colorectal cancer	111884608	[1.05-1.1]	4192	12
+rs3184504	Colorectal cancer	metabolic	C	50	colorectal cancer	111884608	[1.05-1.1]	rs7137828			C		parental longevity	111932800	unit decrease	4962	12
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit increase	rs7137828	Glaucoma	nervous	T	40	open-angle glaucoma	111932800	NR	4222	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs7137828	Glaucoma	nervous	T	40	open-angle glaucoma	111932800	NR	5010	12
+rs17514846			C		parental longevity	91416550	unit increase	rs11539637	Schizophrenia	nervous	T	13	schizophrenia	91428290	[1.04-1.08]	6619	15
+rs10757272	Endometriosis	reproductive	C	21	endometriosis	22088260	1.04-1.10	rs1556516			G		parental longevity	22100176	unit increase	6142	9
+rs10757272	Endometriosis	reproductive	C	21	endometriosis	22088260	1.04-1.10	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6150	9

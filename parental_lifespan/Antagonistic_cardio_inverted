@@ -1,0 +1,20 @@
+rs2891168	Myocardial infarction		G	50	myocardial infarction	22098619	[1.19-1.23]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	547	9
+rs10738607	Coronary heart disease		G	50	coronary artery disease	22088094	[NR]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	622	9
+rs10738607	Myocardial infarction		G	50	myocardial infarction	22088094	[NR]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	623	9
+rs17724992			A		parental longevity	18454825	[0.0075-0.0173] unit increase	rs113230003	Coronary heart disease		A	50	coronary artery disease	18460956	[0.019-0.047] unit decrease	1076	19
+rs10774625	Coronary heart disease		A	50	coronary artery disease	111910219	[1.05-1.08]	rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	1847	12
+rs6475606	Intracranial aneurysm		T	50	brain aneurysm	22081850	[NR]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	2082	9
+rs633185			G		parental longevity	100593538	[0.0063-0.0161] unit decrease	rs604723	Coronary heart disease		T	50	coronary artery disease	100610546	[0.026-0.054] unit decrease	2086	11
+rs10757274	Coronary heart disease		G	50	coronary heart disease	22096055	[1.31-1.43]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	3241	9
+rs11065979			C		parental longevity	112059557	[0.011-0.02] unit decrease	rs7137828	Coronary heart disease		T	50	coronary artery disease	111932800	[0.053-0.076] unit decrease	4221	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Myocardial infarction		C	50	myocardial infarction	112007756	[1.06-1.1]	5101	12
+rs3184504			T		parental longevity	111884608	[0.0094-0.0196] unit decrease	rs653178	Peripheral artery disease		C	50	peripheral arterial disease	112007756	[1.13-1.32]	5102	12
+rs10757272	Intracranial aneurysm		T	50	brain aneurysm	22088260	[1.133-1.30]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6151	9
+rs4977574	Myocardial infarction		G	50	myocardial infarction	22098574	[1.25-1.34]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	6490	9
+rs10757278	Myocardial infarction		G	50	myocardial infarction	22124477	[1.22-1.35]	rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	7099	9
+rs10757278	Myocardial infarction		G	50	myocardial infarction	22124477	[1.22-1.35]	rs1333045			T		parental longevity	22119195	[0.0071-0.0181] unit increase	7102	9
+rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	rs1537370	Coronary heart disease		T	50	coronary artery calcification	22084310	[0.38-0.69] unit increase	7896	9
+rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	rs944797	Coronary heart disease		C	50	coronary heart disease	22115286	[1.18-1.31]	7911	9
+rs1333042			A		parental longevity	22103813	[0.0073-0.0151] unit increase	rs2383207	Abdominal aortic aneurysm		G	50	Abdominal Aortic Aneurysm	22115959	[NR]	7912	9
+rs2383207	Abdominal aortic aneurysm		G	50	Abdominal Aortic Aneurysm	22115959	[NR]	rs1333045			T		parental longevity	22119195	[0.0071-0.0181] unit increase	11651	9
+rs944797	Coronary heart disease		C	50	coronary heart disease	22115286	[1.18-1.31]	rs1333045			T		parental longevity	22119195	[0.0071-0.0181] unit increase	12236	9

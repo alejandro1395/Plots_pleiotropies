@@ -1,0 +1,15 @@
+	SNP	Disease	Group	PleioType	skin	skeletal	respiratory	reproductive	cancer	immune	infectious	kidney	cardio	metabolic	headneck	nervous	eye	endocrine
+0	rs602633	{'Abdominal aortic aneurysm', 'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+1	rs6511720	{'Abdominal aortic aneurysm', 'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+2	rs10455872	{'Myocardial infarction', 'Aortic valve stenosis', 'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+3	rs11552449	{'Breast cancer', 'parental longevity'}	{'parental longevity', 'neoplasm'}	Early-Late Agonistic	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+4	rs3184504	{'Primary sclerosing cholangitis', 'parental longevity', 'Type 1 diabetes', 'Endometrial cancer', 'Celiac disease', 'Rheumatoid arthritis', 'Colorectal cancer', 'Coronary heart disease'}	{'neoplasm', 'skeletal system disease', 'digestive system disease', 'parental longevity', 'cardiovascular disease', 'immune system disease'}	Early-Late Antagonistic	0	0	0	0	1	1	0	0	1	1	0	0	0	0
+5	rs4014195	{'Chronic kidney disease', 'parental longevity'}	{'parental longevity', 'kidney disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+6	rs17514846	{'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+7	rs186696265	{'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+8	rs55730499	{'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+9	rs6689306	{'parental longevity', 'Coronary heart disease'}	{'parental longevity', 'cardiovascular disease'}	Early-Late Agonistic	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+10	rs7137828	{'parental longevity', 'Coronary heart disease', 'Glaucoma'}	{'parental longevity', 'cardiovascular disease', 'nervous system disease'}	Early-Late Antagonistic	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+11	rs17696736	{'Ischemic stroke', 'parental longevity', 'Type 1 diabetes'}	{'parental longevity', 'Abnormality of the nervous system', 'cardiovascular disease', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	1	0	0	1	0	0
+12	rs11065979	{'Primary biliary cholangitis', 'Psoriasis', 'parental longevity'}	{'parental longevity', 'endocrine system disease', 'neoplasm', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	1	1	0	0	0	0	0	0	0	0
+13	rs17630235	{'parental longevity', 'Systemic lupus erythematosus'}	{'parental longevity', 'immune system disease'}	Early-Late Agonistic	0	0	0	0	0	1	0	0	0	0	0	0	0	0
